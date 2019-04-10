@@ -1,0 +1,357 @@
+ 8037 xpcproxy	Created        /private/var/tmp/cy-jO4Dn2.dylib	
+ 8037 xpcproxy	Deleted        /private/var/tmp/cy-jO4Dn2.dylib	
+ 8037 xpcproxy	Modified       /private/var/tmp/cy-jO4Dn2.dylib	
+ 8037 xpcproxy	Created        /private/var/tmp/cy-qurtCZ.dylib	
+ 8037 xpcproxy	Deleted        /private/var/tmp/cy-qurtCZ.dylib	
+ 8037 xpcproxy	Modified       /private/var/tmp/cy-qurtCZ.dylib	
+ 8039 	Modified       /private/var/root/out.exec	
+  286 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.QJOTQbn	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.QJOTQbn	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.QJOTQbn	
+  286 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KYr7wZm	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KYr7wZm	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KYr7wZm	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.QJOTQbn	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.QJOTQbn	
+  286 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.QJOTQbn	
+  286 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.QJOTQbn	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KYr7wZm	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KYr7wZm	
+  286 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KYr7wZm	
+  286 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KYr7wZm	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+  259 configd	Created        /private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4-	
+  259 configd	Renamed        /private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4-	/private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4 
+  259 configd	Modified       /private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4	
+ 8041 xpcproxy	Created        /private/var/tmp/cy-TZXkAU.dylib	
+ 8041 xpcproxy	Deleted        /private/var/tmp/cy-TZXkAU.dylib	
+ 8041 xpcproxy	Modified       /private/var/tmp/cy-TZXkAU.dylib	
+ 8041 xpcproxy	Created        /private/var/tmp/cy-tEmDXW.dylib	
+ 8041 xpcproxy	Deleted        /private/var/tmp/cy-tEmDXW.dylib	
+ 8041 xpcproxy	Modified       /private/var/tmp/cy-tEmDXW.dylib	
+ 8043 bash	Modified       /private/var/run/utmpx	
+ 8043 bash	Modified       /private/var/root/.bash_history	
+ 8043 bash	Changed stat   /private/var/root/.bash_history	
+ 8043 bash	Modified       /private/var/root/.bash_history	
+ 8041 sshd	Modified       /private/var/run/utmpx	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.3G5o58	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.3G5o58	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.3G5o58	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids.db-wal	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids.db-shm	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids.db-wal	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids.db	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-c.db	
+  286 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.calaccessd.plist.1qsq5sA	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.calaccessd.plist.1qsq5sA	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.calaccessd.plist.1qsq5sA	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-a.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-a.db-wal	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids-a.db-shm	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids-a.db-wal	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids-a.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-c.db-wal	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids-c.db-shm	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids-c.db-wal	
+  466 identityservices	Modified       /private/var/mobile/Library/IdentityServices/ids-c.db	
+ 7966 SpringBoard	Changed stat   /private/var/mobile/Library/Calendar/Extras.db-shm	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.calaccessd.plist.1qsq5sA	
+  286 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.calaccessd.plist.1qsq5sA	
+  286 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.calaccessd.plist.1qsq5sA	
+  286 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.calaccessd.plist.1qsq5sA	/private/var/mobile/Library/Preferences/com.apple.calaccessd.plist 
+ 7966 SpringBoard	Modified       /private/var/mobile/Library/Calendar/Extras.db-shm	
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButtonCircle-High.cpbitmap.sFI9eQ	
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButtonCircle-High.cpbitmap.sFI9eQ.g7eQTU	
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButtonCircle-High.cpbitmap.sFI9eQ.g7eQTU	/private/var/tmp/SBNotificationsClearButtonCircle-High.cpbitmap.sFI9eQ 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButtonCircle-High.cpbitmap.sFI9eQ	
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButtonCircle-High.cpbitmap.sFI9eQ	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButtonCircle-High.cpbitmap 
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButtonX-High.cpbitmap.tvQps6	
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButtonX-High.cpbitmap.tvQps6.fxQMNS	
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButtonX-High.cpbitmap.tvQps6.fxQMNS	/private/var/tmp/SBNotificationsClearButtonX-High.cpbitmap.tvQps6 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButtonX-High.cpbitmap.tvQps6	
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButtonX-High.cpbitmap.tvQps6	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButtonX-High.cpbitmap 
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButtonCompositeCircleX-High.cpbitmap.fUf1eU	
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButtonCompositeCircleX-High.cpbitmap.fUf1eU.rZqJqb	
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButtonCompositeCircleX-High.cpbitmap.fUf1eU.rZqJqb	/private/var/tmp/SBNotificationsClearButtonCompositeCircleX-High.cpbitmap.fUf1eU 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButtonCompositeCircleX-High.cpbitmap.fUf1eU	
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButtonCompositeCircleX-High.cpbitmap.fUf1eU	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButtonCompositeCircleX-High.cpbitmap 
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-0.cpbitmap.8PotXo	
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-4.cpbitmap.jzM7jm	
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-3.cpbitmap.vGhryc	
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-2.cpbitmap.icZHOu	
+ 7966 SpringBoard	Created        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-1.cpbitmap.LWDbF5	
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-3.cpbitmap.vGhryc.X8iIuT	
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-0.cpbitmap.8PotXo.1JtKeA	
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-4.cpbitmap.jzM7jm.E5uyJo	
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-0.cpbitmap.8PotXo.1JtKeA	/private/var/tmp/SBNotificationsClearButton-Clear-High-0-0.cpbitmap.8PotXo 
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-3.cpbitmap.vGhryc.X8iIuT	/private/var/tmp/SBNotificationsClearButton-Clear-High-0-3.cpbitmap.vGhryc 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButton-Clear-High-0-0.cpbitmap.8PotXo	
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-0.cpbitmap.8PotXo	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButton-Clear-High-0-0.cpbitmap 
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-1.cpbitmap.LWDbF5.OsOtiu	
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-1.cpbitmap.LWDbF5.OsOtiu	/private/var/tmp/SBNotificationsClearButton-Clear-High-0-1.cpbitmap.LWDbF5 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButton-Clear-High-0-1.cpbitmap.LWDbF5	
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-1.cpbitmap.LWDbF5	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButton-Clear-High-0-1.cpbitmap 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButton-Clear-High-0-3.cpbitmap.vGhryc	
+ 7966 SpringBoard	Created        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-2.cpbitmap.icZHOu.hpuk58	
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-4.cpbitmap.jzM7jm.E5uyJo	/private/var/tmp/SBNotificationsClearButton-Clear-High-0-4.cpbitmap.jzM7jm 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButton-Clear-High-0-4.cpbitmap.jzM7jm	
+ 7966 SpringBoard	Renamed        /private/var/tmp/.SBNotificationsClearButton-Clear-High-0-2.cpbitmap.icZHOu.hpuk58	/private/var/tmp/SBNotificationsClearButton-Clear-High-0-2.cpbitmap.icZHOu 
+ 7966 SpringBoard	Modified       /private/var/tmp/SBNotificationsClearButton-Clear-High-0-2.cpbitmap.icZHOu	
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-3.cpbitmap.vGhryc	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButton-Clear-High-0-3.cpbitmap 
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-2.cpbitmap.icZHOu	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButton-Clear-High-0-2.cpbitmap 
+ 7966 SpringBoard	Renamed        /private/var/tmp/SBNotificationsClearButton-Clear-High-0-4.cpbitmap.jzM7jm	/private/var/mobile/Library/Caches/com.apple.springboard.sharedimagecache/Session/SBNotificationsClearButton-Clear-High-0-4.cpbitmap 
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.9UmuX6	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.9UmuX6	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.9UmuX6	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.e9sUxM	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.e9sUxM	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.e9sUxM	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.Epuhbp	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.Epuhbp	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.Epuhbp	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.px7w8N	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.px7w8N	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.px7w8N	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.HmN23I	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.HmN23I	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.HmN23I	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.E8OUoY	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.E8OUoY	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.E8OUoY	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.7muO3f	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.7muO3f	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.7muO3f	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.RLTS8N	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.RLTS8N	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.RLTS8N	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.h0qTCy	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.h0qTCy	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.h0qTCy	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.bwgK71	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.bwgK71	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.bwgK71	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+ 8047 xpcproxy	Created        /private/var/tmp/cy-fj1L41.dylib	
+ 8047 xpcproxy	Deleted        /private/var/tmp/cy-fj1L41.dylib	
+ 8047 xpcproxy	Modified       /private/var/tmp/cy-fj1L41.dylib	
+ 8047 xpcproxy	Created        /private/var/tmp/cy-U4GAH7.dylib	
+ 8047 xpcproxy	Deleted        /private/var/tmp/cy-U4GAH7.dylib	
+ 8047 xpcproxy	Modified       /private/var/tmp/cy-U4GAH7.dylib	
+ 8051 xpcproxy	Created        /private/var/tmp/cy-L0malR.dylib	
+ 8051 xpcproxy	Deleted        /private/var/tmp/cy-L0malR.dylib	
+ 8051 xpcproxy	Modified       /private/var/tmp/cy-L0malR.dylib	
+ 8051 xpcproxy	Created        /private/var/tmp/cy-Xev8nj.dylib	
+ 8051 xpcproxy	Deleted        /private/var/tmp/cy-Xev8nj.dylib	
+ 8051 xpcproxy	Modified       /private/var/tmp/cy-Xev8nj.dylib	
+ 8055 xpcproxy	Created        /private/var/tmp/cy-GvCyUw.dylib	
+ 8055 xpcproxy	Deleted        /private/var/tmp/cy-GvCyUw.dylib	
+ 8055 xpcproxy	Modified       /private/var/tmp/cy-GvCyUw.dylib	
+ 8055 xpcproxy	Created        /private/var/tmp/cy-zHU4pM.dylib	
+ 8055 xpcproxy	Deleted        /private/var/tmp/cy-zHU4pM.dylib	
+ 8055 xpcproxy	Modified       /private/var/tmp/cy-zHU4pM.dylib	
+ 8057 bash	Modified       /private/var/run/utmpx	
+ 7966 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.MPCS64lg	
+ 7966 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116839838031344481769046	
+ 7966 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.MPCS64lg	
+ 7966 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.MPCS64lg	
+ 7966 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.MPCS64lg	
+ 7966 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.MPCS64lg	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116831226304367052767831 
+ 8057 	Modified       /private/var/root/.bash_history	
+ 8057 	Changed stat   /private/var/root/.bash_history	
+ 8057 	Modified       /private/var/root/.bash_history	
+ 8055 sshd	Modified       /private/var/run/utmpx	
+ 8062 xpcproxy	Created        /private/var/tmp/cy-tzEH2E.dylib	
+ 8062 xpcproxy	Deleted        /private/var/tmp/cy-tzEH2E.dylib	
+ 8062 xpcproxy	Modified       /private/var/tmp/cy-tzEH2E.dylib	
+ 8062 xpcproxy	Created        /private/var/tmp/cy-5zXU2T.dylib	
+ 8062 xpcproxy	Deleted        /private/var/tmp/cy-5zXU2T.dylib	
+ 8062 xpcproxy	Modified       /private/var/tmp/cy-5zXU2T.dylib	
+ 8066 xpcproxy	Created        /private/var/tmp/cy-JKQbRr.dylib	
+ 8066 xpcproxy	Deleted        /private/var/tmp/cy-JKQbRr.dylib	
+ 8066 xpcproxy	Modified       /private/var/tmp/cy-JKQbRr.dylib	
+ 8066 xpcproxy	Created        /private/var/tmp/cy-Dilndl.dylib	
+ 8066 xpcproxy	Deleted        /private/var/tmp/cy-Dilndl.dylib	
+ 8066 xpcproxy	Modified       /private/var/tmp/cy-Dilndl.dylib	
+ 8070 xpcproxy	Created        /private/var/tmp/cy-QBMqqK.dylib	
+ 8070 xpcproxy	Deleted        /private/var/tmp/cy-QBMqqK.dylib	
+ 8070 xpcproxy	Modified       /private/var/tmp/cy-QBMqqK.dylib	
+ 8070 xpcproxy	Created        /private/var/tmp/cy-E5QyJ0.dylib	
+ 8070 xpcproxy	Deleted        /private/var/tmp/cy-E5QyJ0.dylib	
+ 8070 xpcproxy	Modified       /private/var/tmp/cy-E5QyJ0.dylib	
+  370 routined	Created        /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Modified       /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Deleted        /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Created        /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Modified       /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Deleted        /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Created        /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Modified       /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+  370 routined	Deleted        /private/var/mobile/Library/Caches/com.apple.routined/cache_encryptedB.db-journal	
+ 8074 xpcproxy	Created        /private/var/tmp/cy-HEil0L.dylib	
+ 8074 xpcproxy	Deleted        /private/var/tmp/cy-HEil0L.dylib	
+ 8074 xpcproxy	Modified       /private/var/tmp/cy-HEil0L.dylib	
+ 8074 xpcproxy	Created        /private/var/tmp/cy-BuVDPu.dylib	
+ 8074 xpcproxy	Deleted        /private/var/tmp/cy-BuVDPu.dylib	
+ 8074 xpcproxy	Modified       /private/var/tmp/cy-BuVDPu.dylib	
+ 7966 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.Nheb8fQA	
+ 7966 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116831226304367052767831	
+ 7966 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.Nheb8fQA	
+ 7966 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.Nheb8fQA	
+ 7966 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.Nheb8fQA	
+ 7966 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.Nheb8fQA	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/1720130734502461168311061321463333318232 
+ 8078 xpcproxy	Created        /private/var/tmp/cy-46TGum.dylib	
+ 8078 xpcproxy	Deleted        /private/var/tmp/cy-46TGum.dylib	
+ 8078 xpcproxy	Modified       /private/var/tmp/cy-46TGum.dylib	
+ 8078 xpcproxy	Created        /private/var/tmp/cy-sqD7Ux.dylib	
+ 8078 xpcproxy	Deleted        /private/var/tmp/cy-sqD7Ux.dylib	
+ 8078 xpcproxy	Modified       /private/var/tmp/cy-sqD7Ux.dylib	
+ 8082 xpcproxy	Created        /private/var/tmp/cy-aXG8YD.dylib	
+ 8082 xpcproxy	Deleted        /private/var/tmp/cy-aXG8YD.dylib	
+ 8082 xpcproxy	Modified       /private/var/tmp/cy-aXG8YD.dylib	
+ 8082 xpcproxy	Created        /private/var/tmp/cy-XFFeSc.dylib	
+ 8082 xpcproxy	Deleted        /private/var/tmp/cy-XFFeSc.dylib	
+ 8082 xpcproxy	Modified       /private/var/tmp/cy-XFFeSc.dylib	
+ 8086 xpcproxy	Created        /private/var/tmp/cy-orUMsU.dylib	
+ 8086 xpcproxy	Deleted        /private/var/tmp/cy-orUMsU.dylib	
+ 8086 xpcproxy	Modified       /private/var/tmp/cy-orUMsU.dylib	
+ 8086 xpcproxy	Created        /private/var/tmp/cy-HIbQyI.dylib	
+ 8086 xpcproxy	Deleted        /private/var/tmp/cy-HIbQyI.dylib	
+ 8086 xpcproxy	Modified       /private/var/tmp/cy-HIbQyI.dylib	
+ 8088 bash	Modified       /private/var/run/utmpx	
+ 8088 bash	Modified       /private/var/root/.bash_history	
+ 8088 bash	Changed stat   /private/var/root/.bash_history	
+ 8088 bash	Modified       /private/var/root/.bash_history	
+ 8086 	Modified       /private/var/run/utmpx	
+  466 identityservices	Chowned        /private/var/mobile/Library/IdentityServices/ids-a.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-a.db-shm	
+  466 identityservices	Chowned        /private/var/mobile/Library/IdentityServices/ids-c.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-c.db-shm	
+  466 identityservices	Chowned        /private/var/mobile/Library/IdentityServices/ids.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids.db-shm	
+ 8094 sshd	Created        /private/var/tmp/cy-8OKaGC.dylib	
+ 8094 sshd	Deleted        /private/var/tmp/cy-8OKaGC.dylib	
+ 8094 sshd	Modified       /private/var/tmp/cy-8OKaGC.dylib	
+ 8094 sshd	Created        /private/var/tmp/cy-Rk4r5B.dylib	
+ 8094 sshd	Deleted        /private/var/tmp/cy-Rk4r5B.dylib	
+ 8094 sshd	Modified       /private/var/tmp/cy-Rk4r5B.dylib	
+ 8098 xpcproxy	Created        /private/var/tmp/cy-hu3Nwq.dylib	
+ 8098 xpcproxy	Deleted        /private/var/tmp/cy-hu3Nwq.dylib	
+ 8098 xpcproxy	Modified       /private/var/tmp/cy-hu3Nwq.dylib	
+ 8098 xpcproxy	Created        /private/var/tmp/cy-UlvvcU.dylib	
+ 8098 xpcproxy	Deleted        /private/var/tmp/cy-UlvvcU.dylib	
+ 8098 xpcproxy	Modified       /private/var/tmp/cy-UlvvcU.dylib	
+ 8102 xpcproxy	Created        /private/var/tmp/cy-mKkCb5.dylib	
+ 8102 xpcproxy	Deleted        /private/var/tmp/cy-mKkCb5.dylib	
+ 8102 xpcproxy	Modified       /private/var/tmp/cy-mKkCb5.dylib	
+ 8102 xpcproxy	Created        /private/var/tmp/cy-ZR7ZzT.dylib	
+ 8102 xpcproxy	Deleted        /private/var/tmp/cy-ZR7ZzT.dylib	
+ 8102 xpcproxy	Modified       /private/var/tmp/cy-ZR7ZzT.dylib	
+ 8104 bash	Modified       /private/var/run/utmpx	
+ 7966 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/1720130734502461168311061321463333318232	
+ 7966 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116832449594485904317017 
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.WqLGHd	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.WqLGHd	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.WqLGHd	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library6 xpcproxy	Modified       /private/var/tmp/cy-orUMsU.dylib	
+ 8086 xpcproxy	Created        /private/var/tmp/cy-HIbQyI.dylib	
+ 8086 xpcproxy	Deleted        /private/var/tmp/cy-HIbQyI.dylib	
+ 8086 xpcproxy	Modified       /private/var/tmp/cy-HIbQyI.dylib	
+ 8088 bash	Modified       /private/var/run/utmpx	
+ 8088 bash	Modified       /private/var/root/.bash_history	
+ 8088 bash	Changed stat   /private/var/root/.bash_history	
+ 8088 bash	Modified       /private/var/root/.bash_history	
+ 8086 	Modified       /private/var/run/utmpx	
+  466 identityservices	Chowned        /private/var/mobile/Library/IdentityServices/ids-a.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-a.db-shm	
+  466 identityservices	Chowned        /private/var/mobile/Library/IdentityServices/ids-c.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids-c.db-shm	
+  466 identityservices	Chowned        /private/var/mobile/Library/IdentityServices/ids.db	
+  466 identityservices	Changed stat   /private/var/mobile/Library/IdentityServices/ids.db-shm	
+ 8094 sshd	Created        /private/var/tmp/cy-8OKaGC.dylib	
+ 8094 sshd	Deleted        /private/var/tmp/cy-8OKaGC.dylib	
+ 8094 sshd	Modified       /private/var/tmp/cy-8OKaGC.dylib	
+ 8094 sshd	Created        /private/var/tmp/cy-Rk4r5B.dylib	
+ 8094 sshd	Deleted        /private/var/tmp/cy-Rk4r5B.dylib	
+ 8094 sshd	Modified       /private/var/tmp/cy-Rk4r5B.dylib	
+ 8098 xpcproxy	Created        /private/var/tmp/cy-hu3Nwq.dylib	
+ 8098 xpcproxy	Deleted        /private/var/tmp/cy-hu3Nwq.dylib	
+ 8098 xpcproxy	Modified       /private/var/tmp/cy-hu3Nwq.dylib	
+ 8098 xpcproxy	Created        /private/var/tmp/cy-UlvvcU.dylib	
+ 8098 xpcproxy	Deleted        /private/var/tmp/cy-UlvvcU.dylib	
+ 8098 xpcproxy	Modified       /private/var/tmp/cy-UlvvcU.dylib	
+ 8102 xpcproxy	Created        /private/var/tmp/cy-mKkCb5.dylib	
+ 8102 xpcproxy	Deleted        /private/var/tmp/cy-mKkCb5.dylib	
+ 8102 xpcproxy	Modified       /private/var/tmp/cy-mKkCb5.dylib	
+ 8102 xpcproxy	Created        /private/var/tmp/cy-ZR7ZzT.dylib	
+ 8102 xpcproxy	Deleted        /private/var/tmp/cy-ZR7ZzT.dylib	
+ 8102 xpcproxy	Modified       /private/var/tmp/cy-ZR7ZzT.dylib	
+ 8104 bash	Modified       /private/var/run/utmpx	
+ 7966 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/1720130734502461168311061321463333318232	
+ 7966 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	
+ 7966 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.hgVze3dw	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116832449594485904317017 
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.WqLGHd	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.WqLGHd	
+  494 timed	Renamed        /private/var/mobile/Library/Caches/.dat.nosync01ee.WqLGHd	/private/var/mobile/Library/Caches/com.apple.timed.plist 
+  494 timed	Chowned        /private/var/mobile/Library/Caches/com.apple.timed.plist	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Modified       /private/var/mobile/Library/Logs/CoreTime.log	
+  494 timed	Created        /private/var/mobile/Library/Caches/.dat.nosync01ee.MxLrg8	
+  494 timed	Modified       /private/var/mobile/Library/Caches/.dat.nosync01ee.MxLrg8	
+  494 timed	Renamed        /private/var/mobil

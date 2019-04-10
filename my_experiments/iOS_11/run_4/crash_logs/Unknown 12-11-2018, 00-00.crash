@@ -1,0 +1,16 @@
+Date/Time:       2018-11-12 00:00:00 +0200
+OS Version:      iPhone OS 11.0.3 (Build 15A432)
+Architecture:    arm64
+Report Version:  19
+
+Event:           disk writes
+Action taken:    none
+Start time:      2018-11-12 00:00:00 +0200
+End time:        2018-11-12 05:50:00 +0200
+Duration:        21000s
+Steps:           0 (10.5 MB/step)
+
+Hardware model:  iPhone7,2
+Active cpus:     2
+
+Binary Images:

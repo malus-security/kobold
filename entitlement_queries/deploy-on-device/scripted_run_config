@@ -1,0 +1,21 @@
+#!/bin/bash
+
+times=10
+
+for f in run.config.default.*; do
+    echo -e "\n*** Running with config file $f ...\n"
+    ln -fn "$f" run.config
+    for i in $(seq 1 "$times"); do
+        ./run.sh
+    done
+done
+
+for f in run.config.all.*; do
+    echo -e "\n*** Running with config file $f ...\n"
+    ln -fn "$f" run.config
+    for i in $(seq 1 "$times"); do
+        ./run.sh
+    done
+done
+
+

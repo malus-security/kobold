@@ -1,0 +1,407 @@
+2018-11-05 11:02:52.112 out.exec[9606:199847] ios-command-line-tool
+2018-11-05 11:02:52.116 out.exec[9606:199847] id 1: about to run
+2018-11-05 11:02:52.116 out.exec[9606:199847] id 1: MachPort: com.apple.ondemandd.client Method: submitRequest
+2018-11-05 11:02:52.191 out.exec[9606:199847] id 1: Invocation has a completion handler
+2018-11-05 11:02:52.194 out.exec[9606:199847] id 2: about to run
+2018-11-05 11:02:52.194 out.exec[9606:199847] id 2: MachPort: com.apple.ondemandd.client Method: cancelAllRequestsWithErrorHandler
+2018-11-05 11:02:52.201 out.exec[9606:199851] id 1: Connection Terminated
+2018-11-05 11:02:52.239 out.exec[9606:199847] id 2: Invocation has a completion handler
+2018-11-05 11:02:52.241 out.exec[9606:199847] id 3: about to run
+2018-11-05 11:02:52.241 out.exec[9606:199847] id 3: MachPort: com.apple.ctkd.token-client Method: addSlotWithEndpoint
+2018-11-05 11:02:52.245 out.exec[9606:199851] id 2: Connection Terminated
+2018-11-05 11:02:52.285 out.exec[9606:199847] id 3: Invocation has a completion handler
+2018-11-05 11:02:52.286 out.exec[9606:199847] id 4: about to run
+2018-11-05 11:02:52.287 out.exec[9606:199847] id 4: MachPort: com.apple.ctkd.token-client Method: reportChangesForSlotType
+2018-11-05 11:02:52.295 out.exec[9606:199851] <NSXPCConnection: 0x12c5d2bd0> connection to service named com.apple.ctkd.token-client: Warning: Exception caught during decoding of received reply to message 'addSlotWithEndpoint:name:type:forProcesses:reply:', dropping incoming message and calling failure block.
+
+Exception: *** -[NSXPCDecoder _initWithRootXPCObject:]: encoded data has been corrupted, there is no payload
+2018-11-05 11:02:52.335 out.exec[9606:199847] id 4: Invocation has a completion handler
+2018-11-05 11:02:52.335 out.exec[9606:199847] id 5: about to run
+2018-11-05 11:02:52.336 out.exec[9606:199847] id 5: MachPort: com.apple.ctkd.token-client Method: setSlotWithName
+2018-11-05 11:02:52.340 out.exec[9606:199851] <NSXPCConnection: 0x12c6d4ac0> connection to service named com.apple.ctkd.token-client: Warning: Exception caught during decoding of received reply to message 'reportChangesForSlotType:reply:', dropping incoming message and calling failure block.
+
+Exception: *** -[NSXPCDecoder _initWithRootXPCObject:]: encoded data has been corrupted, there is no payload
+2018-11-05 11:02:52.380 out.exec[9606:199847] id 5: Invocation has a completion handler
+2018-11-05 11:02:52.381 out.exec[9606:199847] id 6: about to run
+2018-11-05 11:02:52.381 out.exec[9606:199847] id 6: MachPort: com.apple.ctkd.token-client Method: addWatcherWithEndpoint
+2018-11-05 11:02:52.384 out.exec[9606:199851] <NSXPCConnection: 0x12c703740> connection to service named com.apple.ctkd.token-client: Warning: Exception caught during decoding of received reply to message 'setSlotWithName:endpoint:type:reply:', dropping incoming message and calling failure block.
+
+Exception: *** -[NSXPCDecoder _initWithRootXPCObject:]: encoded data has been corrupted, there is no payload
+2018-11-05 11:02:52.426 out.exec[9606:199847] id 6: Invocation has a completion handler
+2018-11-05 11:02:52.426 out.exec[9606:199847] id 7: about to run
+2018-11-05 11:02:52.427 out.exec[9606:199847] id 7: MachPort: com.apple.commcenter.cupolicy.xpc Method: refreshAppsInfo
+2018-11-05 11:02:52.430 out.exec[9606:199851] <NSXPCConnection: 0x12c729d40> connection to service named com.apple.ctkd.token-client: Warning: Exception caught during decoding of received reply to message 'addWatcherWithEndpoint:reply:', dropping incoming message and calling failure block.
+
+Exception: *** -[NSXPCDecoder _initWithRootXPCObject:]: encoded data has been corrupted, there is no payload
+2018-11-05 11:02:52.470 out.exec[9606:199847] id 7: Invocation has a completion handler
+2018-11-05 11:02:52.471 out.exec[9606:199847] id 8: about to run
+2018-11-05 11:02:52.471 out.exec[9606:199847] id 8: MachPort: com.apple.commcenter.xpc Method: refreshAppsInfo
+2018-11-05 11:02:52.515 out.exec[9606:199847] id 8: Invocation has a completion handler
+2018-11-05 11:02:52.516 out.exec[9606:199847] id 9: about to run
+2018-11-05 11:02:52.516 out.exec[9606:199847] id 9: MachPort: com.apple.commcenter.cupolicy.xpc Method: refreshPlansInfo
+2018-11-05 11:02:52.560 out.exec[9606:199847] id 9: Invocation has a completion handler
+2018-11-05 11:02:52.561 out.exec[9606:199847] id 10: about to run
+2018-11-05 11:02:52.561 out.exec[9606:199847] id 10: MachPort: com.apple.commcenter.xpc Method: refreshPlansInfo
+2018-11-05 11:02:52.604 out.exec[9606:199847] id 10: Invocation has a completion handler
+2018-11-05 11:02:52.605 out.exec[9606:199847] id 11: about to run
+2018-11-05 11:02:52.605 out.exec[9606:199847] id 11: MachPort: com.apple.commcenter.cupolicy.xpc Method: refreshUsageInfo
+2018-11-05 11:02:52.649 out.exec[9606:199847] id 11: Invocation has a completion handler
+2018-11-05 11:02:52.650 out.exec[9606:199847] id 12: about to run
+2018-11-05 11:02:52.650 out.exec[9606:199847] id 12: MachPort: com.apple.commcenter.xpc Method: refreshUsageInfo
+2018-11-05 11:02:52.693 out.exec[9606:199847] id 12: Invocation has a completion handler
+2018-11-05 11:02:52.694 out.exec[9606:199847] id 13: about to run
+2018-11-05 11:02:52.694 out.exec[9606:199847] id 13: MachPort: com.apple.commcenter.cupolicy.xpc Method: userDidAcceptPlanTerms
+2018-11-05 11:02:52.737 out.exec[9606:199847] id 13: Invocation has a completion handler
+2018-11-05 11:02:52.738 out.exec[9606:199847] id 14: about to run
+2018-11-05 11:02:52.738 out.exec[9606:199847] id 14: MachPort: com.apple.commcenter.xpc Method: userDidAcceptPlanTerms
+2018-11-05 11:02:52.782 out.exec[9606:199847] id 14: Invocation has a completion handler
+2018-11-05 11:02:52.782 out.exec[9606:199847] id 15: about to run
+2018-11-05 11:02:52.782 out.exec[9606:199847] id 15: MachPort: com.apple.commcenter.cupolicy.xpc Method: authenticationDidFail
+2018-11-05 11:02:52.826 out.exec[9606:199847] id 15: Invocation has a completion handler
+2018-11-05 11:02:52.827 out.exec[9606:199847] id 16: about to run
+2018-11-05 11:02:52.827 out.exec[9606:199847] id 16: MachPort: com.apple.commcenter.xpc Method: authenticationDidFail
+2018-11-05 11:02:52.870 out.exec[9606:199847] id 16: Invocation has a completion handler
+2018-11-05 11:02:52.871 out.exec[9606:199847] id 17: about to run
+2018-11-05 11:02:52.871 out.exec[9606:199847] id 17: MachPort: com.apple.commcenter.cupolicy.xpc Method: authenticationDidComplete
+2018-11-05 11:02:52.915 out.exec[9606:199847] id 17: Invocation has a completion handler
+2018-11-05 11:02:52.915 out.exec[9606:199847] id 18: about to run
+2018-11-05 11:02:52.916 out.exec[9606:199847] id 18: MachPort: com.apple.commcenter.xpc Method: authenticationDidComplete
+2018-11-05 11:02:52.959 out.exec[9606:199847] id 18: Invocation has a completion handler
+2018-11-05 11:02:52.959 out.exec[9606:199847] id 19: about to run
+2018-11-05 11:02:52.960 out.exec[9606:199847] id 19: MachPort: com.apple.commcenter.cupolicy.xpc Method: setUserInAuthFlow
+2018-11-05 11:02:53.004 out.exec[9606:199847] id 19: Invocation has a completion handler
+2018-11-05 11:02:53.005 out.exec[9606:199847] id 20: about to run
+2018-11-05 11:02:53.005 out.exec[9606:199847] id 20: MachPort: com.apple.commcenter.xpc Method: setUserInAuthFlow
+2018-11-05 11:02:53.049 out.exec[9606:199847] id 20: Invocation has a completion handler
+2018-11-05 11:02:53.050 out.exec[9606:199847] id 21: about to run
+2018-11-05 11:02:53.050 out.exec[9606:199847] id 21: MachPort: com.apple.commcenter.cupolicy.xpc Method: testMode
+2018-11-05 11:02:53.094 out.exec[9606:199847] id 21: Invocation has a completion handler
+2018-11-05 11:02:53.095 out.exec[9606:199847] id 22: about to run
+2018-11-05 11:02:53.095 out.exec[9606:199847] id 22: MachPort: com.apple.commcenter.xpc Method: testMode
+2018-11-05 11:02:53.138 out.exec[9606:199847] id 22: Invocation has a completion handler
+2018-11-05 11:02:53.139 out.exec[9606:199847] id 23: about to run
+2018-11-05 11:02:53.140 out.exec[9606:199847] id 23: MachPort: com.apple.commcenter.cupolicy.xpc Method: ping
+2018-11-05 11:02:53.183 out.exec[9606:199847] id 23: Invocation has a completion handler
+2018-11-05 11:02:53.184 out.exec[9606:199847] id 24: about to run
+2018-11-05 11:02:53.184 out.exec[9606:199847] id 24: MachPort: com.apple.commcenter.xpc Method: ping
+2018-11-05 11:02:53.228 out.exec[9606:199847] id 24: Invocation has a completion handler
+2018-11-05 11:02:53.229 out.exec[9606:199847] id 25: about to run
+2018-11-05 11:02:53.229 out.exec[9606:199847] id 25: MachPort: com.apple.commcenter.cupolicy.xpc Method: fetchDataPlanMetrics
+2018-11-05 11:02:53.272 out.exec[9606:199847] id 25: Invocation has a completion handler
+2018-11-05 11:02:53.273 out.exec[9606:199847] id 26: about to run
+2018-11-05 11:02:53.273 out.exec[9606:199847] id 26: MachPort: com.apple.commcenter.xpc Method: fetchDataPlanMetrics
+2018-11-05 11:02:53.316 out.exec[9606:199847] id 26: Invocation has a completion handler
+2018-11-05 11:02:53.317 out.exec[9606:199847] id 27: about to run
+2018-11-05 11:02:53.317 out.exec[9606:199847] id 27: MachPort: com.apple.commcenter.cupolicy.xpc Method: purchasePlan
+2018-11-05 11:02:53.361 out.exec[9606:199847] id 27: Invocation has a completion handler
+2018-11-05 11:02:53.361 out.exec[9606:199847] id 28: about to run
+2018-11-05 11:02:53.362 out.exec[9606:199847] id 28: MachPort: com.apple.commcenter.xpc Method: purchasePlan
+2018-11-05 11:02:53.405 out.exec[9606:199847] id 28: Invocation has a completion handler
+2018-11-05 11:02:53.406 out.exec[9606:199847] id 29: about to run
+2018-11-05 11:02:53.406 out.exec[9606:199847] id 29: MachPort: com.apple.commcenter.cupolicy.xpc Method: refreshAllInfo
+2018-11-05 11:02:53.450 out.exec[9606:199847] id 29: Invocation has a completion handler
+2018-11-05 11:02:53.451 out.exec[9606:199847] id 30: about to run
+2018-11-05 11:02:53.451 out.exec[9606:199847] id 30: MachPort: com.apple.commcenter.xpc Method: refreshAllInfo
+2018-11-05 11:02:53.495 out.exec[9606:199847] id 30: Invocation has a completion handler
+2018-11-05 11:02:53.496 out.exec[9606:199847] id 31: about to run
+2018-11-05 11:02:53.496 out.exec[9606:199847] id 31: MachPort: com.apple.commcenter.cupolicy.xpc Method: fetchAppsInfo
+2018-11-05 11:02:53.539 out.exec[9606:199847] id 31: Invocation has a completion handler
+2018-11-05 11:02:53.540 out.exec[9606:199847] id 32: about to run
+2018-11-05 11:02:53.540 out.exec[9606:199847] id 32: MachPort: com.apple.commcenter.xpc Method: fetchAppsInfo
+2018-11-05 11:02:53.583 out.exec[9606:199847] id 32: Invocation has a completion handler
+2018-11-05 11:02:53.584 out.exec[9606:199847] id 33: about to run
+2018-11-05 11:02:53.584 out.exec[9606:199847] id 33: MachPort: com.apple.commcenter.cupolicy.xpc Method: fetchPlansInfo
+2018-11-05 11:02:53.627 out.exec[9606:199847] id 33: Invocation has a completion handler
+2018-11-05 11:02:53.629 out.exec[9606:199847] id 34: about to run
+2018-11-05 11:02:53.629 out.exec[9606:199847] id 34: MachPort: com.apple.commcenter.xpc Method: fetchPlansInfo
+2018-11-05 11:02:53.673 out.exec[9606:199847] id 34: Invocation has a completion handler
+2018-11-05 11:02:53.674 out.exec[9606:199847] id 35: about to run
+2018-11-05 11:02:53.674 out.exec[9606:199847] id 35: MachPort: com.apple.commcenter.cupolicy.xpc Method: fetchUsageInfo
+2018-11-05 11:02:53.717 out.exec[9606:199847] id 35: Invocation has a completion handler
+2018-11-05 11:02:53.718 out.exec[9606:199847] id 36: about to run
+2018-11-05 11:02:53.718 out.exec[9606:199847] id 36: MachPort: com.apple.commcenter.xpc Method: fetchUsageInfo
+2018-11-05 11:02:53.761 out.exec[9606:199847] id 36: Invocation has a completion handler
+2018-11-05 11:02:53.762 out.exec[9606:199847] id 37: about to run
+2018-11-05 11:02:53.762 out.exec[9606:199847] id 37: MachPort: com.apple.commcenter.cupolicy.xpc Method: setUserConsent
+2018-11-05 11:02:53.805 out.exec[9606:199847] id 37: Invocation has a completion handler
+2018-11-05 11:02:53.806 out.exec[9606:199847] id 38: about to run
+2018-11-05 11:02:53.806 out.exec[9606:199847] id 38: MachPort: com.apple.commcenter.xpc Method: setUserConsent
+2018-11-05 11:02:53.850 out.exec[9606:199847] id 38: Invocation has a completion handler
+2018-11-05 11:02:53.851 out.exec[9606:199847] id 39: about to run
+2018-11-05 11:02:53.851 out.exec[9606:199847] id 39: MachPort: com.apple.commcenter.cupolicy.xpc Method: getUserConsentFlowInfo
+2018-11-05 11:02:53.894 out.exec[9606:199847] id 39: Invocation has a completion handler
+2018-11-05 11:02:53.895 out.exec[9606:199847] id 40: about to run
+2018-11-05 11:02:53.895 out.exec[9606:199847] id 40: MachPort: com.apple.commcenter.xpc Method: getUserConsentFlowInfo
+2018-11-05 11:02:53.938 out.exec[9606:199847] id 40: Invocation has a completion handler
+2018-11-05 11:02:53.939 out.exec[9606:199847] id 41: about to run
+2018-11-05 11:02:53.940 out.exec[9606:199847] id 41: MachPort: com.apple.commcenter.cupolicy.xpc Method: getCapabilities
+2018-11-05 11:02:53.983 out.exec[9606:199847] id 41: Invocation has a completion handler
+2018-11-05 11:02:53.984 out.exec[9606:199847] id 42: about to run
+2018-11-05 11:02:53.984 out.exec[9606:199847] id 42: MachPort: com.apple.commcenter.xpc Method: getCapabilities
+2018-11-05 11:02:54.028 out.exec[9606:199847] id 42: Invocation has a completion handler
+2018-11-05 11:02:54.029 out.exec[9606:199847] id 43: about to run
+2018-11-05 11:02:54.029 out.exec[9606:199847] id 43: MachPort: com.apple.commcenter.cupolicy.xpc Method: connection
+2018-11-05 11:02:54.073 out.exec[9606:199847] id 44: about to run
+2018-11-05 11:02:54.074 out.exec[9606:199847] id 44: MachPort: com.apple.commcenter.xpc Method: connection
+2018-11-05 11:02:54.118 out.exec[9606:199847] id 45: about to run
+2018-11-05 11:02:54.118 out.exec[9606:199847] id 45: MachPort: com.apple.commcenter.cupolicy.xpc Method: replacementObjectForXPCConnection
+2018-11-05 11:02:54.162 out.exec[9606:199847] id 45: Invocation Exception: [NSXPCConnection sendInvocation]: Return type of methods sent over this proxy must be 'void' (replacementObjectForXPCConnection:encoder:object:)
+2018-11-05 11:02:54.163 out.exec[9606:199847] id 46: about to run
+2018-11-05 11:02:54.163 out.exec[9606:199847] id 46: MachPort: com.apple.commcenter.xpc Method: replacementObjectForXPCConnection
+2018-11-05 11:02:54.205 out.exec[9606:199847] id 46: Invocation Exception: [NSXPCConnection sendInvocation]: Return type of methods sent over this proxy must be 'void' (replacementObjectForXPCConnection:encoder:object:)
+2018-11-05 11:02:54.206 out.exec[9606:199847] id 47: about to run
+2018-11-05 11:02:54.206 out.exec[9606:199847] id 47: MachPort: com.apple.commcenter.cupolicy.xpc Method: setActivePlan
+2018-11-05 11:02:54.249 out.exec[9606:199847] id 47: Invocation has a completion handler
+2018-11-05 11:02:54.250 out.exec[9606:199847] id 48: about to run
+2018-11-05 11:02:54.250 out.exec[9606:199847] id 48: MachPort: com.apple.commcenter.xpc Method: setActivePlan
+2018-11-05 11:02:54.293 out.exec[9606:199847] id 48: Invocation has a completion handler
+2018-11-05 11:02:54.293 out.exec[9606:199847] id 49: about to run
+2018-11-05 11:02:54.293 out.exec[9606:199847] id 49: MachPort: com.apple.commcenter.cupolicy.xpc Method: shouldShowAddNewRemotePlan
+2018-11-05 11:02:54.337 out.exec[9606:199847] id 49: Invocation has a completion handler
+2018-11-05 11:02:54.338 out.exec[9606:199847] id 50: about to run
+2018-11-05 11:02:54.338 out.exec[9606:199847] id 50: MachPort: com.apple.commcenter.xpc Method: shouldShowAddNewRemotePlan
+2018-11-05 11:02:54.381 out.exec[9606:199847] id 50: Invocation has a completion handler
+2018-11-05 11:02:54.382 out.exec[9606:199847] id 51: about to run
+2018-11-05 11:02:54.382 out.exec[9606:199847] id 51: MachPort: com.apple.commcenter.cupolicy.xpc Method: getRemoteInfo
+2018-11-05 11:02:54.427 out.exec[9606:199847] id 51: Invocation has a completion handler
+2018-11-05 11:02:54.428 out.exec[9606:199847] id 52: about to run
+2018-11-05 11:02:54.428 out.exec[9606:199847] id 52: MachPort: com.apple.commcenter.xpc Method: getRemoteInfo
+2018-11-05 11:02:54.471 out.exec[9606:199847] id 52: Invocation has a completion handler
+2018-11-05 11:02:54.472 out.exec[9606:199847] id 53: about to run
+2018-11-05 11:02:54.472 out.exec[9606:199847] id 53: MachPort: com.apple.commcenter.cupolicy.xpc Method: setAutoPlanSelection
+2018-11-05 11:02:54.517 out.exec[9606:199847] id 54: about to run
+2018-11-05 11:02:54.518 out.exec[9606:199847] id 54: MachPort: com.apple.commcenter.xpc Method: setAutoPlanSelection
+2018-11-05 11:02:54.561 out.exec[9606:199847] id 55: about to run
+2018-11-05 11:02:54.561 out.exec[9606:199847] id 55: MachPort: com.apple.commcenter.cupolicy.xpc Method: getAutoPlanSelectionWithCompletion
+2018-11-05 11:02:54.604 out.exec[9606:199847] id 55: Invocation has a completion handler
+2018-11-05 11:02:54.605 out.exec[9606:199847] id 56: about to run
+2018-11-05 11:02:54.605 out.exec[9606:199847] id 56: MachPort: com.apple.commcenter.xpc Method: getAutoPlanSelectionWithCompletion
+2018-11-05 11:02:54.649 out.exec[9606:199847] id 56: Invocation has a completion handler
+2018-11-05 11:02:54.649 out.exec[9606:199847] id 57: about to run
+2018-11-05 11:02:54.650 out.exec[9606:199847] id 57: MachPort: com.apple.commcenter.cupolicy.xpc Method: deleteAllRemoteProfiles;
+2018-11-05 11:02:54.694 out.exec[9606:199847] id 58: about to run
+2018-11-05 11:02:54.694 out.exec[9606:199847] id 58: MachPort: com.apple.commcenter.xpc Method: deleteAllRemoteProfiles;
+2018-11-05 11:02:54.738 out.exec[9606:199847] id 59: about to run
+2018-11-05 11:02:54.738 out.exec[9606:199847] id 59: MachPort: com.apple.commcenter.cupolicy.xpc Method: deleteRemoteProfile
+2018-11-05 11:02:54.782 out.exec[9606:199847] id 60: about to run
+2018-11-05 11:02:54.782 out.exec[9606:199847] id 60: MachPort: com.apple.commcenter.xpc Method: deleteRemoteProfile
+2018-11-05 11:02:54.826 out.exec[9606:199847] id 61: about to run
+2018-11-05 11:02:54.826 out.exec[9606:199847] id 61: MachPort: com.apple.commcenter.cupolicy.xpc Method: selectRemoteProfile
+2018-11-05 11:02:54.869 out.exec[9606:199847] id 62: about to run
+2018-11-05 11:02:54.870 out.exec[9606:199847] id 62: MachPort: com.apple.commcenter.xpc Method: selectRemoteProfile
+2018-11-05 11:02:54.913 out.exec[9606:199847] id 63: about to run
+2018-11-05 11:02:54.913 out.exec[9606:199847] id 63: MachPort: com.apple.commcenter.cupolicy.xpc Method: fetchRemoteProfiles
+2018-11-05 11:02:54.957 out.exec[9606:199847] id 64: about to run
+2018-11-05 11:02:54.957 out.exec[9606:199847] id 64: MachPort: com.apple.commcenter.xpc Method: fetchRemoteProfiles
+2018-11-05 11:02:55.000 out.exec[9606:199847] id 65: about to run
+2018-11-05 11:02:55.001 out.exec[9606:199847] id 65: MachPort: com.apple.commcenter.cupolicy.xpc Method: userDidProvideConsentResponse
+2018-11-05 11:02:55.045 out.exec[9606:199847] id 65: Invocation has a completion handler
+2018-11-05 11:02:55.045 out.exec[9606:199847] id 66: about to run
+2018-11-05 11:02:55.046 out.exec[9606:199847] id 66: MachPort: com.apple.commcenter.xpc Method: userDidProvideConsentResponse
+2018-11-05 11:02:55.089 out.exec[9606:199847] id 66: Invocation has a completion handler
+2018-11-05 11:02:55.090 out.exec[9606:199847] id 67: about to run
+2018-11-05 11:02:55.090 out.exec[9606:199847] id 67: MachPort: com.apple.commcenter.cupolicy.xpc Method: eraseAllRemotePlansWithCompletion
+2018-11-05 11:02:55.133 out.exec[9606:199847] id 67: Invocation has a completion handler
+2018-11-05 11:02:55.134 out.exec[9606:199847] id 68: about to run
+2018-11-05 11:02:55.134 out.exec[9606:199847] id 68: MachPort: com.apple.commcenter.xpc Method: eraseAllRemotePlansWithCompletion
+2018-11-05 11:02:55.178 out.exec[9606:199847] id 68: Invocation has a completion handler
+2018-11-05 11:02:55.179 out.exec[9606:199847] id 69: about to run
+2018-11-05 11:02:55.179 out.exec[9606:199847] id 69: MachPort: com.apple.commcenter.cupolicy.xpc Method: remotePlansSignupParamsForCsn
+2018-11-05 11:02:55.223 out.exec[9606:199847] id 69: Invocation has a completion handler
+2018-11-05 11:02:55.224 out.exec[9606:199847] id 70: about to run
+2018-11-05 11:02:55.224 out.exec[9606:199847] id 70: MachPort: com.apple.commcenter.xpc Method: remotePlansSignupParamsForCsn
+2018-11-05 11:02:55.267 out.exec[9606:199847] id 70: Invocation has a completion handler
+2018-11-05 11:02:55.268 out.exec[9606:199847] id 71: about to run
+2018-11-05 11:02:55.268 out.exec[9606:199847] id 71: MachPort: com.apple.commcenter.cupolicy.xpc Method: remotePlanLaunchInfoForCsn
+2018-11-05 11:02:55.311 out.exec[9606:199847] id 71: Invocation has a completion handler
+2018-11-05 11:02:55.312 out.exec[9606:199847] id 72: about to run
+2018-11-05 11:02:55.313 out.exec[9606:199847] id 72: MachPort: com.apple.commcenter.xpc Method: remotePlanLaunchInfoForCsn
+2018-11-05 11:02:55.355 out.exec[9606:199847] id 72: Invocation has a completion handler
+2018-11-05 11:02:55.356 out.exec[9606:199847] id 73: about to run
+2018-11-05 11:02:55.357 out.exec[9606:199847] id 73: MachPort: com.apple.commcenter.cupolicy.xpc Method: didCancelRemotePlan;
+2018-11-05 11:02:55.401 out.exec[9606:199847] id 74: about to run
+2018-11-05 11:02:55.401 out.exec[9606:199847] id 74: MachPort: com.apple.commcenter.xpc Method: didCancelRemotePlan;
+2018-11-05 11:02:55.446 out.exec[9606:199847] id 75: about to run
+2018-11-05 11:02:55.447 out.exec[9606:199847] id 75: MachPort: com.apple.commcenter.cupolicy.xpc Method: didPurchaseRemotePlanForEid
+2018-11-05 11:02:55.490 out.exec[9606:199847] id 75: Invocation has a completion handler
+2018-11-05 11:02:55.491 out.exec[9606:199847] id 76: about to run
+2018-11-05 11:02:55.491 out.exec[9606:199847] id 76: MachPort: com.apple.commcenter.xpc Method: didPurchaseRemotePlanForEid
+2018-11-05 11:02:55.535 out.exec[9606:199847] id 76: Invocation has a completion handler
+2018-11-05 11:02:55.535 out.exec[9606:199847] id 77: about to run
+2018-11-05 11:02:55.536 out.exec[9606:199847] id 77: MachPort: com.apple.commcenter.cupolicy.xpc Method: didDeleteRemotePlanItem
+2018-11-05 11:02:55.579 out.exec[9606:199847] id 77: Invocation has a completion handler
+2018-11-05 11:02:55.580 out.exec[9606:199847] id 78: about to run
+2018-11-05 11:02:55.580 out.exec[9606:199847] id 78: MachPort: com.apple.commcenter.xpc Method: didDeleteRemotePlanItem
+2018-11-05 11:02:55.624 out.exec[9606:199847] id 78: Invocation has a completion handler
+2018-11-05 11:02:55.625 out.exec[9606:199847] id 79: about to run
+2018-11-05 11:02:55.625 out.exec[9606:199847] id 79: MachPort: com.apple.commcenter.cupolicy.xpc Method: didSelectRemotePlanItem
+2018-11-05 11:02:55.668 out.exec[9606:199847] id 79: Invocation has a completion handler
+2018-11-05 11:02:55.669 out.exec[9606:199847] id 80: about to run
+2018-11-05 11:02:55.669 out.exec[9606:199847] id 80: MachPort: com.apple.commcenter.xpc Method: didSelectRemotePlanItem
+2018-11-05 11:02:55.714 out.exec[9606:199847] id 80: Invocation has a completion handler
+2018-11-05 11:02:55.715 out.exec[9606:199847] id 81: about to run
+2018-11-05 11:02:55.715 out.exec[9606:199847] id 81: MachPort: com.apple.commcenter.cupolicy.xpc Method: remotePlanItemsWithUpdateFetch
+2018-11-05 11:02:55.759 out.exec[9606:199847] id 81: Invocation has a completion handler
+2018-11-05 11:02:55.760 out.exec[9606:199847] id 82: about to run
+2018-11-05 11:02:55.760 out.exec[9606:199847] id 82: MachPort: com.apple.commcenter.xpc Method: remotePlanItemsWithUpdateFetch
+2018-11-05 11:02:55.803 out.exec[9606:199847] id 82: Invocation has a completion handler
+2018-11-05 11:02:55.803 out.exec[9606:199847] id 83: about to run
+2018-11-05 11:02:55.804 out.exec[9606:199847] id 83: MachPort: com.apple.commcenter.cupolicy.xpc Method: manageAccountForRemotePlan
+2018-11-05 11:02:55.847 out.exec[9606:199847] id 83: Invocation has a completion handler
+2018-11-05 11:02:55.848 out.exec[9606:199847] id 84: about to run
+2018-11-05 11:02:55.848 out.exec[9606:199847] id 84: MachPort: com.apple.commcenter.xpc Method: manageAccountForRemotePlan
+2018-11-05 11:02:55.891 out.exec[9606:199847] id 84: Invocation has a completion handler
+2018-11-05 11:02:55.892 out.exec[9606:199847] id 85: about to run
+2018-11-05 11:02:55.893 out.exec[9606:199847] id 85: MachPort: com.apple.commcenter.cupolicy.xpc Method: addNewRemotePlanWithAddress
+2018-11-05 11:02:55.936 out.exec[9606:199847] id 85: Invocation has a completion handler
+2018-11-05 11:02:55.937 out.exec[9606:199847] id 86: about to run
+2018-11-05 11:02:55.937 out.exec[9606:199847] id 86: MachPort: com.apple.commcenter.xpc Method: addNewRemotePlanWithAddress
+2018-11-05 11:02:55.981 out.exec[9606:199847] id 86: Invocation has a completion handler
+2018-11-05 11:02:55.982 out.exec[9606:199847] id 87: about to run
+2018-11-05 11:02:55.982 out.exec[9606:199847] id 87: MachPort: com.apple.commcenter.cupolicy.xpc Method: addNewRemotePlanWithCardData
+2018-11-05 11:02:56.025 out.exec[9606:199847] id 87: Invocation has a completion handler
+2018-11-05 11:02:56.026 out.exec[9606:199847] id 88: about to run
+2018-11-05 11:02:56.026 out.exec[9606:199847] id 88: MachPort: com.apple.commcenter.xpc Method: addNewRemotePlanWithCardData
+2018-11-05 11:02:56.070 out.exec[9606:199847] id 88: Invocation has a completion handler
+2018-11-05 11:02:56.071 out.exec[9606:199847] id 89: about to run
+2018-11-05 11:02:56.071 out.exec[9606:199847] id 89: MachPort: com.apple.commcenter.cupolicy.xpc Method: addNewRemotePlan
+2018-11-05 11:02:56.114 out.exec[9606:199847] id 89: Invocation has a completion handler
+2018-11-05 11:02:56.115 out.exec[9606:199847] id 90: about to run
+2018-11-05 11:02:56.115 out.exec[9606:199847] id 90: MachPort: com.apple.commcenter.xpc Method: addNewRemotePlan
+2018-11-05 11:02:56.158 out.exec[9606:199847] id 90: Invocation has a completion handler
+2018-11-05 11:02:56.159 out.exec[9606:199847] id 91: about to run
+2018-11-05 11:02:56.159 out.exec[9606:199847] id 91: MachPort: com.apple.commcenter.cupolicy.xpc Method: finishRemoteProvisioningWithCompletion
+2018-11-05 11:02:56.203 out.exec[9606:199847] id 91: Invocation has a completion handler
+2018-11-05 11:02:56.204 out.exec[9606:199847] id 92: about to run
+2018-11-05 11:02:56.205 out.exec[9606:199847] id 92: MachPort: com.apple.commcenter.xpc Method: finishRemoteProvisioningWithCompletion
+2018-11-05 11:02:56.248 out.exec[9606:199847] id 92: Invocation has a completion handler
+2018-11-05 11:02:56.249 out.exec[9606:199847] id 93: about to run
+2018-11-05 11:02:56.250 out.exec[9606:199847] id 93: MachPort: com.apple.commcenter.cupolicy.xpc Method: startRemoteProvisioningWithCompletion
+2018-11-05 11:02:56.293 out.exec[9606:199847] id 93: Invocation has a completion handler
+2018-11-05 11:02:56.293 out.exec[9606:199847] id 94: about to run
+2018-11-05 11:02:56.294 out.exec[9606:199847] id 94: MachPort: com.apple.commcenter.xpc Method: startRemoteProvisioningWithCompletion
+2018-11-05 11:02:56.337 out.exec[9606:199847] id 94: Invocation has a completion handler
+2018-11-05 11:02:56.337 out.exec[9606:199847] id 95: about to run
+2018-11-05 11:02:56.338 out.exec[9606:199847] id 95: MachPort: com.apple.commcenter.cupolicy.xpc Method: shouldShowAddNewRemotePlanWithFlowType
+2018-11-05 11:02:56.381 out.exec[9606:199847] id 95: Invocation has a completion handler
+2018-11-05 11:02:56.382 out.exec[9606:199847] id 96: about to run
+2018-11-05 11:02:56.383 out.exec[9606:199847] id 96: MachPort: com.apple.commcenter.xpc Method: shouldShowAddNewRemotePlanWithFlowType
+2018-11-05 11:02:56.426 out.exec[9606:199847] id 96: Invocation has a completion handler
+2018-11-05 11:02:56.427 out.exec[9606:199847] id 97: about to run
+2018-11-05 11:02:56.427 out.exec[9606:199847] id 97: MachPort: com.apple.commcenter.cupolicy.xpc Method: isRemotePlanCapable
+2018-11-05 11:02:56.470 out.exec[9606:199847] id 97: Invocation has a completion handler
+2018-11-05 11:02:56.471 out.exec[9606:199847] id 98: about to run
+2018-11-05 11:02:56.472 out.exec[9606:199847] id 98: MachPort: com.apple.commcenter.xpc Method: isRemotePlanCapable
+2018-11-05 11:02:56.515 out.exec[9606:199847] id 98: Invocation has a completion handler
+2018-11-05 11:02:56.516 out.exec[9606:199847] id 99: about to run
+2018-11-05 11:02:56.516 out.exec[9606:199847] id 99: MachPort: com.apple.commcenter.cupolicy.xpc Method: launchDataActivationNextWithUrl
+2018-11-05 11:02:56.559 out.exec[9606:199847] id 100: about to run
+2018-11-05 11:02:56.560 out.exec[9606:199847] id 100: MachPort: com.apple.commcenter.xpc Method: launchDataActivationNextWithUrl
+2018-11-05 11:02:56.604 out.exec[9606:199847] id 101: about to run
+2018-11-05 11:02:56.605 out.exec[9606:199847] id 101: MachPort: com.apple.commcenter.cupolicy.xpc Method: updatePlansDatabase;
+2018-11-05 11:02:56.648 out.exec[9606:199847] id 102: about to run
+2018-11-05 11:02:56.649 out.exec[9606:199847] id 102: MachPort: com.apple.commcenter.xpc Method: updatePlansDatabase;
+2018-11-05 11:02:56.693 out.exec[9606:199847] id 103: about to run
+2018-11-05 11:02:56.693 out.exec[9606:199847] id 103: MachPort: com.apple.commcenter.cupolicy.xpc Method: expirePlan;
+2018-11-05 11:02:56.737 out.exec[9606:199847] id 104: about to run
+2018-11-05 11:02:56.737 out.exec[9606:199847] id 104: MachPort: com.apple.commcenter.xpc Method: expirePlan;
+2018-11-05 11:02:56.780 out.exec[9606:199847] id 105: about to run
+2018-11-05 11:02:56.781 out.exec[9606:199847] id 105: MachPort: com.apple.commcenter.cupolicy.xpc Method: launchSequoia;
+2018-11-05 11:02:56.824 out.exec[9606:199847] id 106: about to run
+2018-11-05 11:02:56.824 out.exec[9606:199847] id 106: MachPort: com.apple.commcenter.xpc Method: launchSequoia;
+2018-11-05 11:02:56.868 out.exec[9606:199847] id 107: about to run
+2018-11-05 11:02:56.869 out.exec[9606:199847] id 107: MachPort: com.apple.commcenter.cupolicy.xpc Method: setLatitude
+2018-11-05 11:02:56.913 out.exec[9606:199847] id 108: about to run
+2018-11-05 11:02:56.913 out.exec[9606:199847] id 108: MachPort: com.apple.commcenter.xpc Method: setLatitude
+2018-11-05 11:02:56.957 out.exec[9606:199847] id 109: about to run
+2018-11-05 11:02:56.957 out.exec[9606:199847] id 109: MachPort: com.apple.commcenter.cupolicy.xpc Method: latitudeLongitudeOverride
+2018-11-05 11:02:57.001 out.exec[9606:199847] id 109: Invocation has a completion handler
+2018-11-05 11:02:57.002 out.exec[9606:199847] id 110: about to run
+2018-11-05 11:02:57.002 out.exec[9606:199847] id 110: MachPort: com.apple.commcenter.xpc Method: latitudeLongitudeOverride
+2018-11-05 11:02:57.046 out.exec[9606:199847] id 110: Invocation has a completion handler
+2018-11-05 11:02:57.046 out.exec[9606:199847] id 111: about to run
+2018-11-05 11:02:57.047 out.exec[9606:199847] id 111: MachPort: com.apple.commcenter.cupolicy.xpc Method: setMcc
+2018-11-05 11:02:57.093 out.exec[9606:199847] id 112: about to run
+2018-11-05 11:02:57.093 out.exec[9606:199847] id 112: MachPort: com.apple.commcenter.xpc Method: setMcc
+2018-11-05 11:02:57.141 out.exec[9606:199847] id 113: about to run
+2018-11-05 11:02:57.142 out.exec[9606:199847] id 113: MachPort: com.apple.commcenter.cupolicy.xpc Method: mccMncOverride
+2018-11-05 11:02:57.190 out.exec[9606:199847] id 113: Invocation has a completion handler
+2018-11-05 11:02:57.191 out.exec[9606:199847] id 114: about to run
+2018-11-05 11:02:57.191 out.exec[9606:199847] id 114: MachPort: com.apple.commcenter.xpc Method: mccMncOverride
+2018-11-05 11:02:57.235 out.exec[9606:199847] id 114: Invocation has a completion handler
+2018-11-05 11:02:57.235 out.exec[9606:199847] id 115: about to run
+2018-11-05 11:02:57.236 out.exec[9606:199847] id 115: MachPort: com.apple.commcenter.cupolicy.xpc Method: setSelectedProxy
+2018-11-05 11:02:57.279 out.exec[9606:199847] id 116: about to run
+2018-11-05 11:02:57.279 out.exec[9606:199847] id 116: MachPort: com.apple.commcenter.xpc Method: setSelectedProxy
+2018-11-05 11:02:57.322 out.exec[9606:199847] id 117: about to run
+2018-11-05 11:02:57.323 out.exec[9606:199847] id 117: MachPort: com.apple.commcenter.cupolicy.xpc Method: getSelectedProxy
+2018-11-05 11:02:57.366 out.exec[9606:199847] id 117: Invocation has a completion handler
+2018-11-05 11:02:57.367 out.exec[9606:199847] id 118: about to run
+2018-11-05 11:02:57.367 out.exec[9606:199847] id 118: MachPort: com.apple.commcenter.xpc Method: getSelectedProxy
+2018-11-05 11:02:57.411 out.exec[9606:199847] id 118: Invocation has a completion handler
+2018-11-05 11:02:57.411 out.exec[9606:199847] id 119: about to run
+2018-11-05 11:02:57.412 out.exec[9606:199847] id 119: MachPort: com.apple.commcenter.cupolicy.xpc Method: setSelectedEnv
+2018-11-05 11:02:57.456 out.exec[9606:199847] id 120: about to run
+2018-11-05 11:02:57.457 out.exec[9606:199847] id 120: MachPort: com.apple.commcenter.xpc Method: setSelectedEnv
+2018-11-05 11:02:57.501 out.exec[9606:199847] id 121: about to run
+2018-11-05 11:02:57.501 out.exec[9606:199847] id 121: MachPort: com.apple.commcenter.cupolicy.xpc Method: getSelectedEnv
+2018-11-05 11:02:57.544 out.exec[9606:199847] id 121: Invocation has a completion handler
+2018-11-05 11:02:57.545 out.exec[9606:199847] id 122: about to run
+2018-11-05 11:02:57.545 out.exec[9606:199847] id 122: MachPort: com.apple.commcenter.xpc Method: getSelectedEnv
+2018-11-05 11:02:57.588 out.exec[9606:199847] id 122: Invocation has a completion handler
+2018-11-05 11:02:57.589 out.exec[9606:199847] id 123: about to run
+2018-11-05 11:02:57.589 out.exec[9606:199847] id 123: MachPort: com.apple.commcenter.cupolicy.xpc Method: setESimServerURL
+2018-11-05 11:02:57.634 out.exec[9606:199847] id 124: about to run
+2018-11-05 11:02:57.634 out.exec[9606:199847] id 124: MachPort: com.apple.commcenter.xpc Method: setESimServerURL
+2018-11-05 11:02:57.678 out.exec[9606:199847] id 125: about to run
+2018-11-05 11:02:57.678 out.exec[9606:199847] id 125: MachPort: com.apple.commcenter.cupolicy.xpc Method: getESimServerURL
+2018-11-05 11:02:57.721 out.exec[9606:199847] id 125: Invocation has a completion handler
+2018-11-05 11:02:57.722 out.exec[9606:199847] id 126: about to run
+2018-11-05 11:02:57.722 out.exec[9606:199847] id 126: MachPort: com.apple.commcenter.xpc Method: getESimServerURL
+2018-11-05 11:02:57.766 out.exec[9606:199847] id 126: Invocation has a completion handler
+2018-11-05 11:02:57.767 out.exec[9606:199847] id 127: about to run
+2018-11-05 11:02:57.768 out.exec[9606:199847] id 127: MachPort: com.apple.commcenter.cupolicy.xpc Method: setIMEIPrefix
+2018-11-05 11:02:57.811 out.exec[9606:199847] id 128: about to run
+2018-11-05 11:02:57.811 out.exec[9606:199847] id 128: MachPort: com.apple.commcenter.xpc Method: setIMEIPrefix
+2018-11-05 11:02:57.855 out.exec[9606:199847] id 129: about to run
+2018-11-05 11:02:57.855 out.exec[9606:199847] id 129: MachPort: com.apple.commcenter.cupolicy.xpc Method: getIMEIPrefix
+2018-11-05 11:02:57.898 out.exec[9606:199847] id 129: Invocation has a completion handler
+2018-11-05 11:02:57.899 out.exec[9606:199847] id 130: about to run
+2018-11-05 11:02:57.899 out.exec[9606:199847] id 130: MachPort: com.apple.commcenter.xpc Method: getIMEIPrefix
+2018-11-05 11:02:57.942 out.exec[9606:199847] id 130: Invocation has a completion handler
+2018-11-05 11:02:57.943 out.exec[9606:199847] id 131: about to run
+2018-11-05 11:02:57.943 out.exec[9606:199847] id 131: MachPort: com.apple.commcenter.cupolicy.xpc Method: getCurrentPlanType
+2018-11-05 11:02:57.986 out.exec[9606:199847] id 131: Invocation has a completion handler
+2018-11-05 11:02:57.987 out.exec[9606:199847] id 132: about to run
+2018-11-05 11:02:57.987 out.exec[9606:199847] id 132: MachPort: com.apple.commcenter.xpc Method: getCurrentPlanType
+2018-11-05 11:02:58.031 out.exec[9606:199847] id 132: Invocation has a completion handler
+2018-11-05 11:02:58.032 out.exec[9606:199847] id 133: about to run
+2018-11-05 11:02:58.032 out.exec[9606:199847] id 133: MachPort: com.apple.commcenter.cupolicy.xpc Method: openInternalUrlId
+2018-11-05 11:02:58.076 out.exec[9606:199847] id 134: about to run
+2018-11-05 11:02:58.077 out.exec[9606:199847] id 134: MachPort: com.apple.commcenter.xpc Method: openInternalUrlId
+2018-11-05 11:02:58.121 out.exec[9606:199847] id 135: about to run
+2018-11-05 11:02:58.121 out.exec[9606:199847] id 135: MachPort: com.apple.commcenter.cupolicy.xpc Method: getDeviceInfo
+2018-11-05 11:02:58.164 out.exec[9606:199847] id 135: Invocation has a completion handler
+2018-11-05 11:02:58.165 out.exec[9606:199847] id 136: about to run
+2018-11-05 11:02:58.165 out.exec[9606:199847] id 136: MachPort: com.apple.commcenter.xpc Method: getDeviceInfo
+2018-11-05 11:02:58.213 out.exec[9606:199847] id 136: Invocation has a completion handler
+2018-11-05 11:02:58.214 out.exec[9606:199847] id 137: about to run
+2018-11-05 11:02:58.214 out.exec[9606:199847] id 137: MachPort: com.apple.commcenter.cupolicy.xpc Method: retrieveRequestSettings
+2018-11-05 11:02:58.263 out.exec[9606:199847] id 137: Invocation has a completion handler
+2018-11-05 11:02:58.263 out.exec[9606:199847] id 138: about to run
+2018-11-05 11:02:58.263 out.exec[9606:199847] id 138: MachPort: com.apple.commcenter.xpc Method: retrieveRequestSettings
+2018-11-05 11:02:58.310 out.exec[9606:199847] id 138: Invocation has a completion handler
+2018-11-05 11:02:58.310 out.exec[9606:199847] id 139: about to run
+2018-11-05 11:02:58.310 out.exec[9606:199847] id 139: MachPort: com.apple.commcenter.cupolicy.xpc Method: fetchNewProfilesWithCompletion
+2018-11-05 11:02:58.354 out.exec[9606:199847] id 139: Invocation has a completion handler
+2018-11-05 11:02:58.355 out.exec[9606:199847] id 140: about to run
+2018-11-05 11:02:58.355 out.exec[9606:199847] id 140: MachPort: com.apple.commcenter.xpc Method: fetchNewProfilesWithCompletion
+2018-11-05 11:02:58.399 out.exec[9606:199847] id 140: Invocation has a completion handler
+2018-11-05 11:02:58.400 out.exec[9606:199847] id 141: about to run
+2018-11-05 11:02:58.400 out.exec[9606:199847] id 141: MachPort: com.apple.commcenter.cupolicy.xpc Method: registerHasNewProfileCompletion
+2018-11-05 11:02:58.445 out.exec[9606:199847] id 141: Invocation has a completion handler
+2018-11-05 11:02:58.446 out.exec[9606:199847] id 142: about to run
+2018-11-05 11:02:58.446 out.exec[9606:199847] id 142: MachPort: com.apple.commcenter.xpc Method: registerHasNewProfileCompletion
+2018-11-05 11:02:58.492 out.exec[9606:199847] id 142: Invocation has a completion handler
+2018-11-05 11:02:58.493 out.exec[9606:199847] id 143: about to run
+2018-11-05 11:02:58.493 out.exec[9606:199847] id 143: MachPort: com.apple.commcenter.cupolicy.xpc Method: setUserInPurchaseFlow

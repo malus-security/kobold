@@ -1,0 +1,2 @@
+process connect connect://localhost:6666
+command script import /Users/luke/Desktop/auto_debugger/find_aslr_offset.py

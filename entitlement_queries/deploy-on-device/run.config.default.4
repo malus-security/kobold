@@ -1,0 +1,16 @@
+#binary_app=../../../../ios-command-line-tool.git/build/Release-iphoneos/ios-command-line-tool
+binary_app=./exec/ios-command-line-tool_4
+ent_file=../xml_entitlements/default.xml
+ip_addr=172.19.8.149
+user=root
+loops=1
+deviceID=1
+START_TIME=`date +%d-%m-%Y_%H:%M`
+
+RESULTS_FOLDER=$PWD/results
+FILEMON_FOLDER=$RESULTS_FOLDER/filemon
+CRASH_REPORTER_FOLDER=$RESULTS_FOLDER/crash_logs
+APP_OUTPUT_FOLDER=$RESULTS_FOLDER/app_output
+ENTS_FOLDER=$RESULTS_FOLDER/entitlements
+
+DEVICE_CRASH_REPORTER_FOLDER=/private/var/mobile/Library/Logs/CrashReporter/

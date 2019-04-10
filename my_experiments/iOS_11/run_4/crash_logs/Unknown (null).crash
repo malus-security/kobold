@@ -1,0 +1,20 @@
+{
+  "build" : "iPhone OS 11.0.3 (15A432)",
+  "product" : "iPhone7,2",
+  "kernel" : "Darwin Kernel Version 17.0.0: Fri Sep  1 14:59:15 PDT 2017; root:xnu-4570.2.5~167\/RELEASE_ARM64_T7000",
+  "tuning" : {
+
+  },
+  "incident" : "FC11C3A2-05CC-430C-96A0-C05C51BAC40B",
+  "crashReporterKey" : "25ad52ef4e3640bd68066fdc405a0e0476655fdf",
+  "date" : "2018-11-13 18:04:23.90 +0200",
+  "reason" : "Power assertion timeout for \"RTLocationAwarenessManager\".  Simply releasing it now.\nBacktrace for power assertion: pid 31 (0x184e711a4 0x1a8c8ee48 0x1a8d77d1c 0x1822b5088 0x1822b5048 0x1822bee48 0x1822bf7d8 0x1822c0200 0x1822c84a0 0x18255afe0 0x18255ac30)",
+  "frontmostPids" : [
+    55
+  ],
+  "exception" : "0xdeaffeed",
+  "absoluteTime" : 268137101833,
+  "thermalData" : {"sensors":[0],"thermalLevel":0},
+  "memoryStatus" : {"compressorSize":73697,"compressions":1622832,"decompressions":847253,"busyBufferCount":0,"pageSize":4096,"memoryPressure":false,"memoryPages":{"active":88789,"throttled":0,"fileBacked":59465,"wired":44558,"purgeable":551,"inactive":40821,"free":2845,"speculative":2077}},
+  "processByPid" : {
+    "0" : {"timesThrottled":5,"pageIns":1,"waitInfo":["thread 665: mach_msg receive on port set 0xbd09f1454a512319"],"timesDidThrottle":1,"procname":"kernel_task","copyOnWriteFaults":0,"threadById":{"356":{"continuation":[0,68842187796],"userTime":0.041553874999999997,"systemTime":0,"id":356,"basePriority":81,"name":"AppleCBTL1610","user_usec":41553,"schedPriority":81,"system_usec":0,"state":["TH_WAIT","TH_UNINT"],"waitEvent":[1,13621683827855101569]},"631":{"userTime":4.25e-06,"systemTime":0,"name":"ifnet_start_pdp_ip2","id":631,"basePriority":81,"user_usec":4,"system_usec":0,"schedPriority":81,"kernelFrames":[[0,68837792004],[0,68837786932],[0,68837747048],[0,68841038288],[0,68841039760],[0,68839175940],[0,68837553088]],"state":["TH_WAIT","TH_UNINT"],"waitEvent":[1,13621683827858130881]},"276":{"continuation":[0,68842187796],"userTime":6.4999999999999996e-06,"systemTime":0,"id":276,"basePriority":81,"name":"AppleSamsungSerial","user_usec":6,"schedPriority":81,"system_usec":0,"state":["TH_WAIT","TH_UNINT"],"waitEvent":[1,13621683827855350385]},"365":{"continuation":[0,68842187796],"userTime":1.1124999999999999e-05,"systemTime":0,"id":365,"basePriority":81,"name":"AppleSEPManager","user_usec":11,"schedPriority":81,"system_usec":0,"state":["TH_WAIT","TH_UNINT"],"waitEvent":[1,13621683827855081329]},"429":{"continuation":[0,68841039228],"userTime":3.0000000000000001e-06,"systemTime":0,"id":429,"basePriority":81,"user_usec":3,"system_usec":0,"schedPriority":81,"state":["TH_WAIT","TH_UNINT"],"waitEvent":[0,68843240488]},"518":{"continuation":[0,68842187796],"userTime":4.2910000000000001e-06,"systemTime":0,"id":518,"basePriority":81,"name":"IOAsynchronousScheduler","user_usec":4,"schedPriority":81,"system_usec":0,"state":["TH_WAIT","TH_UNINT"],"waitEvent":[1,13621683827854599617]},"268":{"continuation":[0,68842187796],"userTime":6.6660000000000002e-06,"systemTime":0,"id":268,"basePriority":81,"name":"AppleT7000PMGR","user_usec":6,"schedPriority":81,"system_usec":0,"state":["TH_WAIT","TH_UNINT"],"waitEvent":[1,136216

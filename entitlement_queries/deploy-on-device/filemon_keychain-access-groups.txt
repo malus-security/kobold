@@ -1,0 +1,943 @@
+ 4758 scp	Created        /private/var/root/out.exec	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.r5W3VFr	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.r5W3VFr	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.r5W3VFr	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.r5W3VFr	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+ 4758 scp	Changed stat   /private/var/root/out.exec	
+ 4758 scp	Modified       /private/var/root/out.exec	
+ 4760 xpcproxy	Created        /private/var/tmp/cy-zdnHzk.dylib	
+ 4760 xpcproxy	Deleted        /private/var/tmp/cy-zdnHzk.dylib	
+ 4760 xpcproxy	Modified       /private/var/tmp/cy-zdnHzk.dylib	
+ 4760 xpcproxy	Created        /private/var/tmp/cy-91HhUV.dylib	
+ 4760 xpcproxy	Deleted        /private/var/tmp/cy-91HhUV.dylib	
+ 4760 xpcproxy	Modified       /private/var/tmp/cy-91HhUV.dylib	
+ 4763 out.exec	Changed stat   /private/var/root/run.out	
+ 4765 xpcproxy	Created        /private/var/tmp/cy-EuVGSl.dylib	
+ 4765 xpcproxy	Deleted        /private/var/tmp/cy-EuVGSl.dylib	
+ 4765 xpcproxy	Modified       /private/var/tmp/cy-EuVGSl.dylib	
+ 4765 xpcproxy	Created        /private/var/tmp/cy-M7t79A.dylib	
+ 4765 xpcproxy	Deleted        /private/var/tmp/cy-M7t79A.dylib	
+ 4765 xpcproxy	Modified       /private/var/tmp/cy-M7t79A.dylib	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6glL7vo	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6glL7vo	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6glL7vo	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6glL7vo	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6glL7vo	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6glL7vo	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6glL7vo	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.ld0KwpT	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.ld0KwpT	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.ld0KwpT	
+ 4579 locationd	Created        /private/var/root/Library/Caches/locationd/.dat.nosync11e3.T929zy	
+ 4579 locationd	Modified       /private/var/root/Library/Caches/locationd/.dat.nosync11e3.T929zy	
+ 4579 locationd	Renamed        /private/var/root/Library/Caches/locationd/.dat.nosync11e3.T929zy	/private/var/root/Library/Caches/locationd/clients.plist 
+ 4579 locationd	Chowned        /private/var/root/Library/Caches/locationd/clients.plist	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist.mMzRgg2	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist.mMzRgg2	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist.mMzRgg2	
+ 4768 ReportCrash	Created        /private/var/tmp/cy-p1Fs25.dylib	
+ 4768 ReportCrash	Deleted        /private/var/tmp/cy-p1Fs25.dylib	
+ 4768 ReportCrash	Modified       /private/var/tmp/cy-p1Fs25.dylib	
+ 4768 ReportCrash	Created        /private/var/tmp/cy-A8xXfG.dylib	
+ 4768 ReportCrash	Deleted        /private/var/tmp/cy-A8xXfG.dylib	
+ 4768 ReportCrash	Modified       /private/var/tmp/cy-A8xXfG.dylib	
+ 4768 ReportCrash	Created        /private/var/mobile/Library/Logs/CrashReporter/.com.apple.siri.embeddedspeech-2018-11-01-105017.ips	
+ 4768 ReportCrash	Changed xattr  /private/var/mobile/Library/Logs/CrashReporter/.com.apple.siri.embeddedspeech-2018-11-01-105017.ips	
+ 4768 ReportCrash	Modified       /private/var/mobile/Library/Logs/CrashReporter/.com.apple.siri.embeddedspeech-2018-11-01-105017.ips	
+ 4768 ReportCrash	Renamed        /private/var/mobile/Library/Logs/CrashReporter/.com.apple.siri.embeddedspeech-2018-11-01-105017.ips	/private/var/mobile/Library/Logs/CrashReporter/com.apple.siri.embeddedspeech-2018-11-01-105017.ips 
+ 4768 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+ 4619 	Modified       /private/var/mobile/Media/iTunes_Control/iTunes/MediaLibrary.sqlitedb-shm	
+ 4768 ReportCrash	Created        /private/var/mobile/Library/Logs/CrashReporter/.medialibraryd-2018-11-01-105017.225.ips	
+ 4768 ReportCrash	Changed xattr  /private/var/mobile/Library/Logs/CrashReporter/.medialibraryd-2018-11-01-105017.225.ips	
+ 4768 ReportCrash	Modified       /private/var/mobile/Library/Logs/CrashReporter/.medialibraryd-2018-11-01-105017.225.ips	
+ 4768 ReportCrash	Renamed        /private/var/mobile/Library/Logs/CrashReporter/.medialibraryd-2018-11-01-105017.225.ips	/private/var/mobile/Library/Logs/CrashReporter/medialibraryd-2018-11-01-105017.225.ips 
+ 4768 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+ 4771 xpcproxy	Created        /private/var/tmp/cy-Hl7cD5.dylib	
+ 4771 xpcproxy	Deleted        /private/var/tmp/cy-Hl7cD5.dylib	
+ 4771 xpcproxy	Modified       /private/var/tmp/cy-Hl7cD5.dylib	
+ 4771 xpcproxy	Created        /private/var/tmp/cy-JMbp1A.dylib	
+ 4771 xpcproxy	Deleted        /private/var/tmp/cy-JMbp1A.dylib	
+ 4771 xpcproxy	Modified       /private/var/tmp/cy-JMbp1A.dylib	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.assistant.plist.ne1lx4X	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.assistant.plist.ne1lx4X	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.assistant.plist.ne1lx4X	
+  482 cfprefsd	Created        /private/var/root/Library/Preferences/com.apple.xpc.activity2.plist.pQJ2qG7	
+  482 cfprefsd	Chowned        /private/var/root/Library/Preferences/com.apple.xpc.activity2.plist.pQJ2qG7	
+  482 cfprefsd	Chowned        /private/var/root/Library/Preferences/com.apple.xpc.activity2.plist.pQJ2qG7	
+  482 cfprefsd	Chowned        /private/var/root/Library/Preferences/com.apple.xpc.activity2.plist.pQJ2qG7	
+  482 cfprefsd	Chowned        /private/var/root/Library/Preferences/com.apple.xpc.activity2.plist.pQJ2qG7	
+  482 cfprefsd	Modified       /private/var/root/Library/Preferences/com.apple.xpc.activity2.plist.pQJ2qG7	
+  482 cfprefsd	Renamed        /private/var/root/Library/Preferences/com.apple.xpc.activity2.plist.pQJ2qG7	/private/var/root/Library/Preferences/com.apple.xpc.activity2.plist 
+ 4774 xpcproxy	Created        /private/var/tmp/cy-6YzOwD.dylib	
+ 4774 xpcproxy	Deleted        /private/var/tmp/cy-6YzOwD.dylib	
+ 4774 xpcproxy	Modified       /private/var/tmp/cy-6YzOwD.dylib	
+ 4774 xpcproxy	Created        /private/var/tmp/cy-xWhgSv.dylib	
+ 4774 xpcproxy	Deleted        /private/var/tmp/cy-xWhgSv.dylib	
+ 4774 xpcproxy	Modified       /private/var/tmp/cy-xWhgSv.dylib	
+ 4777 xpcproxy	Created        /private/var/tmp/cy-KqC5oc.dylib	
+ 4777 xpcproxy	Deleted        /private/var/tmp/cy-KqC5oc.dylib	
+ 4777 xpcproxy	Modified       /private/var/tmp/cy-KqC5oc.dylib	
+ 4777 xpcproxy	Created        /private/var/tmp/cy-PRMHre.dylib	
+ 4777 xpcproxy	Deleted        /private/var/tmp/cy-PRMHre.dylib	
+ 4777 xpcproxy	Modified       /private/var/tmp/cy-PRMHre.dylib	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.ld0KwpT	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.ld0KwpT	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.ld0KwpT	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.ld0KwpT	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.assistant.plist.ne1lx4X	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.assistant.plist.ne1lx4X	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.assistant.plist.ne1lx4X	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.assistant.plist.ne1lx4X	/private/var/mobile/Library/Preferences/com.apple.assistant.plist 
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist.mMzRgg2	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist.mMzRgg2	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist.mMzRgg2	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist.mMzRgg2	/private/var/mobile/Library/Preferences/com.apple.medialibraryd.plist 
+ 4777 mstreamd	Changed stat   /private/var/mobile/Library/MediaStream/albumshare/Daemon.sqlite-shm	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-MUa4FN.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-MUa4FN.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-MUa4FN.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-aC9GuW.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-aC9GuW.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-aC9GuW.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-kKCdzv.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-kKCdzv.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-kKCdzv.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-oomGJP.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-oomGJP.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-oomGJP.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-gwvCle.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-gwvCle.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-gwvCle.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-gLrc8P.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-gLrc8P.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-gLrc8P.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-D8QGD6.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-D8QGD6.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-D8QGD6.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-mRdFNG.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-mRdFNG.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-mRdFNG.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-xErZ6Q.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-xErZ6Q.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-xErZ6Q.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-yo9Uh9.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-yo9Uh9.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-yo9Uh9.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-6aU77R.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-6aU77R.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-6aU77R.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-tjsTE0.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-tjsTE0.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-tjsTE0.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-bXgBVf.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-bXgBVf.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-bXgBVf.dylib	
+ 4780 xpcproxy	Created        /private/var/tmp/cy-T0kHG3.dylib	
+ 4780 xpcproxy	Deleted        /private/var/tmp/cy-T0kHG3.dylib	
+ 4780 xpcproxy	Modified       /private/var/tmp/cy-T0kHG3.dylib	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj4FB0F4978	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj4FB0F4978	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj4FB0F4978	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjEC90459FD	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjEC90459FD	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjEC90459FD	
+  412 configd	Created        /private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4-	
+  412 configd	Renamed        /private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4-	/private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4 
+  412 configd	Modified       /private/var/db/dhcpclient/leases/en0-1,4c:57:ca:b2:7c:d4	
+  409 syslogd	Modified       /private/var/log/com.apple.clouddocs.asl/StoreData	
+  409 syslogd	Modified       /private/var/log/com.apple.clouddocs.asl/2018.11.01.asl	
+  409 syslogd	Modified       /private/var/mobile/Library/Logs/FMFD/FMFD.asl	
+  409 syslogd	Modified       /private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/security.log.20181101T084612Z	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.gys8KtK	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.gys8KtK	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.gys8KtK	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KmAEgII	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KmAEgII	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KmAEgII	
+ 4706 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9k2dlbCc	
+ 4706 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9k2dlbCc	
+ 4706 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9k2dlbCc	
+ 4706 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9k2dlbCc	
+ 4706 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9k2dlbCc	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116833383999562712113237 
+ 4706 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116832160709443860564051	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.gys8KtK	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.gys8KtK	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.gys8KtK	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.gys8KtK	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KmAEgII	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KmAEgII	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KmAEgII	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.KmAEgII	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+ 4783 ReportCrash	Created        /private/var/tmp/cy-ySuc0V.dylib	
+ 4783 ReportCrash	Deleted        /private/var/tmp/cy-ySuc0V.dylib	
+ 4783 ReportCrash	Modified       /private/var/tmp/cy-ySuc0V.dylib	
+ 4783 ReportCrash	Created        /private/var/tmp/cy-emS7eP.dylib	
+ 4783 ReportCrash	Deleted        /private/var/tmp/cy-emS7eP.dylib	
+ 4783 ReportCrash	Modified       /private/var/tmp/cy-emS7eP.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-GdmxkP.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-GdmxkP.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-GdmxkP.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-bnmwq5.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-bnmwq5.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-bnmwq5.dylib	
+ 4783 ReportCrash	Created        /private/var/mobile/Library/Logs/CrashReporter/.sharingd-2018-11-01-105219.ips	
+ 4783 ReportCrash	Changed xattr  /private/var/mobile/Library/Logs/CrashReporter/.sharingd-2018-11-01-105219.ips	
+ 4783 ReportCrash	Modified       /private/var/mobile/Library/Logs/CrashReporter/.sharingd-2018-11-01-105219.ips	
+ 4783 ReportCrash	Renamed        /private/var/mobile/Library/Logs/CrashReporter/.sharingd-2018-11-01-105219.ips	/private/var/mobile/Library/Logs/CrashReporter/sharingd-2018-11-01-105219.ips 
+ 4783 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+ 4785 sharingd	Created        /private/var/tmp/cy-tStAAN.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-tStAAN.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-tStAAN.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-K0gPOo.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-K0gPOo.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-K0gPOo.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-xzAmLz.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-xzAmLz.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-xzAmLz.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-J6PACZ.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-J6PACZ.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-J6PACZ.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-sCgmAO.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-sCgmAO.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-sCgmAO.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-WGyIT6.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-WGyIT6.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-WGyIT6.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-H6GW6V.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-H6GW6V.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-H6GW6V.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-2n9j9F.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-2n9j9F.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-2n9j9F.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-pZH3vj.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-pZH3vj.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-pZH3vj.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-2DGDBQ.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-2DGDBQ.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-2DGDBQ.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-UwyvUQ.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-UwyvUQ.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-UwyvUQ.dylib	
+ 4785 sharingd	Created        /private/var/tmp/cy-261Pdy.dylib	
+ 4785 sharingd	Deleted        /private/var/tmp/cy-261Pdy.dylib	
+ 4785 sharingd	Modified       /private/var/tmp/cy-261Pdy.dylib	
+  487 nsurlsessiond	Created dir    /private/var/mobile/Library/com.apple.nsurlsessiond/B681CD17351FE8C7FD6CC6BD10C7A65AA69A20C4	
+  487 nsurlsessiond	Created        /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.SMxtck	
+  487 nsurlsessiond	Changed stat   /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.SMxtck	
+  487 nsurlsessiond	Modified       /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.SMxtck	
+  487 nsurlsessiond	Renamed        /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.SMxtck	/private/var/mobile/Library/com.apple.nsurlsessiond/bundles.plist 
+  487 nsurlsessiond	Chowned        /private/var/mobile/Library/com.apple.nsurlsessiond/bundles.plist	
+  487 nsurlsessiond	Deleted        /private/var/mobile/Library/com.apple.nsurlsessiond/B681CD17351FE8C7FD6CC6BD10C7A65AA69A20C4	
+  487 nsurlsessiond	Created        /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.KarUqg	
+  487 nsurlsessiond	Changed stat   /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.KarUqg	
+  487 nsurlsessiond	Modified       /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.KarUqg	
+  487 nsurlsessiond	Renamed        /private/var/mobile/Library/com.apple.nsurlsessiond/.dat.nosync01e7.KarUqg	/private/var/mobile/Library/com.apple.nsurlsessiond/bundles.plist 
+  487 nsurlsessiond	Chowned        /private/var/mobile/Library/com.apple.nsurlsessiond/bundles.plist	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6huuYI9	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6huuYI9	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6huuYI9	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.DQGxfuB	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.DQGxfuB	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.DQGxfuB	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6huuYI9	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6huuYI9	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6huuYI9	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.6huuYI9	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.DQGxfuB	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.DQGxfuB	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.DQGxfuB	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.DQGxfuB	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.y2TVxqZ	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.y2TVxqZ	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.y2TVxqZ	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-romhqp.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-romhqp.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-romhqp.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-eXa1EM.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-eXa1EM.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-eXa1EM.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-v08pAR.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-v08pAR.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-v08pAR.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-QZ8PZV.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-QZ8PZV.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-QZ8PZV.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-NkjPbM.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-NkjPbM.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-NkjPbM.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-SOEK6v.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-SOEK6v.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-SOEK6v.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-6IBee4.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-6IBee4.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-6IBee4.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-rvbNHh.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-rvbNHh.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-rvbNHh.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-Es9XC1.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-Es9XC1.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-Es9XC1.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-4cUNMX.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-4cUNMX.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-4cUNMX.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-1ULOmw.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-1ULOmw.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-1ULOmw.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-b2ij6c.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-b2ij6c.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-b2ij6c.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-BWIaBN.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-BWIaBN.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-BWIaBN.dylib	
+ 4789 xpcproxy	Created        /private/var/tmp/cy-f6GoGc.dylib	
+ 4789 xpcproxy	Deleted        /private/var/tmp/cy-f6GoGc.dylib	
+ 4789 xpcproxy	Modified       /private/var/tmp/cy-f6GoGc.dylib	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj34A81C9A2	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj34A81C9A2	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj34A81C9A2	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjC6AC1B92F	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjC6AC1B92F	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjC6AC1B92F	
+ 4704 backboardd	Chowned        /private/var/mobile/Library/Application Support/Multitouch/multitouch.dycal	
+ 4704 backboardd	Changed stat   /private/var/mobile/Library/Application Support/Multitouch/multitouch.dycal	
+ 4704 backboardd	Modified       /private/var/mobile/Library/Application Support/Multitouch/multitouch.dycal	
+ 4706 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9Yvf74jd	
+ 4706 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/137790580121137382002606087936995691298	
+ 4706 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9Yvf74jd	
+ 4706 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9Yvf74jd	
+ 4706 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9Yvf74jd	
+ 4706 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.9Yvf74jd	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/1377905801211373820014578763209417216545 
+ 4706 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.lrnR1cnJ	
+ 4706 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.lrnR1cnJ	
+ 4706 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.lrnR1cnJ	
+ 4706 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.lrnR1cnJ	
+ 4706 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.lrnR1cnJ	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/17201307345024611683389786479086106872 
+ 4706 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116833383999562712113237	
+ 4706 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.x5UsOFWc	
+ 4706 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.x5UsOFWc	
+ 4706 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/17201307345024611683389786479086106872	
+ 4706 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.x5UsOFWc	
+ 4706 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.x5UsOFWc	
+ 4706 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.x5UsOFWc	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/172013073450246116833383999562712113237 
+ 4706 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.BgWQH6Xp	
+ 4706 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.BgWQH6Xp	
+ 4706 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.BgWQH6Xp	
+ 4706 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/1377905801211359073517354031217835921406	
+ 4706 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.BgWQH6Xp	
+ 4706 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.BgWQH6Xp	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/137790580121135907351453845921271633912 
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.y2TVxqZ	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.y2TVxqZ	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.y2TVxqZ	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.y2TVxqZ	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+ 4792 Preferences	Created        /private/var/tmp/cy-EVlqlC.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-EVlqlC.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-EVlqlC.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-PnsWTM.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-PnsWTM.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-PnsWTM.dylib	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.q6yzlJJ	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.q6yzlJJ	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.q6yzlJJ	
+  409 syslogd	Created        /private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/SoftwareUpdateServices.log.2018-11-01T10:52:26+2	
+  409 syslogd	Chowned        /private/var/mobile/Library/Logs/CrashReporter/DiagnosticLogs/SoftwareUpdateServices.log.2018-11-01T10:52:26+2	
+ 4706 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.l07pSS71	
+ 4706 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.l07pSS71	
+ 4706 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.l07pSS71	
+ 4706 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.l07pSS71	
+ 4706 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.l07pSS71	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/1372315416085228151414967449525126967018 
+ 4706 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/137231541608522815144691949762989674731	
+ 4706 SpringBoard	Created        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.xBhcRgzX	
+ 4706 SpringBoard	Chowned        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.xBhcRgzX	
+ 4706 SpringBoard	Changed stat   /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.xBhcRgzX	
+ 4706 SpringBoard	Deleted        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/1372315416085228146912565340685574839494	
+ 4706 SpringBoard	Modified       /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.xBhcRgzX	
+ 4706 SpringBoard	Renamed        /private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/tmp.xBhcRgzX	/private/var/mobile/Library/Caches/com.apple.UIStatusBar/13F69/images/137231541608522814693606108354807135681 
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.q6yzlJJ	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.q6yzlJJ	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.q6yzlJJ	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.coreduetd.plist.q6yzlJJ	/private/var/mobile/Library/Preferences/com.apple.coreduetd.plist 
+ 4792 Preferences	Created        /private/var/tmp/cy-TgkyYA.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-TgkyYA.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-TgkyYA.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-0AI82q.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-0AI82q.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-0AI82q.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-UPZ8Qq.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-UPZ8Qq.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-UPZ8Qq.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-p6KNeE.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-p6KNeE.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-p6KNeE.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-DtwFt2.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-DtwFt2.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-DtwFt2.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-UY6XNk.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-UY6XNk.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-UY6XNk.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-eROwIt.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-eROwIt.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-eROwIt.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-sfxneC.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-sfxneC.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-sfxneC.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-CkIYS3.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-CkIYS3.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-CkIYS3.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-agymlE.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-agymlE.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-agymlE.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-m7jkLH.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-m7jkLH.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-m7jkLH.dylib	
+ 4792 Preferences	Created        /private/var/tmp/cy-uachk6.dylib	
+ 4792 Preferences	Deleted        /private/var/tmp/cy-uachk6.dylib	
+ 4792 Preferences	Modified       /private/var/tmp/cy-uachk6.dylib	
+ 4792 Preferences	Modified       /private/var/mobile/Library/Caches/com.apple.Preferences/com.apple.opengl/shaders.data	
+ 4792 Preferences	Modified       /private/var/mobile/Library/Caches/com.apple.Preferences/com.apple.opengl/shaders.maps	
+  534 CommCenter	Chowned        /private/var/wireless/Library/Preferences/com.apple.commcenter.plist	
+  697 nsurlstoraged	Changed stat   /private/var/mobile/Library/Caches/com.apple.Preferences/Cache.db-shm	
+  697 nsurlstoraged	Modified       /private/var/mobile/Library/Caches/com.apple.Preferences/Cache.db-shm	
+  697 nsurlstoraged	Changed stat   /private/var/mobile/Library/Caches/com.apple.Preferences/Cache.db-shm	
+  711 passd	Created        /private/var/mobile/Library/Passes/.dat.nosync02c7.7I74hs	
+  711 passd	Changed stat   /private/var/mobile/Library/Passes/.dat.nosync02c7.7I74hs	
+  711 passd	Modified       /private/var/mobile/Library/Passes/.dat.nosync02c7.7I74hs	
+  711 passd	Renamed        /private/var/mobile/Library/Passes/.dat.nosync02c7.7I74hs	/private/var/mobile/Library/Passes/PaymentWebServiceContext.archive 
+  711 passd	Chowned        /private/var/mobile/Library/Passes/PaymentWebServiceContext.archive	
+  711 passd	Changed xattr  /private/var/mobile/Library/Passes/PaymentWebServiceContext.archive	
+ 4794 xpcproxy	Created        /private/var/tmp/cy-3qPUsQ.dylib	
+ 4794 xpcproxy	Deleted        /private/var/tmp/cy-3qPUsQ.dylib	
+ 4794 xpcproxy	Modified       /private/var/tmp/cy-3qPUsQ.dylib	
+ 4794 xpcproxy	Created        /private/var/tmp/cy-xVwBTo.dylib	
+ 4794 xpcproxy	Deleted        /private/var/tmp/cy-xVwBTo.dylib	
+ 4794 xpcproxy	Modified       /private/var/tmp/cy-xVwBTo.dylib	
+ 4797 xpcproxy	Created        /private/var/tmp/cy-EmiebS.dylib	
+ 4797 xpcproxy	Deleted        /private/var/tmp/cy-EmiebS.dylib	
+ 4797 xpcproxy	Modified       /private/var/tmp/cy-EmiebS.dylib	
+ 4797 xpcproxy	Created        /private/var/tmp/cy-yAoEtV.dylib	
+ 4797 xpcproxy	Deleted        /private/var/tmp/cy-yAoEtV.dylib	
+ 4797 xpcproxy	Modified       /private/var/tmp/cy-yAoEtV.dylib	
+ 4800 ReportCrash	Created        /private/var/tmp/cy-JiHIQw.dylib	
+ 4800 ReportCrash	Deleted        /private/var/tmp/cy-JiHIQw.dylib	
+ 4800 ReportCrash	Modified       /private/var/tmp/cy-JiHIQw.dylib	
+ 4800 ReportCrash	Created        /private/var/tmp/cy-8EjmKI.dylib	
+ 4800 ReportCrash	Deleted        /private/var/tmp/cy-8EjmKI.dylib	
+ 4800 ReportCrash	Modified       /private/var/tmp/cy-8EjmKI.dylib	
+ 4802 iaptransportd	Created        /private/var/tmp/cy-d86KPu.dylib	
+ 4802 iaptransportd	Deleted        /private/var/tmp/cy-d86KPu.dylib	
+ 4802 iaptransportd	Modified       /private/var/tmp/cy-d86KPu.dylib	
+ 4802 iaptransportd	Created        /private/var/tmp/cy-uyasK7.dylib	
+ 4802 iaptransportd	Deleted        /private/var/tmp/cy-uyasK7.dylib	
+ 4802 iaptransportd	Modified       /private/var/tmp/cy-uyasK7.dylib	
+ 4800 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+ 4797 iap2d	Created        /private/var/tmp/cy-yZFwqK.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-yZFwqK.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-yZFwqK.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-0FZfjn.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-0FZfjn.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-0FZfjn.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-ZvFdkA.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-ZvFdkA.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-ZvFdkA.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-0SdfL4.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-0SdfL4.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-0SdfL4.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-Qg1VbC.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-Qg1VbC.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-Qg1VbC.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-l7rBc8.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-l7rBc8.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-l7rBc8.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-QbsPd4.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-QbsPd4.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-QbsPd4.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-TFrSDz.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-TFrSDz.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-TFrSDz.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-OCXz6W.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-OCXz6W.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-OCXz6W.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-7emSDV.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-7emSDV.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-7emSDV.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-wCevF5.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-wCevF5.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-wCevF5.dylib	
+ 4797 iap2d	Created        /private/var/tmp/cy-ZKPW6E.dylib	
+ 4797 iap2d	Deleted        /private/var/tmp/cy-ZKPW6E.dylib	
+ 4797 iap2d	Modified       /private/var/tmp/cy-ZKPW6E.dylib	
+ 4800 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+ 4800 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+  697 nsurlstoraged	Created        /private/var/tmp/etilqs_qQ8NekKdpnOFg4q	
+  697 nsurlstoraged	Deleted        /private/var/tmp/etilqs_qQ8NekKdpnOFg4q	
+  697 nsurlstoraged	Modified       /private/var/tmp/etilqs_qQ8NekKdpnOFg4q	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-ne6hm1.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-ne6hm1.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-ne6hm1.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-acwdR0.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-acwdR0.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-acwdR0.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-AeoPzx.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-AeoPzx.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-AeoPzx.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-JBSjCH.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-JBSjCH.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-JBSjCH.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-HSJkqw.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-HSJkqw.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-HSJkqw.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-LQM4Fu.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-LQM4Fu.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-LQM4Fu.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-zyoIJ8.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-zyoIJ8.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-zyoIJ8.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-avt5W0.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-avt5W0.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-avt5W0.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-krgWWx.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-krgWWx.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-krgWWx.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-0tN93T.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-0tN93T.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-0tN93T.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-XJxJVs.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-XJxJVs.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-XJxJVs.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-2aPynO.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-2aPynO.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-2aPynO.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-Ao4COK.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-Ao4COK.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-Ao4COK.dylib	
+ 4806 xpcproxy	Created        /private/var/tmp/cy-aFTTls.dylib	
+ 4806 xpcproxy	Deleted        /private/var/tmp/cy-aFTTls.dylib	
+ 4806 xpcproxy	Modified       /private/var/tmp/cy-aFTTls.dylib	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj0F98889D4	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj0F98889D4	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj0F98889D4	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj62D08E97B	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj62D08E97B	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj62D08E97B	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4731 	Created        /private/var/mobile/Library/SyncedPreferences/.dat.nosync127b.V4Kbkd	
+ 4731 	Modified       /private/var/mobile/Library/SyncedPreferences/.dat.nosync127b.V4Kbkd	
+ 4731 	Renamed        /private/var/mobile/Library/SyncedPreferences/.dat.nosync127b.V4Kbkd	/private/var/mobile/Library/SyncedPreferences/com.apple.syncedpreferences.plist 
+ 4731 	Chowned        /private/var/mobile/Library/SyncedPreferences/com.apple.syncedpreferences.plist	
+  709 profiled	Created        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.qvw79g	
+  709 profiled	Modified       /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.qvw79g	
+  709 profiled	Renamed        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.qvw79g	/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.GL90Tl	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.GL90Tl	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.GL90Tl	/private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist	
+  721 keybagd	Created        /private/var/keybags/systembag.kb.writing	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.8ZAAlwc	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.8ZAAlwc	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.8ZAAlwc	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.BOrHuv	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.8ZAAlwc	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.8ZAAlwc	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.8ZAAlwc	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.8ZAAlwc	/private/var/mobile/Library/Preferences/com.apple.WebUI.plist 
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.BOrHuv	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.BOrHuv	/private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.jX8hHT	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.jX8hHT	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.jX8hHT	/private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist	
+ 4771 medialibraryd	Changed stat   /private/var/mobile/Media/iTunes_Control/iTunes/MediaLibrary.sqlitedb-shm	
+  721 keybagd	Modified       /private/var/keybags/systembag.kb.writing	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.writing	/private/var/keybags/systembag.kb.new 
+  709 profiled	Created        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.IzBz6y	
+  709 profiled	Modified       /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.IzBz6y	
+  709 profiled	Renamed        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.IzBz6y	/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.gw2SZH	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.gw2SZH	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.gw2SZH	/private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.kKHBCxA	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.kKHBCxA	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.kKHBCxA	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.aH1Cin	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.aH1Cin	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.aH1Cin	/private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.VNAzNn	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.VNAzNn	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.VNAzNn	/private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist	
+  709 profiled	Created        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.2d5acY	
+  721 keybagd	Deleted        /private/var/keybags/systembag.kb	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.new	/private/var/keybags/systembag.kb 
+  721 keybagd	Created        /private/var/keybags/systembag.kb.writing	
+  709 profiled	Modified       /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.2d5acY	
+  709 profiled	Renamed        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.2d5acY	/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.J6IbPF	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.J6IbPF	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.J6IbPF	/private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.g9Jqru	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.g9Jqru	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.g9Jqru	/private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.99nsgb	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.99nsgb	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.99nsgb	/private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist	
+  721 keybagd	Modified       /private/var/keybags/systembag.kb.writing	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.writing	/private/var/keybags/systembag.kb.new 
+  709 profiled	Created        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.7ZCA1s	
+  709 profiled	Modified       /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.7ZCA1s	
+  709 profiled	Renamed        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.7ZCA1s	/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.uNPrvQ	
+  721 keybagd	Deleted        /private/var/keybags/systembag.kb	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.new	/private/var/keybags/systembag.kb 
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.uNPrvQ	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.uNPrvQ	/private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist	
+  721 keybagd	Created        /private/var/keybags/systembag.kb.writing	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.KlJEgw	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.KlJEgw	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.KlJEgw	/private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.y5pgsn	
+  721 keybagd	Modified       /private/var/keybags/systembag.kb.writing	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.writing	/private/var/keybags/systembag.kb.new 
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.y5pgsn	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.y5pgsn	/private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist	
+  721 keybagd	Deleted        /private/var/keybags/systembag.kb	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.new	/private/var/keybags/systembag.kb 
+  721 keybagd	Created        /private/var/keybags/systembag.kb.writing	
+  709 profiled	Created        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.HBriwS	
+  709 profiled	Modified       /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.HBriwS	
+  709 profiled	Renamed        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/.dat.nosync02c5.HBriwS	/private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/containers/Shared/SystemGroup/systemgroup.com.apple.configurationprofiles/Library/ConfigurationProfiles/UserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.agyEPV	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.agyEPV	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.agyEPV	/private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/UserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.kw2p04	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.kw2p04	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/.dat.nosync02c5.kw2p04	/private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/EffectiveUserSettings.plist	
+  709 profiled	Created        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.E8jNun	
+  709 profiled	Modified       /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.E8jNun	
+  709 profiled	Renamed        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/.dat.nosync02c5.E8jNun	/private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist 
+  709 profiled	Chowned        /private/var/mobile/Library/UserConfigurationProfiles/PublicInfo/PublicEffectiveUserSettings.plist	
+  721 keybagd	Modified       /private/var/keybags/systembag.kb.writing	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.writing	/private/var/keybags/systembag.kb.new 
+  721 keybagd	Deleted        /private/var/keybags/systembag.kb	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.new	/private/var/keybags/systembag.kb 
+  721 keybagd	Created        /private/var/keybags/systembag.kb.writing	
+  721 keybagd	Modified       /private/var/keybags/systembag.kb.writing	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.writing	/private/var/keybags/systembag.kb.new 
+ 4809 xpcproxy	Created        /private/var/tmp/cy-EK3RIq.dylib	
+ 4809 xpcproxy	Deleted        /private/var/tmp/cy-EK3RIq.dylib	
+ 4809 xpcproxy	Modified       /private/var/tmp/cy-EK3RIq.dylib	
+ 4809 xpcproxy	Created        /private/var/tmp/cy-FDllog.dylib	
+ 4809 xpcproxy	Deleted        /private/var/tmp/cy-FDllog.dylib	
+ 4809 xpcproxy	Modified       /private/var/tmp/cy-FDllog.dylib	
+  721 keybagd	Deleted        /private/var/keybags/systembag.kb	
+  721 keybagd	Renamed        /private/var/keybags/systembag.kb.new	/private/var/keybags/systembag.kb 
+ 4809 replayd	Created        /private/var/tmp/cy-a1pf3d.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-a1pf3d.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-a1pf3d.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-CzCgpa.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-CzCgpa.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-CzCgpa.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-TYbcpF.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-TYbcpF.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-TYbcpF.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-oBLUM7.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-oBLUM7.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-oBLUM7.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-3K2u7K.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-3K2u7K.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-3K2u7K.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-BY3gNJ.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-BY3gNJ.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-BY3gNJ.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-T4bxv4.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-T4bxv4.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-T4bxv4.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-PlgYm4.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-PlgYm4.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-PlgYm4.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-Ox6ZZN.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-Ox6ZZN.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-Ox6ZZN.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-RwwzBB.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-RwwzBB.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-RwwzBB.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-zxsgak.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-zxsgak.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-zxsgak.dylib	
+ 4809 replayd	Created        /private/var/tmp/cy-RjsYxk.dylib	
+ 4809 replayd	Deleted        /private/var/tmp/cy-RjsYxk.dylib	
+ 4809 replayd	Modified       /private/var/tmp/cy-RjsYxk.dylib	
+ 4800 ReportCrash	Created        /private/var/mobile/Library/Logs/CrashReporter/.replayd-2018-11-01-105238.ips	
+ 4800 ReportCrash	Changed xattr  /private/var/mobile/Library/Logs/CrashReporter/.replayd-2018-11-01-105238.ips	
+ 4800 ReportCrash	Modified       /private/var/mobile/Library/Logs/CrashReporter/.replayd-2018-11-01-105238.ips	
+ 4800 ReportCrash	Renamed        /private/var/mobile/Library/Logs/CrashReporter/.replayd-2018-11-01-105238.ips	/private/var/mobile/Library/Logs/CrashReporter/replayd-2018-11-01-105238.ips 
+ 4800 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6E55D1917	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6E55D1917	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6E55D1917	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj35F4F8941	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj35F4F8941	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj35F4F8941	
+ 4664 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjFE53A3907	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjFE53A3907	
+ 4664 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjFE53A3907	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/play_activity.sqlitedb-shm	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/play_activity.sqlitedb-wal	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/itunesstored_private.sqlitedb-shm	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/Cookies/com.apple.itunesstored.2.sqlitedb	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/Caches/com.apple.storeServices.analytics/eventsTable_v1/eventsTable_v1.db-shm	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/updates.sqlitedb	
+ 4664 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb	
+ 4664 itunesstored	Modified       /private/var/mobile/Library/Logs/CrashReporter/com.apple.itunesstored/itunesstored.log	
+  697 nsurlstoraged	Modified       /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db-wal	
+ 4812 xpcproxy	Created        /private/var/tmp/cy-ot4HNi.dylib	
+ 4812 xpcproxy	Deleted        /private/var/tmp/cy-ot4HNi.dylib	
+ 4812 xpcproxy	Modified       /private/var/tmp/cy-ot4HNi.dylib	
+ 4812 xpcproxy	Created        /private/var/tmp/cy-qjV4vW.dylib	
+ 4812 xpcproxy	Deleted        /private/var/tmp/cy-qjV4vW.dylib	
+ 4812 xpcproxy	Modified       /private/var/tmp/cy-qjV4vW.dylib	
+  697 nsurlstoraged	Changed stat   /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db	
+4 0
+    0 kernel_task	Modified       /private/var/mobile/Library/Caches/com.apple.storeServices.analytics/eventsTable_v1/eventsTable_v1.db-shm	
+4 0
+    0 kernel_task	Modified       /private/var/mobile/Library/com.apple.itunesstored/itunesstored_private.sqlitedb-shm	
+4 0
+    0 kernel_task	Modified       /private/var/mobile/Library/com.apple.itunesstored/play_activity.sqlitedb-shm	
+ 4800 ReportCrash	Created        /private/var/mobile/Library/Logs/CrashReporter/.itunesstored-2018-11-01-105238.984.ips	
+ 4800 ReportCrash	Changed xattr  /private/var/mobile/Library/Logs/CrashReporter/.itunesstored-2018-11-01-105238.984.ips	
+ 4800 ReportCrash	Modified       /private/var/mobile/Library/Logs/CrashReporter/.itunesstored-2018-11-01-105238.984.ips	
+ 4800 ReportCrash	Renamed        /private/var/mobile/Library/Logs/CrashReporter/.itunesstored-2018-11-01-105238.984.ips	/private/var/mobile/Library/Logs/CrashReporter/itunesstored-2018-11-01-105238.984.ips 
+ 4800 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+  697 nsurlstoraged	Changed stat   /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db-wal	
+  697 nsurlstoraged	Modified       /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db-shm	
+  697 nsurlstoraged	Modified       /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db	
+  697 nsurlstoraged	Changed stat   /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db-shm	
+  697 nsurlstoraged	Modified       /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db-shm	
+  697 nsurlstoraged	Changed stat   /private/var/mobile/Library/Caches/com.apple.itunesstored/Cache.db-shm	
+ 4812 itunesstored	Created        /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb-journal	
+ 4812 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Library/com.apple.itunesstored/updates.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjD5FBF4907	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjD5FBF4907	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjD5FBF4907	
+ 4812 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/updates.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Library/com.apple.itunesstored/updates.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjF3CFBE9BE	
+ 4812 itunesstored	Changed stat   /private/var/mobile/Library/Caches/com.apple.storeServices.analytics/eventsTable_v1/eventsTable_v1.db-shm	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjF3CFBE9BE	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjF3CFBE9BE	
+ 4812 itunesstored	Created        /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb-journal	
+ 4812 itunesstored	Modified       /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Library/com.apple.itunesstored/kvs.sqlitedb-journal	
+ 4812 itunesstored	Changed stat   /private/var/mobile/Library/Caches/com.apple.itunesstored/url-resolution.plist	
+ 4812 itunesstored	Modified       /private/var/mobile/Library/Caches/com.apple.itunesstored/url-resolution.plist	
+ 4812 itunesstored	Changed stat   /private/var/mobile/Library/com.apple.itunesstored/itunesstored_private.sqlitedb-shm	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj19C5FC9C5	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj19C5FC9C5	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj19C5FC9C5	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj8ACBB195D	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj8ACBB195D	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj8ACBB195D	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjBF8B709D1	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjBF8B709D1	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjBF8B709D1	
+ 4812 itunesstored	Changed stat   /private/var/mobile/Library/com.apple.itunesstored/play_activity.sqlitedb-shm	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj3F695999B	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj3F695999B	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj3F695999B	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjA335A29B9	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjA335A29B9	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjA335A29B9	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj4917D4965	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj4917D4965	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj4917D4965	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj00DAA6921	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj00DAA6921	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj00DAA6921	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj8464B493B	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj8464B493B	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj8464B493B	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6508D6904	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6508D6904	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6508D6904	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6B4F05922	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6B4F05922	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mj6B4F05922	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjF790F9922	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjF790F9922	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjF790F9922	
+ 4812 itunesstored	Created        /private/var/mobile/Library/Cookies/com.apple.itunesstored.2.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/tmp/etilqs_6K5Wsv6813FhLxz	
+ 4812 itunesstored	Deleted        /private/var/tmp/etilqs_6K5Wsv6813FhLxz	
+ 4812 itunesstored	Modified       /private/var/tmp/etilqs_6K5Wsv6813FhLxz	
+ 4812 itunesstored	Modified       /private/var/mobile/Library/Cookies/com.apple.itunesstored.2.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Library/Cookies/com.apple.itunesstored.2.sqlitedb-journal	
+  482 cfprefsd	Created        /private/var/mobile/Library/Preferences/com.apple.itunesstored.plist.W3MFICg	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.itunesstored.plist.W3MFICg	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.itunesstored.plist.W3MFICg	
+ 4815 xpcproxy	Created        /private/var/tmp/cy-FrcNuH.dylib	
+ 4815 xpcproxy	Deleted        /private/var/tmp/cy-FrcNuH.dylib	
+ 4815 xpcproxy	Modified       /private/var/tmp/cy-FrcNuH.dylib	
+ 4815 xpcproxy	Created        /private/var/tmp/cy-W64eon.dylib	
+ 4815 xpcproxy	Deleted        /private/var/tmp/cy-W64eon.dylib	
+ 4815 xpcproxy	Modified       /private/var/tmp/cy-W64eon.dylib	
+ 4818 xpcproxy	Created        /private/var/tmp/cy-cMC8iN.dylib	
+ 4818 xpcproxy	Deleted        /private/var/tmp/cy-cMC8iN.dylib	
+ 4818 xpcproxy	Modified       /private/var/tmp/cy-cMC8iN.dylib	
+ 4818 xpcproxy	Created        /private/var/tmp/cy-CB53qg.dylib	
+ 4818 xpcproxy	Deleted        /private/var/tmp/cy-CB53qg.dylib	
+ 4818 xpcproxy	Modified       /private/var/tmp/cy-CB53qg.dylib	
+ 4821 ReportCrash	Created        /private/var/tmp/cy-8a9cji.dylib	
+ 4821 ReportCrash	Deleted        /private/var/tmp/cy-8a9cji.dylib	
+ 4821 ReportCrash	Modified       /private/var/tmp/cy-8a9cji.dylib	
+ 4821 ReportCrash	Created        /private/var/tmp/cy-jQp9oV.dylib	
+ 4821 ReportCrash	Deleted        /private/var/tmp/cy-jQp9oV.dylib	
+ 4821 ReportCrash	Modified       /private/var/tmp/cy-jQp9oV.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-tk8rKZ.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-tk8rKZ.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-tk8rKZ.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-Ypzd5W.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-Ypzd5W.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-Ypzd5W.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-6IxyKb.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-6IxyKb.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-6IxyKb.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-TFy3NK.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-TFy3NK.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-TFy3NK.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-oF8pLw.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-oF8pLw.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-oF8pLw.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-hUNgae.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-hUNgae.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-hUNgae.dylib	
+ 4821 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+ 4815 iap2d	Created        /private/var/tmp/cy-slZqQe.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-slZqQe.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-slZqQe.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-Y2MESF.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-Y2MESF.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-Y2MESF.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-iuAxEi.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-iuAxEi.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-iuAxEi.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-F1I8dq.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-F1I8dq.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-F1I8dq.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-ZVTz92.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-ZVTz92.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-ZVTz92.dylib	
+ 4815 iap2d	Created        /private/var/tmp/cy-35mWTc.dylib	
+ 4815 iap2d	Deleted        /private/var/tmp/cy-35mWTc.dylib	
+ 4815 iap2d	Modified       /private/var/tmp/cy-35mWTc.dylib	
+ 4821 ReportCrash	Modified       /private/var/mobile/Library/Logs/AppleSupport/general.log	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.kKHBCxA	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.kKHBCxA	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.kKHBCxA	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.WebUI.plist.kKHBCxA	/private/var/mobile/Library/Preferences/com.apple.WebUI.plist 
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.itunesstored.plist.W3MFICg	
+  482 cfprefsd	Chowned        /private/var/mobile/Library/Preferences/com.apple.itunesstored.plist.W3MFICg	
+  482 cfprefsd	Modified       /private/var/mobile/Library/Preferences/com.apple.itunesstored.plist.W3MFICg	
+  482 cfprefsd	Renamed        /private/var/mobile/Library/Preferences/com.apple.itunesstored.plist.W3MFICg	/private/var/mobile/Library/Preferences/com.apple.itunesstored.plist 
+  772 duetexpertd	Created        /private/var/tmp/etilqs_qqQ1c233aq6Ix3l	
+  772 duetexpertd	Deleted        /private/var/tmp/etilqs_qqQ1c233aq6Ix3l	
+  772 duetexpertd	Modified       /private/var/tmp/etilqs_qqQ1c233aq6Ix3l	
+  697 nsurlstoraged	Created        /private/var/tmp/etilqs_u8bM5sVMdied9Fg	
+  697 nsurlstoraged	Deleted        /private/var/tmp/etilqs_u8bM5sVMdied9Fg	
+  697 nsurlstoraged	Deleted        /private/var/mobile/Library/Caches/com.apple.itunesstored/fsCachedData/F68CB047-3E3B-4930-9407-EA3C7268652A	
+  697 nsurlstoraged	Created        /private/var/mobile/Library/Caches/com.apple.itunesstored/fsCachedData/F68CB047-3E3B-4930-9407-EA3C7268652A	
+  697 nsurlstoraged	Modified       /private/var/mobile/Library/Caches/com.apple.itunesstored/fsCachedData/F68CB047-3E3B-4930-9407-EA3C7268652A	
+  697 nsurlstoraged	Modified       /private/var/tmp/etilqs_u8bM5sVMdied9Fg	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-EKJxYj.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-EKJxYj.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-EKJxYj.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-yj5r2l.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-yj5r2l.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-yj5r2l.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-cu0cpQ.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-cu0cpQ.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-cu0cpQ.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-hQWnEz.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-hQWnEz.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-hQWnEz.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-KYUqUU.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-KYUqUU.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-KYUqUU.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-0YWTJZ.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-0YWTJZ.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-0YWTJZ.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-FybqJE.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-FybqJE.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-FybqJE.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-8EYl2u.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-8EYl2u.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-8EYl2u.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-zGRaRb.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-zGRaRb.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-zGRaRb.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-wrcWgV.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-wrcWgV.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-wrcWgV.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-jC1Uiv.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-jC1Uiv.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-jC1Uiv.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-2bIU1t.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-2bIU1t.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-2bIU1t.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-rAzBTB.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-rAzBTB.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-rAzBTB.dylib	
+ 4824 xpcproxy	Created        /private/var/tmp/cy-zC9XG1.dylib	
+ 4824 xpcproxy	Deleted        /private/var/tmp/cy-zC9XG1.dylib	
+ 4824 xpcproxy	Modified       /private/var/tmp/cy-zC9XG1.dylib	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjD7EBF4929	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjD7EBF4929	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjD7EBF4929	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Created        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjC69245911	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjC69245911	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-mjC69245911	
+ 4812 itunesstored	Modified       /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4812 itunesstored	Deleted        /private/var/mobile/Media/Downloads/downloads.28.sqlitedb-journal	
+ 4827 bash	Created        /private/var/tmp/cy-reNgPi.dylib	
+ 4827 bash	Deleted        /private/var/tmp/cy-reNgPi.dylib	
+ 4827 bash	Modified       /private/var/tmp/cy-reNgPi.dylib	
+ 4827 bash	Created        /private/var/tmp/cy-8fr4SO.dylib	
+ 4827 bash	Deleted       

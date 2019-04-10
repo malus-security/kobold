@@ -1,0 +1,13 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>com.apple.developer.in-app-payments</key>
+    <array>
+        <string>merchant.Yunshanfu308110075120121</string>
+        <string>merchant.Yunshanfu308110075120120</string>
+        <string>merchant.Yunshanfu308110075120123</string>
+        <string>merchant.Yunshanfu308110075120124</string>
+        <string>merchant.Yunshanfu308110075120122</string>
+    </array>
+</dict>
+</plist>

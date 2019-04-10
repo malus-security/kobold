@@ -1,0 +1,3687 @@
+(dp0
+S'/System/Library/PrivateFrameworks/PairingProximity.framework/XPCServices/com.apple.Bridge.ppNotifierService.xpc/com.apple.Bridge.ppNotifierService'
+p1
+(dp2
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3734.appex/Diagnostic-3734'
+p3
+(dp4
+sS'/private/var/staged_system_apps/FindMyFriends.app/PlugIns/FMFTodayWidget.appex/FMFTodayWidget'
+p5
+(dp6
+sS'/Applications/Feedback Assistant iOS.app/Feedback Assistant iOS'
+p7
+(dp8
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4492-sshb.appex/Diagnostic-4492-sshb'
+p9
+(dp10
+sS'/usr/sbin/notifyd'
+p11
+(dp12
+sS'/private/var/staged_system_apps/MobileMail.app/PlugIns/MailVIPWidget.appex/MailVIPWidget'
+p13
+(dp14
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-8034.appex/Diagnostic-8034'
+p15
+(dp16
+sS'/System/Library/CoreServices/VoiceOverTouch.app/vot'
+p17
+(dp18
+sS'/usr/libexec/FinishRestoreFromBackup'
+p19
+(dp20
+sS'/Applications/StoreKitUIService.app/StoreKitUIService'
+p21
+(dp22
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Contacts.appex/com.apple.DiagnosticExtensions.Contacts'
+p23
+(dp24
+sS'/Applications/DDActionsService.app/DDActionsService'
+p25
+(dp26
+sS'/usr/libexec/xpcproxy'
+p27
+(dp28
+sS'/usr/libexec/mobileactivationd'
+p29
+(dp30
+sS'/usr/libexec/hostapd'
+p31
+(dp32
+sS'/System/Library/AppRemovalServices/com.apple.VoiceMemos.appremoval.xpc/com.apple.VoiceMemos.appremoval'
+p33
+(dp34
+sS'/System/Library/PrivateFrameworks/IMAVCore.framework/imavagent.app/imavagent'
+p35
+(dp36
+sS'/System/Library/PrivateFrameworks/CarKit.framework/Support/carkitd'
+p37
+(dp38
+sS'/usr/libexec/signpost_reporter'
+p39
+(dp40
+sS'/System/Library/Filesystems/hfs.fs/Contents/Resources/hfs.util'
+p41
+(dp42
+sS'/System/Library/PrivateFrameworks/AVConference.framework/PlugIns/com.apple.AVConference.Diagnostic.appex/com.apple.AVConference.Diagnostic'
+p43
+(dp44
+sS'/System/Library/PrivateFrameworks/PhotoAnalysis.framework/Support/photoanalysisd'
+p45
+(dp46
+sS'/System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing'
+p47
+(dp48
+sS'/Applications/SoftwareUpdateUIService.app/SoftwareUpdateUIService'
+p49
+(dp50
+sS'/System/Library/PrivateFrameworks/GenerationalStorage.framework/revisiond'
+p51
+(dp52
+sS'/System/Library/PrivateFrameworks/TVRemoteCore.framework/XPCServices/TVRemoteConnectionService.xpc/TVRemoteConnectionService'
+p53
+(dp54
+S'TVRDaemonServerProtocol, TVRCDeviceQueryDelegate, TVRCDeviceDelegate, TVRCKeyboardControllerDelegate, NSXPCListenerDelegate'
+p55
+(lp56
+sS'TVRDaemonClientProtocol'
+p57
+(lp58
+S' <NSObject>@optional- (void)connectedDeviceWithInfo:(TVRDeviceInfo *)arg1 encounteredAuthenticationChallegeOfType:(long long)arg2;'
+p59
+aS'- (void)connectedDeviceWithInfo:(TVRDeviceInfo *)arg1 updatedTextAttributes:(TVRCKeyboardAttributes *)arg2;'
+p60
+aS'- (void)connectedDeviceWithInfo:(TVRDeviceInfo *)arg1 updatedInputText:(NSString *)arg2;'
+p61
+aS'- (void)connectedDeviceWithInfoEndedTextEditing:(TVRDeviceInfo *)arg1;'
+p62
+aS'- (void)connectedDeviceWithInfo:(TVRDeviceInfo *)arg1 beganTextEditingWithAttributes:(TVRCKeyboardAttributes *)arg2;'
+p63
+aS'- (void)connectedDeviceWithInfo:(TVRDeviceInfo *)arg1 removedSupportedButtons:(NSSet *)arg2 added:(NSSet *)arg3;'
+p64
+aS'- (void)connectedDeviceWithInfo:(TVRDeviceInfo *)arg1 changedDeviceName:(NSString *)arg2;'
+p65
+aS'- (void)connectionDisconnectedFromDeviceWithInfo:(TVRDeviceInfo *)arg1 forReason:(long long)arg2 error:(NSError *)arg3;'
+p66
+aS'- (void)connectedToDeviceWithInfo:(TVRDeviceInfo *)arg1;'
+p67
+aS'- (void)connectionRequestStartedForDeviceWithInfo:(TVRDeviceInfo *)arg1;'
+p68
+aS'- (void)connectionDidUpdateDevices:(NSArray *)arg1;'
+p69
+aS'- (void)connectionDidUpdateNetworkState:(unsigned long long)arg1;'
+p70
+assS'/System/Library/PrivateFrameworks/AssetCacheServices.framework/XPCServices/AssetCacheLocatorService.xpc/AssetCacheLocatorService'
+p71
+(dp72
+sS'/System/Library/PrivateFrameworks/MusicLibrary.framework/Support/medialibraryd'
+p73
+(dp74
+sS'/private/var/staged_system_apps/MobileNotes.app/PlugIns/com.apple.mobilenotes.TodayExtension.appex/com.apple.mobilenotes.TodayExtension'
+p75
+(dp76
+sS'/System/Library/PrivateFrameworks/SoftwareUpdateServices.framework/Support/softwareupdateservicesd'
+p77
+(dp78
+sS'/System/Library/PrivateFrameworks/PersonaKit.framework/personad'
+p79
+(dp80
+sS'/System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper'
+p81
+(dp82
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4276.appex/Diagnostic-4276'
+p83
+(dp84
+sS'/System/Library/CoreServices/ReportCrash'
+p85
+(dp86
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4282.appex/Diagnostic-4282'
+p87
+(dp88
+sS'/usr/libexec/tursd'
+p89
+(dp90
+sS'/System/Library/Frameworks/SystemConfiguration.framework/SCHelper'
+p91
+(dp92
+sS'/System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed'
+p93
+(dp94
+sS'/usr/libexec/mtmergeprops'
+p95
+(dp96
+sS'/private/var/staged_system_apps/iBooks.app/PlugIns/iBooksSpotlightExtension.appex/iBooksSpotlightExtension'
+p97
+(dp98
+sS'/System/Library/PrivateFrameworks/DiskSpaceDiagnostics.framework/PlugIns/DiskSpaceDiagnosticsExtension.appex/DiskSpaceDiagnosticsExtension'
+p99
+(dp100
+sS'/System/Library/PrivateFrameworks/FamilyCircle.framework/familycircled'
+p101
+(dp102
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3743.appex/Diagnostic-3743'
+p103
+(dp104
+sS'/usr/libexec/safarifetcherd'
+p105
+(dp106
+sS'/System/Library/Filesystems/apfs.fs/fsck_apfs'
+p107
+(dp108
+sS'/System/Library/PrivateFrameworks/NanoTimeKitCompanion.framework/PlugIns/com.apple.NanoTimeKitCompanion.CreateWatchFace.appex/com.apple.NanoTimeKitCompanion.CreateWatchFace'
+p109
+(dp110
+sS'/Applications/ServerDocuments.app/PlugIns/ServerDocumentProvider.appex/ServerDocumentProvider'
+p111
+(dp112
+sS'/System/Library/PrivateFrameworks/CloudPhotoLibrary.framework/XPCServices/com.apple.Photos.CPLDiagnose.xpc/com.apple.Photos.CPLDiagnose'
+p113
+(dp114
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4004.appex/Diagnostic-4004'
+p115
+(dp116
+sS'/usr/libexec/nanoregistrylaunchd'
+p117
+(dp118
+sS'/usr/libexec/fmflocatord'
+p119
+(dp120
+sS'/usr/libexec/installd'
+p121
+(dp122
+S'MobileInstallerProtocol'
+p123
+(lp124
+S'- (void)dieForTesting;'
+p125
+aS'- (void)snapshotWKAppInCompanionAppID:(NSString *)arg1 toURL:(NSURL *)arg2 options:(NSDictionary *)arg3 completion:(void (^)(NSDictionary *, NSError *))arg4;'
+p126
+aS'- (void)getAppMetadataForApp:(NSString *)arg1 completion:(void (^)(MIBundleMetadata *, NSError *))arg2;'
+p127
+aS'- (void)updatePlaceholderMetadataForApp:(NSString *)arg1 installType:(unsigned long long)arg2 failureReason:(unsigned long long)arg3 underlyingError:(NSError *)arg4 failureSource:(unsigned long long)arg5 completion:(void (^)(NSError *))arg6;'
+p128
+aS'- (void)updateAppDataProtectionWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;'
+p129
+aS'- (void)updateiTunesMetadataForLSWithIdentifier:(NSString *)arg1 options:(NSDictionary *)arg2 plistData:(NSData *)arg3 completion:(void (^)(NSError *))arg4;'
+p130
+aS'- (void)updateSinfForLSWithIdentifier:(NSString *)arg1 withOptions:(NSDictionary *)arg2 sinfData:(NSData *)arg3 completion:(void (^)(NSDictionary *, NSError *))arg4;'
+p131
+aS'- (void)checkCapabilities:(NSObject *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;'
+p132
+aS'- (void)listSafeHarborsOfType:(long long)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;'
+p133
+aS'- (void)removeSafeHarborForIdentifier:(NSString *)arg1 ofType:(long long)arg2 withOptions:(NSDictionary *)arg3 completion:(void (^)(NSError *))arg4;'
+p134
+aS'- (void)registerSafeHarborAtPath:(NSString *)arg1 forIdentifier:(NSString *)arg2 ofType:(long long)arg3 withOptions:(NSDictionary *)arg4 completion:(void (^)(NSError *))arg5;'
+p135
+aS'- (void)processRestoredContainerWithIdentifier:(NSString *)arg1 ofType:(long long)arg2 options:(NSDictionary *)arg3 completion:(void (^)(NSError *))arg4;'
+p136
+aS'- (void)fetchDiskUsageForIdentifiers:(NSArray *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;'
+p137
+aS'- (void)enumerateInstalledAppsWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;'
+p138
+aS'- (void)fetchInstalledAppsWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p139
+aS'- (void)fetchInstalledDeveloperAppsWithMountPath:(NSString *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p140
+aS'- (void)updateSystemAppStateForIdentifier:(NSString *)arg1 appState:(int)arg2 completion:(void (^)(NSError *))arg3;'
+p141
+aS'- (void)lookupSystemAppStateWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p142
+aS'- (void)clearUninstalledIdentifiers:(NSArray *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSError *))arg3;'
+p143
+aS'- (void)lookupUninstalledWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p144
+aS'- (void)uninstallIdentifiers:(NSArray *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;'
+p145
+aS'- (void)installURL:(NSURL *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;'
+p146
+assS'/System/Library/AppRemovalServices/com.apple.reminders.appremoval.xpc/com.apple.reminders.appremoval'
+p147
+(dp148
+sS'/usr/libexec/tailspind'
+p149
+(dp150
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4154.appex/Diagnostic-4154'
+p151
+(dp152
+sS'/System/Library/Frameworks/PassKit.framework/PlugIns/ApplePayDiagnostics.appex/ApplePayDiagnostics'
+p153
+(dp154
+sS'/System/Library/PrivateFrameworks/MediaStream.framework/Support/mstreamd'
+p155
+(dp156
+sS'/System/Library/CoreServices/VoiceOverTouch.app/scrod'
+p157
+(dp158
+sS'/private/var/staged_system_apps/News.app/PlugIns/OpenInNews.appex/OpenInNews'
+p159
+(dp160
+sS'/usr/libexec/adtrackingd'
+p161
+(dp162
+sS'/System/Library/Frameworks/FileProvider.framework/PlugIns/FPSpotlightIndexer.appex/FPSpotlightIndexer'
+p163
+(dp164
+sS'/System/Library/Frameworks/CallKit.framework/XPCServices/com.apple.CallKit.CallDirectory.xpc/com.apple.CallKit.CallDirectory'
+p165
+(dp166
+sS'/usr/libexec/misd'
+p167
+(dp168
+sS'/private/var/staged_system_apps/Videos.app/Videos'
+p169
+(dp170
+sS'/Applications/MobileSMS.app/MobileSMS'
+p171
+(dp172
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4002.appex/Diagnostic-4002'
+p173
+(dp174
+sS'/private/var/staged_system_apps/MobileCal.app/PlugIns/CalendarNotifications.appex/CalendarNotifications'
+p175
+(dp176
+sS'/Applications/SLYahooAuth.app/PlugIns/SLYahooAuthService.appex/SLYahooAuthService'
+p177
+(dp178
+sS'/usr/libexec/idamd'
+p179
+(dp180
+sS'/System/Library/PrivateFrameworks/GeoServices.framework/geod'
+p181
+(dp182
+sS'/usr/libexec/adid'
+p183
+(dp184
+sS'/usr/sbin/absd'
+p185
+(dp186
+sS'/usr/libexec/wcd'
+p187
+(dp188
+S'NSXPCConnectionDelegate, WCXPCManagerDaemonProtocol, WCDSystemObserver'
+p189
+(lp190
+sS'NSXPCConnectionDelegate, WCXPCPrivateManagerDaemonProtocol'
+p191
+(lp192
+sS'WCDSystemObserver, NSXPCConnectionDelegate, PKComplicationXPCServer'
+p193
+(lp194
+ssS'/System/Library/PrivateFrameworks/SetupAssistant.framework/budd'
+p195
+(dp196
+S'BYDaemonCloudSyncProtocol, BYClientDaemonCloudSyncProtocol'
+p197
+(lp198
+ssS'/System/Library/Frameworks/MapKit.framework/XPCServices/com.apple.MapKit.SnapshotService.xpc/com.apple.MapKit.SnapshotService'
+p199
+(dp200
+sS'/usr/libexec/tzd'
+p201
+(dp202
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.StackShot.appex/com.apple.DiagnosticExtensions.StackShot'
+p203
+(dp204
+sS'/usr/libexec/languageassetd'
+p205
+(dp206
+sS'/usr/libexec/webbookmarksd'
+p207
+(dp208
+sS'/usr/sbin/bluetoothd'
+p209
+(dp210
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Messages.appex/com.apple.DiagnosticExtensions.Messages'
+p211
+(dp212
+sS'/System/Library/CoreServices/powerd.bundle/powerd'
+p213
+(dp214
+sS'/System/Library/PrivateFrameworks/AskPermission.framework/askpermissiond'
+p215
+(dp216
+S'PRAgentProtocol'
+p217
+(lp218
+S'- (void)deleteTestValueFromTouchIDKeychain;'
+p219
+aS'- (void)writeTestValueToTouchIDKeychain;'
+p220
+aS'- (void)readTestValueFromTouchIDKeychain;'
+p221
+aS'- (void)pushTokenWithReplyBlock:(void (^)(NSData *))arg1;'
+p222
+aS'- (void)registerPushToken;'
+p223
+aS'- (void)clearCachedRequests;'
+p224
+aS'- (void)userDidDenyRequestWithRequestID:(NSString *)arg1;'
+p225
+aS'- (void)userDidApproveRequestWithRequestID:(NSString *)arg1;'
+p226
+aS'- (void)requestToBePresentedWithReplyBlock:(void (^)(PRRequest *, NSString *))arg1;'
+p227
+aS'- (void)attemptLocalApprovalForStorePurchaseRequestWithItemIdentifier:(unsigned long long)arg1 replyBlock:(void (^)(_Bool, _Bool, NSError *))arg2;'
+p228
+aS'- (void)pendingStorePurchaseRequestForItemIdentifier:(unsigned long long)arg1 withReplyBlock:(void (^)(PRRequest *, NSError *))arg2;'
+p229
+aS'- (void)didReceiveStorePushNotificationWithPayload:(NSDictionary *)arg1;'
+p230
+aS'- (void)didStartNewStorePurchaseRequestWithInfo:(NSDictionary *)arg1;'
+p231
+aS'- (void)attemptLocalApprovalForRequestWithRequestID:(NSString *)arg1 completionHandler:(void (^)(_Bool, NSError *))arg2;'
+p232
+aS'- (void)pendingRequestsWithReplyBlock:(void (^)(NSArray *, NSError *))arg1;'
+p233
+aS'- (void)addRequest:(PRRequest *)arg1 withReplyBlock:(void (^)(_Bool, NSError *))arg2;'
+p234
+aS'- (void)setDelegate:(id <PRRequestDelegate>)arg1;'
+p235
+aS'- (void)setClientIdentifier:(NSString *)arg1;'
+p236
+assS'/System/Library/PrivateFrameworks/AssistantServices.framework/XPCServices/com.apple.siri.embeddedspeech.xpc/com.apple.siri.embeddedspeech'
+p237
+(dp238
+S'_EARSpeechRecognitionResultStream, AFSpeechService'
+p239
+(lp240
+ssS'/System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd'
+p241
+(dp242
+sS'/System/Library/Frameworks/HomeKit.framework/PlugIns/HomeKitDiagnosticExtension.appex/HomeKitDiagnosticExtension'
+p243
+(dp244
+sS'/System/Library/PrivateFrameworks/ManagedConfiguration.framework/Support/teslad'
+p245
+(dp246
+S'MCTeslaServiceInterface, NSURLSessionDelegate, NSURLSessionTaskDelegate, NSURLSessionDataDelegate'
+p247
+(lp248
+ssS'/System/Library/TextInput/kbd'
+p249
+(dp250
+sS'/usr/libexec/notification_proxy'
+p251
+(dp252
+sS'/System/Library/AppRemovalServices/com.apple.mobilecal.appremoval.xpc/com.apple.mobilecal.appremoval'
+p253
+(dp254
+sS'/System/Library/Filesystems/apfs.fs/slurpAPFSMeta'
+p255
+(dp256
+sS'/System/Library/PrivateFrameworks/GameCenterUI.framework/PlugIns/GameCenterChallengeIssueExtension.appex/GameCenterChallengeIssueExtension'
+p257
+(dp258
+sS'/System/Library/PrivateFrameworks/DragUI.framework/Support/druid'
+p259
+(dp260
+S'_UIKeyboardArbitrationClient'
+p261
+(lp262
+S'- (void)queue_setKeyboardDisabled:(_Bool)arg1 withCompletion:(void (^)(void))arg2;'
+p263
+aS'- (void)queue_getDebugInfoWithCompletion:(void (^)(NSDictionary *))arg1;'
+p264
+aS'- (void)queue_applicationLostFocusWithCompletion:(void (^)(void))arg1;'
+p265
+aS'- (void)queue_keyboardSuppressed:(_Bool)arg1 withCompletion:(void (^)(void))arg2;'
+p266
+aS'- (void)queue_keyboardTransition:(NSString *)arg1 event:(unsigned long long)arg2 withInfo:(NSDictionary *)arg3 onComplete:(void (^)(void))arg4;'
+p267
+aS'- (void)queue_keyboardChangedWithCompletion:(void (^)(void))arg1;'
+p268
+aS'- (void)queue_keyboardChanged:(_UIKeyboardChangedInformation *)arg1 onComplete:(void (^)(void))arg2;'
+p269
+asS'DRDataTransferSessionDelegate, BKSTouchDeliveryObserving, _DUIServerSessionSource, _DUIServerSessionDestination, _DUIServerSessionAccessibility'
+p270
+(lp271
+ssS'/System/Library/PrivateFrameworks/Search.framework/searchd'
+p272
+(dp273
+sS'/System/Library/Frameworks/CoreMIDI.framework/MIDIServer'
+p274
+(dp275
+sS'/usr/libexec/gamecontrollerd'
+p276
+(dp277
+sS'/System/Library/Frameworks/AssetsLibrary.framework/Support/assetsd'
+p278
+(dp279
+sS'/private/var/staged_system_apps/Podcasts.app/PlugIns/PodcastsPodcastsTodayExtension.appex/PodcastsPodcastsTodayExtension'
+p280
+(dp281
+sS'/System/Library/PrivateFrameworks/AGXCompilerCore.framework/PlugIns/AGXCompilerCrashLogs.appex/AGXCompilerCrashLogs'
+p282
+(dp283
+sS'/usr/libexec/gamed'
+p284
+(dp285
+S'GKClientProtocol, _GKStateMachineDelegate'
+p286
+(lp287
+ssS'/System/Library/PrivateFrameworks/CompanionCamera.framework/Support/companioncamerad'
+p288
+(dp289
+S'NMSMessageCenterDelegate, CCCameraServerProtocol, NSXPCListenerDelegate'
+p290
+(lp291
+ssS'/System/Library/PrivateFrameworks/PrintKit.framework/printd'
+p292
+(dp293
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3737.appex/Diagnostic-3737'
+p294
+(dp295
+sS'/System/Library/PrivateFrameworks/MobileContainerManager.framework/Support/containermanagerd'
+p296
+(dp297
+sS'/System/Library/PrivateFrameworks/Sharing.framework/PlugIns/ContinuityRemote.appex/ContinuityRemote'
+p298
+(dp299
+sS'/System/Library/PrivateFrameworks/NotesUI.framework/XPCServices/com.apple.mobilenotes.HTMLConverter.xpc/com.apple.mobilenotes.HTMLConverter'
+p300
+(dp301
+sS'/usr/libexec/afcd'
+p302
+(dp303
+sS'/Applications/VideoSubscriberAccountViewService.app/VideoSubscriberAccountViewService'
+p304
+(dp305
+sS'/System/Library/PrivateFrameworks/MarkupUI.framework/PlugIns/MarkupPhotoExtension.appex/MarkupPhotoExtension'
+p306
+(dp307
+sS'/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/bird'
+p308
+(dp309
+sS'/usr/libexec/coreduetd'
+p310
+(dp311
+sS'/usr/libexec/CrashHousekeeping'
+p312
+(dp313
+sS'/usr/libexec/corecaptured'
+p314
+(dp315
+sS'/System/Library/Filesystems/hfs.fs/Contents/Resources/fsck_hfs'
+p316
+(dp317
+sS'/System/Library/PrivateFrameworks/BarcodeSupport.framework/XPCServices/com.apple.BarcodeSupport.ParsingService.xpc/com.apple.BarcodeSupport.ParsingService'
+p318
+(dp319
+sS'/usr/sbin/scutil'
+p320
+(dp321
+sS'/System/Library/PrivateFrameworks/CloudDocsUI.framework/PlugIns/com.apple.CloudDocsUI.AddToiCloudDrive.appex/com.apple.CloudDocsUI.AddToiCloudDrive'
+p322
+(dp323
+sS'/System/Library/SystemConfiguration/EAPOLController.bundle/eapolclient'
+p324
+(dp325
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Syslog.appex/com.apple.DiagnosticExtensions.Syslog'
+p326
+(dp327
+sS'/usr/sbin/WirelessRadioManagerd'
+p328
+(dp329
+sS'/usr/libexec/bulletindistributord'
+p330
+(dp331
+sS'/private/var/staged_system_apps/Tips.app/PlugIns/TipsNotificationExtension.appex/TipsNotificationExtension'
+p332
+(dp333
+sS'/System/Library/CoreServices/CacheDeleteAppContainerCaches'
+p334
+(dp335
+sS'/usr/bin/abmlite'
+p336
+(dp337
+sS'/usr/libexec/mobile_storage_proxy'
+p338
+(dp339
+sS'/Applications/CTCarrierSpaceAuth.app/CTCarrierSpaceAuth'
+p340
+(dp341
+sS'/System/Library/PrivateFrameworks/PassKitCore.framework/passd'
+p342
+(dp343
+sS'/Applications/AppStore.app/AppStore'
+p344
+(dp345
+sS'/System/Library/PrivateFrameworks/FMF.framework/XPCServices/FMFMapXPCService.xpc/FMFMapXPCService'
+p346
+(dp347
+sS'/usr/libexec/mobileassetd'
+p348
+(dp349
+sS'/System/Library/PrivateFrameworks/AssistantServices.framework/assistant_service'
+p350
+(dp351
+S'AFServiceHelper, ASSyncConnectionDelegate, ASServicesMonitorDelegate, AFProviderService'
+p352
+(lp353
+ssS'/usr/sbin/distnoted'
+p354
+(dp355
+sS'/usr/libexec/diagnosticd'
+p356
+(dp357
+sS'/private/var/staged_system_apps/TV.app/PlugIns/TVTodayExtension.appex/TVTodayExtension'
+p358
+(dp359
+sS'/usr/libexec/BackupAgent'
+p360
+(dp361
+sS'/System/Library/Filesystems/msdos.fs/Contents/Resources/fsck_msdos'
+p362
+(dp363
+sS'/private/var/staged_system_apps/MobileMail.app/PlugIns/MailSpotlightIndexExtension.appex/MailSpotlightIndexExtension'
+p364
+(dp365
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Siri.appex/com.apple.DiagnosticExtensions.Siri'
+p366
+(dp367
+sS'/System/Library/CoreServices/prdaily'
+p368
+(dp369
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4351.appex/Diagnostic-4351'
+p370
+(dp371
+sS'/usr/sbin/mDNSResponder'
+p372
+(dp373
+sS'/System/Library/PrivateFrameworks/AssistantServices.framework/XPCServices/DeepSyncVerification.xpc/DeepSyncVerification'
+p374
+(dp375
+sS'/usr/libexec/nsurlstoraged'
+p376
+(dp377
+sS'/System/Library/PrivateFrameworks/UserFS.framework/userfs_helper'
+p378
+(dp379
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4180.appex/Diagnostic-4180'
+p380
+(dp381
+sS'/usr/libexec/MobileGestaltHelper'
+p382
+(dp383
+sS'/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/identityservicesd'
+p384
+(dp385
+S'NSXPCListenerDelegate, IDSDGroupContextNotifyingObserverDelegate'
+p386
+(lp387
+ssS'/System/Library/PrivateFrameworks/NanoAppRegistry.framework/Support/nanoappregistryd'
+p388
+(dp389
+sS'/usr/bin/brctl'
+p390
+(dp391
+sS'/private/var/staged_system_apps/MobileCal.app/PlugIns/CalendarDiagnosticExtension.appex/CalendarDiagnosticExtension'
+p392
+(dp393
+sS'/usr/sbin/ioreg'
+p394
+(dp395
+sS'/System/Library/PrivateFrameworks/MapsSupport.framework/geocorrectiond'
+p396
+(dp397
+sS'/Applications/WLAccessService.app/WLAccessService'
+p398
+(dp399
+sS'/System/Library/PrivateFrameworks/PairedUnlock.framework/pairedunlockd'
+p400
+(dp401
+S'NSXPCListenerDelegate, PUPeerDelegate, MCProfileConnectionObserver, PUPairedSyncObserverDelegate, PUUnlockServer'
+p402
+(lp403
+ssS'/System/Library/AppRemovalServices/com.apple.videos.appremoval.xpc/com.apple.videos.appremoval'
+p404
+(dp405
+sS'/System/Library/PrivateFrameworks/GameCenterUI.framework/PlugIns/GameCenterMatchmakerExtension.appex/GameCenterMatchmakerExtension'
+p406
+(dp407
+sS'/System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd'
+p408
+(dp409
+sS'/usr/libexec/fseventsd'
+p410
+(dp411
+sS'/usr/libexec/dasd'
+p412
+(dp413
+sS'/System/Library/PrivateFrameworks/NanoSystemSettings.framework/nanosystemsettingsd'
+p414
+(dp415
+S'NSSServerProtocol'
+p416
+(lp417
+S' <NSObject>- (void)enableAirplaneMode:(_Bool)arg1 completionHandler:(void (^)(NSError *))arg2;'
+p418
+assS'/usr/libexec/dprivacyd'
+p419
+(dp420
+sS'/usr/sbin/mDNSResponderHelper'
+p421
+(dp422
+sS'/usr/libexec/findmydeviced'
+p423
+(dp424
+S'FindMyDeviceBTDiscoveryDelegateXPCInterface, FMDDeviceDiscovering'
+p425
+(lp426
+ssS'/Applications/MobileSlideShow.app/PlugIns/PhotosMemoriesNotificationUpdates.appex/PhotosMemoriesNotificationUpdates'
+p427
+(dp428
+sS'/System/Library/Frameworks/Security.framework/KeychainSyncingOverIDSProxy.bundle/KeychainSyncingOverIDSProxy'
+p429
+(dp430
+sS'/System/Library/PrivateFrameworks/CoreRecents.framework/recentsd'
+p431
+(dp432
+sS'/usr/libexec/trustd'
+p433
+(dp434
+sS'/usr/libexec/splashboardd'
+p435
+(dp436
+sS'/System/Library/Frameworks/ContactsUI.framework/PlugIns/ContactViewViewService.appex/ContactViewViewService'
+p437
+(dp438
+sS'/System/Library/Frameworks/Security.framework/CloudKeychainProxy.bundle/CloudKeychainProxy'
+p439
+(dp440
+sS'/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Networking.xpc/com.apple.WebKit.Networking'
+p441
+(dp442
+sS'/usr/libexec/webinspectord'
+p443
+(dp444
+sS'/System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd'
+p445
+(dp446
+sS'/private/var/staged_system_apps/VoiceMemos.app/VoiceMemos'
+p447
+(dp448
+sS'/System/Library/PrivateFrameworks/FamilyNotification.framework/familynotificationd'
+p449
+(dp450
+S'FAFamilyNotifierAgentProtocol'
+p451
+(lp452
+S' <NSObject>- (void)setDelegateMachServiceName:(NSString *)arg1;'
+p453
+aS'- (void)setClientIdentifier:(NSString *)arg1;'
+p454
+aS'- (void)pendingNotificationsWithIdentifier:(NSString *)arg1 replyBlock:(void (^)(NSArray *, NSError *))arg2;'
+p455
+aS'- (void)removeAllNotifications;'
+p456
+aS'- (void)removeNotificationWithIdentifier:(NSString *)arg1;'
+p457
+aS'- (void)deliverNotificaton:(FAFamilyNotification *)arg1;'
+p458
+assS'/private/var/staged_system_apps/Home.app/PlugIns/HomeNotification.appex/HomeNotification'
+p459
+(dp460
+sS'/System/Library/PrivateFrameworks/CoreCDPUI.framework/PlugIns/CoreCDPUIService.appex/CoreCDPUIService'
+p461
+(dp462
+sS'/System/Library/PrivateFrameworks/CoreFollowUp.framework/followupd'
+p463
+(dp464
+S'FLDaemonProtocol'
+p465
+(lp466
+S' <NSObject>- (void)postHSA2PasswordResetNotification:(FLHSA2PasswordResetNotification *)arg1 completion:(void (^)(_Bool, NSError *))arg2;'
+p467
+aS'- (void)didActivateHSA2LoginNotificationNotification:(FLHSA2LoginNotification *)arg1;'
+p468
+aS'- (void)tearDownHSA2LoginNotificationWithPushMessageID:(NSString *)arg1;'
+p469
+aS'- (void)postHSA2PasswordChangeForAppleID:(NSString *)arg1 completion:(void (^)(unsigned long long, NSError *))arg2;'
+p470
+aS'- (void)postHSA2LoginCode:(NSNumber *)arg1 withNotification:(FLHSA2LoginNotification *)arg2 completion:(void (^)(unsigned long long, NSError *))arg3;'
+p471
+aS'- (void)postHSA2LoginNotification:(FLHSA2LoginNotification *)arg1 completion:(void (^)(unsigned long long, NSError *))arg2;'
+p472
+aS'- (void)clearNotificationForItem:(FLFollowUpItem *)arg1 completion:(void (^)(_Bool, NSError *))arg2;'
+p473
+aS'- (void)clearPendingFollowUpItemsForClientIdentifier:(NSString *)arg1 uniqueIdentifiers:(NSArray *)arg2 completion:(void (^)(_Bool, NSError *))arg3;'
+p474
+aS'- (void)clearPendingFollowUpItemsForClientIdentifier:(NSString *)arg1 completion:(void (^)(_Bool, NSError *))arg2;'
+p475
+aS'- (void)pendingFollowUpItemsForClientIdentifier:(NSString *)arg1 completion:(void (^)(NSArray *, NSError *))arg2;'
+p476
+aS'- (void)countOfPendingFollowUpItemsForClientIdentifier:(NSString *)arg1 completion:(void (^)(unsigned long long, NSError *))arg2;'
+p477
+aS'- (void)postFollowUpItem:(FLFollowUpItem *)arg1 completion:(void (^)(_Bool, NSError *))arg2;'
+p478
+assS'/usr/libexec/configd'
+p479
+(dp480
+sS'/System/Library/CoreServices/DumpPanic'
+p481
+(dp482
+sS'/usr/libexec/PreboardService'
+p483
+(dp484
+sS'/Applications/Diagnostics.app/Diagnostics'
+p485
+(dp486
+sS'/System/Library/PrivateFrameworks/DiskSpaceDiagnostics.framework/XPCServices/FilesystemMetadataSnapshotService.xpc/FilesystemMetadataSnapshotService'
+p487
+(dp488
+sS'/System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd'
+p489
+(dp490
+S'ACCBLEPairingXPCServerProtocol'
+p491
+(lp492
+S' <NSObject>- (void)stopBLEUpdates:(NSString *)arg1 blePairingUUID:(NSData *)arg2;'
+p493
+aS'- (void)deviceUpdatePairingInfo:(NSString *)arg1 blePairingUUID:(NSData *)arg2 pairType:(unsigned char)arg3 pairInfo:(NSData *)arg4;'
+p494
+aS'- (void)devicePairingData:(NSString *)arg1 blePairingUUID:(NSData *)arg2 pairType:(unsigned char)arg3 pairData:(NSData *)arg4;'
+p495
+aS'- (void)deviceStateUpdate:(NSString *)arg1 blePairingUUID:(NSData *)arg2 bRadioOn:(_Bool)arg3 pairState:(int)arg4 bPairModeOn:(_Bool)arg5;'
+p496
+aS'- (void)startBLEUpdates:(NSString *)arg1 blePairingUUID:(NSData *)arg2 pairType:(unsigned char)arg3 bRadioUpdatesOn:(_Bool)arg4 bPairInfoUpdatesOn:(_Bool)arg5;'
+p497
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p498
+asS'ACCAssistiveTouchXPCServerProtocol'
+p499
+(lp500
+S' <NSObject>- (void)notifyEnabledState:(_Bool)arg1 provider:(NSString *)arg2;'
+p501
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p502
+asS'AccessoryHIDXPCServerProtocol'
+p503
+(lp504
+S' <NSObject>- (void)componentUpdate:(NSString *)arg1 componentID:(NSNumber *)arg2 enabled:(_Bool)arg3 withReply:(void (^)(_Bool))arg4;'
+p505
+aS'- (void)getReport:(NSString *)arg1 componentID:(NSNumber *)arg2 reportType:(NSNumber *)arg3 reportID:(NSNumber *)arg4 withReply:(void (^)(_Bool))arg5;'
+p506
+aS'- (void)outReport:(NSString *)arg1 componentID:(NSNumber *)arg2 report:(NSData *)arg3 withReply:(void (^)(_Bool))arg4;'
+p507
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p508
+asS'ACCMediaLibraryXPCServerProtocol'
+p509
+(lp510
+S' <NSObject>- (void)resetUpdate:(NSString *)arg1 accessory:(NSString *)arg2;'
+p511
+aS'- (void)update:(NSString *)arg1 revision:(NSString *)arg2 content:(NSDictionary *)arg3 accessory:(NSString *)arg4;'
+p512
+aS'- (void)update:(NSString *)arg1 updates:(NSArray *)arg2 accessory:(NSString *)arg3;'
+p513
+aS'- (void)notify:(NSString *)arg1 stateChange:(int)arg2 enabled:(_Bool)arg3;'
+p514
+aS'- (void)notifyAvailableLibraries:(NSArray *)arg1 provider:(NSString *)arg2;'
+p515
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p516
+asS'AccessoryNowPlayingXPCServerProtocol'
+p517
+(lp518
+S' <NSObject>- (void)playbackQueueListInfoResponse:(NSString *)arg1 requestID:(NSString *)arg2 info:(NSDictionary *)arg3;'
+p519
+aS'- (void)playbackQueueListChanged;'
+p520
+aS'- (void)playbackAttributesHaveChanged:(NSDictionary *)arg1 withReply:(void (^)(_Bool))arg2;'
+p521
+aS'- (void)mediaItemArtworkHasChanged:(NSData *)arg1 withReply:(void (^)(_Bool))arg2;'
+p522
+aS'- (void)mediaItemAttributesHaveChanged:(NSDictionary *)arg1 withReply:(void (^)(_Bool))arg2;'
+p523
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p524
+asS'AccessoryCameraXPCServerProtocol'
+p525
+(lp526
+S' <NSObject>- (void)captureStillImage:(NSString *)arg1 forCameraIds:(NSArray *)arg2 withReply:(void (^)(int))arg3;'
+p527
+aS'- (void)stopLivePreview:(NSString *)arg1 forCameraIds:(NSArray *)arg2 withReply:(void (^)(int))arg3;'
+p528
+aS'- (void)startLivePreview:(NSString *)arg1 forCameraIds:(NSArray *)arg2 withIndex:(unsigned short)arg3 withReply:(void (^)(int))arg4;'
+p529
+aS'- (void)setCameraProperties:(NSString *)arg1 forCameraId:(unsigned short)arg2 withProperties:(NSDictionary *)arg3 withReply:(void (^)(int))arg4;'
+p530
+aS'- (void)stopCameraUpdates:(NSString *)arg1 forCameraIds:(NSArray *)arg2 withReply:(void (^)(int))arg3;'
+p531
+aS'- (void)startCameraUpdates:(NSString *)arg1 forCameraIds:(NSArray *)arg2 withProperties:(NSDictionary *)arg3 withCapabilities:(NSDictionary *)arg4 withReply:(void (^)(int))arg5;'
+p532
+aS'- (void)stopCameraInfo:(NSString *)arg1 forCameraIds:(NSArray *)arg2 withReply:(void (^)(int))arg3;'
+p533
+aS'- (void)startCameraInfo:(NSString *)arg1 forCameraIds:(NSArray *)arg2 withReply:(void (^)(int))arg3;'
+p534
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p535
+asS'ACCVoiceOverXPCServerProtocol'
+p536
+(lp537
+S' <NSObject>- (void)update:(NSString *)arg1 cursorInfo:(NSDictionary *)arg2;'
+p538
+aS'- (void)update:(NSString *)arg1 info:(NSDictionary *)arg2;'
+p539
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p540
+asS'ACCAudioXPCServerProtocol'
+p541
+(lp542
+S' <NSObject>- (void)deviceAudioStatesWithReply:(void (^)(NSArray *))arg1;'
+p543
+aS'- (void)supportedDigitalAudioSampleRatesWithReply:(void (^)(NSArray *))arg1;'
+p544
+aS'- (void)supportedDigitalAudioSampleRate:(unsigned int)arg1 withReply:(void (^)(unsigned int))arg2;'
+p545
+aS'- (void)setDigitalAudioSampleRate:(unsigned int)arg1 withReply:(void (^)(_Bool))arg2;'
+p546
+aS'- (void)initConnectionToServer:(void (^)(_Bool))arg1;'
+p547
+asS'ACCNavigationXPCServerProtocol'
+p548
+(lp549
+S' <NSObject>- (void)notifyOfProvider:(NSString *)arg1;'
+p550
+aS'- (void)routeGuidance:(NSString *)arg1 laneGuidanceInfo:(NSDictionary *)arg2 componentIdList:(NSArray *)arg3;'
+p551
+aS'- (void)routeGuidance:(NSString *)arg1 maneuverUpdateInfo:(NSDictionary *)arg2 componentIdList:(NSArray *)arg3;'
+p552
+aS'- (void)routeGuidance:(NSString *)arg1 updateInfo:(NSDictionary *)arg2 componentIdList:(NSArray *)arg3;'
+p553
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p554
+asS'ACCCommunicationsXPCServerProtocol'
+p555
+(lp556
+S' <NSObject>- (void)commStatusDidChange:(NSDictionary *)arg1;'
+p557
+aS'- (void)callStateDidChange:(NSDictionary *)arg1;'
+p558
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p559
+asS'ACCOOBBTPairingXPCServerProtocol'
+p560
+(lp561
+S' <NSObject>- (void)requestLegacyConnectionIDForAccessoryUID:(NSString *)arg1;'
+p562
+aS'- (void)notifyOfProvider:(NSString *)arg1;'
+p563
+aS'- (void)linkKeyInfo:(NSString *)arg1 oobBtPairingUID:(NSString *)arg2 linkKey:(NSData *)arg3 deviceMacAddr:(NSData *)arg4;'
+p564
+aS'- (void)stopOOBBTPairing:(NSString *)arg1;'
+p565
+aS'- (void)startOOBBTPairing:(NSString *)arg1;'
+p566
+aS'- (void)initConnection:(void (^)(_Bool))arg1;'
+p567
+assS'/System/Library/PrivateFrameworks/NanoLeash.framework/companionfindlocallyd'
+p568
+(dp569
+sS'/System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd'
+p570
+(dp571
+sS'/Applications/MobileTimer.app/PlugIns/MobileTimerNotificationExtension.appex/MobileTimerNotificationExtension'
+p572
+(dp573
+sS'/System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated'
+p574
+(dp575
+sS'/System/Library/PrivateFrameworks/NanoTimeKitCompanion.framework/nanotimekitcompaniond'
+p576
+(dp577
+S'NTKCollectionServer, NTKDCollectionStoreObserver'
+p578
+(lp579
+sS'NTKComplicationStoreServer, NTKDComplicationStoreObserver'
+p580
+(lp581
+sS'NTKDFaceSnapshotControllerObserver'
+p582
+(lp583
+S' <NSObject>- (void)faceSnapshotChangedForKey:(NSString *)arg1;'
+p584
+assS'/System/Library/PrivateFrameworks/NewsDaemon.framework/newsd'
+p585
+(dp586
+sS'/Applications/ChargingViewService.app/ChargingViewService'
+p587
+(dp588
+sS'/private/var/staged_system_apps/Music.app/PlugIns/MusicCoreSpotlightExtension.appex/MusicCoreSpotlightExtension'
+p589
+(dp590
+sS'/System/Library/PrivateFrameworks/CoreCDP.framework/cdpd'
+p591
+(dp592
+sS'/System/Library/Frameworks/ExternalAccessory.framework/PlugIns/com.apple.ExternalAccessory.WACUI.appex/com.apple.ExternalAccessory.WACUI'
+p593
+(dp594
+sS'/System/Library/PrivateFrameworks/AssistantServices.framework/XPCServices/com.apple.siri.acousticsignature.xpc/com.apple.siri.acousticsignature'
+p595
+(dp596
+sS'/usr/libexec/logd'
+p597
+(dp598
+sS'/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSCredentialsAgent.app/IDSCredentialsAgent'
+p599
+(dp600
+sS'/usr/libexec/securityd'
+p601
+(dp602
+S'SOSControlProtocol'
+p603
+(lp604
+S'- (void)setWatchdogParmeters:(NSDictionary *)arg1 complete:(void (^)(NSError *))arg2;'
+p605
+aS'- (void)getWatchdogParameters:(void (^)(NSDictionary *, NSError *))arg1;'
+p606
+aS'- (void)triggerSync:(NSArray *)arg1 complete:(void (^)(_Bool, NSError *))arg2;'
+p607
+aS'- (void)importInitialSyncCredentials:(NSArray *)arg1 complete:(void (^)(_Bool, NSError *))arg2;'
+p608
+aS'- (void)initialSyncCredentials:(unsigned int)arg1 complete:(void (^)(NSArray *, NSError *))arg2;'
+p609
+aS'- (void)joinCircleWithBlob:(NSData *)arg1 version:(int)arg2 complete:(void (^)(_Bool, NSError *))arg3;'
+p610
+aS'- (void)circleJoiningBlob:(NSData *)arg1 complete:(void (^)(NSData *, NSError *))arg2;'
+p611
+aS'- (void)myPeerInfo:(void (^)(NSData *, NSError *))arg1;'
+p612
+aS'- (void)stashAccountCredential:(NSData *)arg1 complete:(void (^)(_Bool, NSError *))arg2;'
+p613
+aS'- (void)validatedStashedAccountCredential:(void (^)(NSData *, NSError *))arg1;'
+p614
+aS'- (void)assertStashedAccountCredential:(void (^)(_Bool, NSError *))arg1;'
+p615
+aS'- (void)stashedCredentialPublicKey:(void (^)(NSData *, NSError *))arg1;'
+p616
+aS'- (void)rateLimitingPerformanceCounters:(void (^)(NSDictionary *))arg1;'
+p617
+aS'- (void)idsPerformanceCounters:(void (^)(NSDictionary *))arg1;'
+p618
+aS'- (void)kvsPerformanceCounters:(void (^)(NSDictionary *))arg1;'
+p619
+aS'- (void)userPublicKey:(void (^)(_Bool, NSData *, NSError *))arg1;'
+p620
+assS'/usr/libexec/sysdiagnose_helper'
+p621
+(dp622
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4153.appex/Diagnostic-4153'
+p623
+(dp624
+sS'/usr/libexec/lockbot'
+p625
+(dp626
+sS'/private/var/staged_system_apps/iBooks.app/XPCServices/XPCUbiquityDisableService.xpc/XPCUbiquityDisableService'
+p627
+(dp628
+sS'/System/Library/PrivateFrameworks/MarkupUI.framework/PlugIns/MarkupPrivateExtension.appex/MarkupPrivateExtension'
+p629
+(dp630
+sS'/private/var/staged_system_apps/Fitness.app/PlugIns/activity-widget.appex/activity-widget'
+p631
+(dp632
+sS'/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AXHearingSupport.framework/XPCServices/heard.xpc/heard'
+p633
+(dp634
+sS'/Applications/CompassCalibrationViewService.app/CompassCalibrationViewService'
+p635
+(dp636
+sS'/usr/libexec/PurpleReverseProxy'
+p637
+(dp638
+sS'/usr/sbin/wifid'
+p639
+(dp640
+sS'/System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fud'
+p641
+(dp642
+sS'/System/Library/PrivateFrameworks/iOSDiagnostics.framework/XPCServices/com.apple.DiagnosticsSessionAvailibility.xpc/com.apple.DiagnosticsSessionAvailibility'
+p643
+(dp644
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Phone.appex/com.apple.DiagnosticExtensions.Phone'
+p645
+(dp646
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-2532.appex/Diagnostic-2532'
+p647
+(dp648
+sS'/System/Library/PrivateFrameworks/CryptoTokenKit.framework/ctkd'
+p649
+(dp650
+S'TKProtocolSlotRegistry'
+p651
+(lp652
+S'- (void)addSlotWithEndpoint:(NSXPCListenerEndpoint *)arg1 name:(NSString *)arg2 type:(NSString *)arg3 forProcesses:(NSArray *)arg4 reply:(void (^)(void))arg5;'
+p653
+asS'TKProtocolSlotClient'
+p654
+(lp655
+S'Notification- (void)setSlotWithName:(NSString *)arg1 endpoint:(NSXPCListenerEndpoint *)arg2 type:(NSString *)arg3 reply:(void (^)(void))arg4;'
+p656
+asS'NSXPCListenerDelegate, TKProtocolSlotClientNotification'
+p657
+(lp658
+sS'TKProtocolTokenWatcherClient'
+p659
+(lp660
+S'- (void)addWatcherWithEndpoint:(NSXPCListenerEndpoint *)arg1 reply:(void (^)(NSArray *))arg2;'
+p661
+assS'/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/ContainerMetadataExtractor'
+p662
+(dp663
+sS'/System/Library/PrivateFrameworks/iCloudQuotaDaemon.framework/PlugIns/ICQFollowup.appex/ICQFollowup'
+p664
+(dp665
+sS'/System/Library/Frameworks/WatchKit.framework/Support/companionappd'
+p666
+(dp667
+sS'/Applications/FindMyiPhone.app/FindMyiPhone'
+p668
+(dp669
+sS'/System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted'
+p670
+(dp671
+sS'/System/Library/AppRemovalServices/com.apple.mobilenotes.appremoval.xpc/com.apple.mobilenotes.appremoval'
+p672
+(dp673
+sS'/bin/df'
+p674
+(dp675
+sS'/System/Library/AppRemovalServices/com.apple.iBooks.appremoval.xpc/com.apple.iBooks.appremoval'
+p676
+(dp677
+sS'/usr/libexec/ioupsd'
+p678
+(dp679
+sS'/private/var/staged_system_apps/MobileStore.app/XPCServices/com.apple.MobileStore.appremoval.xpc/com.apple.MobileStore.appremoval'
+p680
+(dp681
+sS'/usr/libexec/mc_mobile_tunnel'
+p682
+(dp683
+sS'/private/var/staged_system_apps/Reminders.app/PlugIns/RemindersWidget.appex/RemindersWidget'
+p684
+(dp685
+sS'/Applications/PassbookUIService.app/PassbookUIService'
+p686
+(dp687
+sS'/System/Library/CoreServices/DeviceOMatic.app/DeviceOMatic'
+p688
+(dp689
+sS'/System/Library/PrivateFrameworks/FindMyDevice.framework/XPCServices/FindMyDeviceUserNotificationsXPCService.xpc/FindMyDeviceUserNotificationsXPCService'
+p690
+(dp691
+sS'/usr/sbin/BlueTool'
+p692
+(dp693
+sS'/usr/libexec/UserEventAgent'
+p694
+(dp695
+sS'/System/Library/Frameworks/VideoSubscriberAccount.framework/Support/VideoSubscriberAccountBulletind'
+p696
+(dp697
+sS'/System/Library/CoreServices/SafariSupport.bundle/SafariBookmarksSyncAgent'
+p698
+(dp699
+sS'/System/Library/PrivateFrameworks/UIFoundation.framework/XPCServices/com.apple.uifoundation-bundle-helper.xpc/com.apple.uifoundation-bundle-helper'
+p700
+(dp701
+sS'/System/Library/PrivateFrameworks/MapsSupport.framework/nanomapscd'
+p702
+(dp703
+sS'/private/var/staged_system_apps/iBooks.app/iBooks'
+p704
+(dp705
+sS'/System/Library/PrivateFrameworks/NewsServices.framework/nanonewscd'
+p706
+(dp707
+sS'/System/Library/CoreServices/CacheDeleteDaily'
+p708
+(dp709
+sS'/System/Library/PrivateFrameworks/VisualVoicemail.framework/vmd'
+p710
+(dp711
+S'VMServerXPCProtocol'
+p712
+(lp713
+S' <NSObject>- (void)reportTranscriptionRatedAccurate:(_Bool)arg1 forIdentifier:(long long)arg2;'
+p714
+aS'- (void)reportTranscriptionProblemForIdentifier:(long long)arg1;'
+p715
+aS'- (void)changePassword:(NSString *)arg1 completionBlock:(void (^)(NSError *))arg2;'
+p716
+aS'- (void)removeAllVoicemails;'
+p717
+aS'- (void)retrieveDataForIdentifier:(long long)arg1;'
+p718
+aS'- (void)setReadForIdentifiers:(NSArray *)arg1;'
+p719
+aS'- (void)setReadForIdentifier:(long long)arg1;'
+p720
+aS'- (void)setDeletedForIdentifiers:(NSArray *)arg1;'
+p721
+aS'- (void)setDeletedForIdentifier:(long long)arg1;'
+p722
+aS'- (void)removeVoicemailFromTrashWithIdentifier:(long long)arg1;'
+p723
+aS'- (void)setTrashedForIdentifiers:(NSArray *)arg1;'
+p724
+aS'- (void)setVoicemailGreeting:(VMVoicemailGreeting *)arg1 completionBlock:(void (^)(NSError *))arg2;'
+p725
+aS'- (void)retrieveVoicemailGreeting:(void (^)(VMVoicemailGreeting *, NSError *))arg1;'
+p726
+aS'- (void)allVoicemails:(void (^)(NSOrderedSet *))arg1;'
+p727
+aS'- (void)synchronize;'
+p728
+aS'- (void)requestInitialState:(void (^)(VMVoicemailCapabilities *, NSOrderedSet *, _Bool, _Bool, _Bool))arg1;'
+p729
+assS'/private/var/staged_system_apps/MobileMail.app/PlugIns/MailQuicklookExtension.appex/MailQuicklookExtension'
+p730
+(dp731
+sS'/private/var/staged_system_apps/Reminders.app/Reminders'
+p732
+(dp733
+sS'/usr/libexec/misagent'
+p734
+(dp735
+sS'/Applications/ServerDocuments.app/ServerDocuments'
+p736
+(dp737
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.BackgroundAppRefresh.appex/com.apple.DiagnosticExtensions.BackgroundAppRefresh'
+p738
+(dp739
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3903.appex/Diagnostic-3903'
+p740
+(dp741
+sS'/private/var/staged_system_apps/FindMyFriends.app/PlugIns/FindMyFriendsNotificationServiceExtension.appex/FindMyFriendsNotificationServiceExtension'
+p742
+(dp743
+sS'/usr/libexec/addressbooksyncd'
+p744
+(dp745
+sS'/Applications/MobileSlideShow.app/PlugIns/PhotosNotificationsUpdates.appex/PhotosNotificationsUpdates'
+p746
+(dp747
+sS'/usr/libexec/seld'
+p748
+(dp749
+sS'/usr/sbin/fairplayd.H2'
+p750
+(dp751
+sS'/System/Library/PrivateFrameworks/BarcodeSupport.framework/XPCServices/com.apple.BarcodeSupport.BarcodeNotificationService.xpc/com.apple.BarcodeSupport.BarcodeNotificationService'
+p752
+(dp753
+sS'/usr/libexec/mobile_assertion_agent'
+p754
+(dp755
+sS'/System/Library/PrivateFrameworks/FindMyDevice.framework/XPCServices/FindMyDeviceIdentityXPCService.xpc/FindMyDeviceIdentityXPCService'
+p756
+(dp757
+sS'/private/var/staged_system_apps/MobileNotes.app/PlugIns/com.apple.mobilenotes.SpotlightIndexExtension.appex/com.apple.mobilenotes.SpotlightIndexExtension'
+p758
+(dp759
+sS'/System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd'
+p760
+(dp761
+S'DCDeviceMetadataProtocol'
+p762
+(lp763
+ssS'/System/Library/AppRemovalServices/com.apple.tv.appremoval.xpc/com.apple.tv.appremoval'
+p764
+(dp765
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3939.appex/Diagnostic-3939'
+p766
+(dp767
+sS'/System/Library/PrivateFrameworks/IMCore.framework/imagent.app/imagent'
+p768
+(dp769
+sS'/usr/libexec/mobile_installation_proxy'
+p770
+(dp771
+sS'/System/Library/PrivateFrameworks/Pasteboard.framework/Support/pasted'
+p772
+(dp773
+S'PBClientToServerProtocol'
+p774
+(lp775
+S' <NSObject>- (void)getAllPasteboardsCompletionBlock:(void (^)(NSArray *, NSError *))arg1;'
+p776
+aS'- (void)performJanitorialTasksCompletionBlock:(void (^)(void))arg1;'
+p777
+aS'- (void)didPasteContentsFromPasteboardWithName:(NSString *)arg1 UUID:(NSUUID *)arg2 completionBlock:(void (^)(void))arg3;'
+p778
+aS'- (void)requestItemFromPasteboardWithName:(NSString *)arg1 UUID:(NSUUID *)arg2 itemIndex:(unsigned long long)arg3 typeIdentifier:(NSString *)arg4 completionBlock:(void (^)(NSData *, PBSecurityScopedURLWrapper *, NSError *))arg5;'
+p779
+aS'- (void)deletePersistentPasteboardWithName:(NSString *)arg1 completionBlock:(void (^)(unsigned long long, NSError *))arg2;'
+p780
+aS'- (void)savePasteboard:(PBItemCollection *)arg1 dataProviderEndpoint:(NSXPCListenerEndpoint *)arg2 completionBlock:(void (^)(unsigned long long, long long, NSError *))arg3;'
+p781
+aS'- (void)localGeneralPasteboardCompletionBlock:(void (^)(PBItemCollection *, NSError *))arg1;'
+p782
+aS'- (void)pasteboardWithName:(NSString *)arg1 createIfNeeded:(_Bool)arg2 completionBlock:(void (^)(PBItemCollection *, NSError *))arg3;'
+p783
+aS'- (void)helloCompletionBlock:(void (^)(void))arg1;'
+p784
+asS'UAPasteboardClientProtocol'
+p785
+(lp786
+S' <NSObject>- (void)pasteboardWillBeFetched:(void (^)(void))arg1;'
+p787
+aS'- (void)remotePasteboardAvailable:(_Bool)arg1;'
+p788
+assS'/System/Library/Frameworks/Contacts.framework/Support/contactsd'
+p789
+(dp790
+S'CNXPCDataMapperService'
+p791
+(lp792
+S' <NSObject>- (void)reindexSearchableItemsWithIdentifiers:(NSArray *)arg1 withReply:(void (^)(void))arg2;'
+p793
+aS'- (void)writeFavoritesPropertyListData:(NSData *)arg1 toPath:(NSString *)arg2 withReply:(void (^)(_Bool, NSError *))arg3;'
+p794
+aS'- (void)favoritesEntryDictionariesAtPath:(NSString *)arg1 withReply:(void (^)(NSArray *, NSError *))arg2;'
+p795
+aS'- (void)clearChangeHistoryForClientIdentifier:(NSString *)arg1 toChangeAnchor:(CNChangeHistoryAnchor *)arg2 withReply:(void (^)(NSNumber *, NSError *))arg3;'
+p796
+aS'- (void)changeHistoryWithFetchRequest:(CNChangeHistoryFetchRequest *)arg1 withReply:(void (^)(CNChangeHistoryResult *, NSError *))arg2;'
+p797
+aS'- (void)unregisterChangeHistoryClientIdentifier:(NSString *)arg1 withReply:(void (^)(NSNumber *, NSError *))arg2;'
+p798
+aS'- (void)registerChangeHistoryClientIdentifier:(NSString *)arg1 withReply:(void (^)(NSNumber *, NSError *))arg2;'
+p799
+aS'- (void)userActivityForContact:(CNContact *)arg1 withReply:(void (^)(NSDictionary *))arg2;'
+p800
+aS'- (void)contactWithUserActivityUserInfo:(NSDictionary *)arg1 keysToFetch:(NSArray *)arg2 withReply:(void (^)(CNContact *))arg3;'
+p801
+aS'- (void)setBestMeIfNeededForGivenName:(NSString *)arg1 familyName:(NSString *)arg2 email:(NSString *)arg3 withReply:(void (^)(NSNumber *, NSError *))arg4;'
+p802
+aS'- (void)setMeContact:(CNContact *)arg1 forContainer:(CNContainer *)arg2 withReply:(void (^)(NSNumber *, NSError *))arg3;'
+p803
+aS'- (void)setMeContact:(CNContact *)arg1 withReply:(void (^)(NSNumber *, NSError *))arg2;'
+p804
+aS'- (void)defaultContainerIdentifierWithReply:(void (^)(NSString *, NSError *))arg1;'
+p805
+aS'- (void)subgroupsOfGroupWithIdentifier:(NSString *)arg1 withReply:(void (^)(NSArray *, NSError *))arg2;'
+p806
+aS'- (void)groupsMatchingPredicate:(NSPredicate *)arg1 withReply:(void (^)(NSArray *, NSError *))arg2;'
+p807
+aS'- (void)accountsMatchingPredicate:(NSPredicate *)arg1 withReply:(void (^)(NSArray *, NSError *))arg2;'
+p808
+aS'- (void)policyForContainerWithIdentifier:(NSString *)arg1 withReply:(void (^)(CNPolicy *, NSError *))arg2;'
+p809
+aS'- (void)serverSearchContainersMatchingPredicate:(NSPredicate *)arg1 withReply:(void (^)(NSArray *, NSError *))arg2;'
+p810
+aS'- (void)containersMatchingPredicate:(NSPredicate *)arg1 withReply:(void (^)(NSArray *, NSError *))arg2;'
+p811
+aS'- (void)executeSaveRequest:(CNSaveRequest *)arg1 withReply:(void (^)(_Bool, CNSaveResponse *, NSError *))arg2;'
+p812
+aS'- (void)meContactIdentifiersWithReply:(void (^)(NSArray *, NSError *))arg1;'
+p813
+aS'- (void)progressiveContactsForFetchRequest:(CNContactFetchRequest *)arg1 progressHandler:(id <ProgressiveResultsHandlerProtocol>)arg2 reply:(void (^)(id <CNCancelable>))arg3;'
+p814
+aS'- (void)nextEncodedContactsForCursor:(id <CNEncodedFetchCursor>)arg1 withReply:(void (^)(NSData *, _Bool, NSError *))arg2;'
+p815
+aS'- (void)encodedContactsAndCursorForFetchRequest:(CNContactFetchRequest *)arg1 withReply:(void (^)(NSData *, id <CNEncodedFetchCursor>, NSError *))arg2;'
+p816
+aS'- (void)contactsForFetchRequest:(CNContactFetchRequest *)arg1 withMatchInfoReply:(void (^)(NSArray *, NSDictionary *, NSError *))arg2;'
+p817
+aS'- (void)unifiedContactCountWithReply:(void (^)(NSNumber *, NSError *))arg1;'
+p818
+aS'- (void)identifierWithReply:(void (^)(NSString *, NSError *))arg1;'
+p819
+aS'- (void)configureServiceWithOptions:(NSDictionary *)arg1;'
+p820
+assS'/usr/libexec/crash_mover'
+p821
+(dp822
+sS'/usr/libexec/mobile_diagnostics_relay'
+p823
+(dp824
+sS'/private/var/staged_system_apps/Music.app/PlugIns/MusicMessagesApp.appex/MusicMessagesApp'
+p825
+(dp826
+sS'/System/Library/PrivateFrameworks/CoreFollowUpUI.framework/PlugIns/FollowUpSampleExtension.appex/FollowUpSampleExtension'
+p827
+(dp828
+sS'/usr/bin/tailspin'
+p829
+(dp830
+sS'/Applications/Preferences.app/Preferences'
+p831
+(dp832
+sS'/usr/libexec/pipelined'
+p833
+(dp834
+S'CLIndoorProtocolPrivate'
+p835
+(lp836
+S' <CLIndoorProtocol>- (void)changeLocationGroups:(NSArray *)arg1;'
+p837
+aS'- (void)selectLocationGroup:(NSString *)arg1;'
+p838
+aS'- (void)selectLocationGroups:(NSArray *)arg1;'
+p839
+aS'- (void)playbackDatarun:(NSString *)arg1;'
+p840
+aS'- (void)setApiKey:(NSString *)arg1 onServer:(NSString *)arg2;'
+p841
+aS'- (void)setApiKey:(NSString *)arg1;'
+p842
+assS'/sbin/launchd'
+p843
+(dp844
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4446.appex/Diagnostic-4446'
+p845
+(dp846
+sS'/System/Library/Frameworks/PassKit.framework/PlugIns/PassKitIntentsUIExtension.appex/PassKitIntentsUIExtension'
+p847
+(dp848
+sS'/Applications/HashtagImages.app/PlugIns/HashtagImagesExtension.appex/HashtagImagesExtension'
+p849
+(dp850
+sS'/System/Library/PrivateFrameworks/PairedSync.framework/Support/pairedsyncd'
+p851
+(dp852
+S'PSDSchedulerObserver, PSYSyncSessionProviderInterface'
+p853
+(lp854
+ssS'/System/Library/PrivateFrameworks/SafariShared.framework/XPCServices/com.apple.Safari.ImageDecoder.xpc/com.apple.Safari.ImageDecoder'
+p855
+(dp856
+sS'/System/Library/PrivateFrameworks/NewsServices.framework/newspolicyd'
+p857
+(dp858
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Panic.appex/com.apple.DiagnosticExtensions.Panic'
+p859
+(dp860
+sS'/usr/libexec/ptpd'
+p861
+(dp862
+sS'/System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/IMAutomaticHistoryDeletionAgent'
+p863
+(dp864
+sS'/System/Library/PrivateFrameworks/UpNextWidget.framework/PlugIns/UpNext.appex/UpNext'
+p865
+(dp866
+sS'/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.Databases.xpc/com.apple.WebKit.Databases'
+p867
+(dp868
+sS'/System/Library/PrivateFrameworks/DictionaryServices.framework/XPCServices/com.apple.DictionaryServiceHelper.xpc/com.apple.DictionaryServiceHelper'
+p869
+(dp870
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.FaceTime.appex/com.apple.DiagnosticExtensions.FaceTime'
+p871
+(dp872
+sS'/Applications/BusinessExtensionsWrapper.app/BusinessExtensionsWrapper'
+p873
+(dp874
+sS'/usr/libexec/wifiFirmwareLoader'
+p875
+(dp876
+sS'/private/var/staged_system_apps/MobileMail.app/MobileMail'
+p877
+(dp878
+sS'/private/var/staged_system_apps/TV.app/TV'
+p879
+(dp880
+sS'/usr/sbin/filecoordinationd'
+p881
+(dp882
+sS'/usr/libexec/DeveloperTools/codesign_allocate'
+p883
+(dp884
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3905.appex/Diagnostic-3905'
+p885
+(dp886
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.tailspin.appex/com.apple.DiagnosticExtensions.tailspin'
+p887
+(dp888
+sS'/usr/libexec/sharingd'
+p889
+(dp890
+sS'/System/Library/CoreServices/OTACrashCopier'
+p891
+(dp892
+sS'/System/Library/PrivateFrameworks/MediaServices.framework/Support/mediaartworkd'
+p893
+(dp894
+sS'/System/Library/PrivateFrameworks/NanoPreferencesSync.framework/nanoprefsyncd'
+p895
+(dp896
+sS'/private/var/staged_system_apps/MobileNotes.app/PlugIns/com.apple.mobilenotes.SharingExtension.appex/com.apple.mobilenotes.SharingExtension'
+p897
+(dp898
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3942.appex/Diagnostic-3942'
+p899
+(dp900
+sS'/Applications/SLGoogleAuth.app/SLGoogleAuth'
+p901
+(dp902
+sS'/System/Library/Frameworks/IdentityLookup.framework/XPCServices/com.apple.IdentityLookup.MessageFilter.xpc/com.apple.IdentityLookup.MessageFilter'
+p903
+(dp904
+sS'/usr/libexec/streaming_zip_conduit'
+p905
+(dp906
+sS'/usr/bin/powerlogHelperd'
+p907
+(dp908
+sS'/private/var/staged_system_apps/Maps.app/PlugIns/TransitWidget.appex/TransitWidget'
+p909
+(dp910
+sS'/System/Library/Frameworks/CFNetwork.framework/AuthBrokerAgent'
+p911
+(dp912
+sS'/System/Library/Frameworks/Social.framework/XPCServices/com.apple.weibo.xpc/com.apple.weibo'
+p913
+(dp914
+sS'/System/Library/PrivateFrameworks/NanoMailKitServer.framework/nanomailbootstrapd'
+p915
+(dp916
+sS'/usr/libexec/nehelper'
+p917
+(dp918
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3906.appex/Diagnostic-3906'
+p919
+(dp920
+sS'/System/Library/PrivateFrameworks/RemindersUI.framework/PlugIns/RemindersSpotlight.appex/RemindersSpotlight'
+p921
+(dp922
+sS'/System/Library/PrivateFrameworks/MapsSupport.framework/mapspushd'
+p923
+(dp924
+sS'/usr/libexec/screenshotsyncd'
+p925
+(dp926
+sS'/usr/bin/sysdiagnose'
+p927
+(dp928
+sS'/usr/libexec/symptomsd'
+p929
+(dp930
+sS'/usr/libexec/timed'
+p931
+(dp932
+sS'/System/Library/PrivateFrameworks/AuthKitUI.framework/PlugIns/AKSecondFactorAlert.appex/AKSecondFactorAlert'
+p933
+(dp934
+sS'/System/Library/AppRemovalServices/com.apple.podcasts.appremoval.xpc/com.apple.podcasts.appremoval'
+p935
+(dp936
+sS'/Applications/GameCenterUIService.app/GameCenterUIService'
+p937
+(dp938
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4184.appex/Diagnostic-4184'
+p939
+(dp940
+sS'/System/Library/PrivateFrameworks/IMFoundation.framework/IMLoggingAgent'
+p941
+(dp942
+sS'/System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service'
+p943
+(dp944
+sS'/private/var/staged_system_apps/News.app/PlugIns/ArticleNotificationExtension.appex/ArticleNotificationExtension'
+p945
+(dp946
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3985.appex/Diagnostic-3985'
+p947
+(dp948
+sS'/System/Library/Filesystems/exfat.fs/Contents/Resources/fsck_exfat'
+p949
+(dp950
+sS'/usr/sbin/BTAvrcp'
+p951
+(dp952
+sS'/System/Library/Frameworks/Intents.framework/XPCServices/intents_image_service.xpc/intents_image_service'
+p953
+(dp954
+sS'/Applications/SLGoogleAuth.app/PlugIns/SLGoogleAuthService.appex/SLGoogleAuthService'
+p955
+(dp956
+sS'/usr/sbin/addNetworkInterface'
+p957
+(dp958
+sS'/private/var/staged_system_apps/MobileNotes.app/PlugIns/com.apple.mobilenotes.IntentsExtension.appex/com.apple.mobilenotes.IntentsExtension'
+p959
+(dp960
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4009.appex/Diagnostic-4009'
+p961
+(dp962
+sS'/Applications/HealthPrivacyService.app/HealthPrivacyService'
+p963
+(dp964
+sS'/usr/libexec/microstackshot'
+p965
+(dp966
+sS'/System/Library/PrivateFrameworks/AuthKitUI.framework/PlugIns/AKLocationSignInAlert.appex/AKLocationSignInAlert'
+p967
+(dp968
+sS'/sbin/pfctl'
+p969
+(dp970
+sS'/System/Library/AppRemovalServices/com.apple.tips.appremoval.xpc/com.apple.tips.appremoval'
+p971
+(dp972
+S'LSAppRemovalServiceProtocol'
+p973
+(lp974
+ssS'/System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd'
+p975
+(dp976
+S'CDMSetupXPCListenerService'
+p977
+(lp978
+S' <NSObject>- (void)invalidateClientFlowCacheWithCompletion:(void (^)(NSError *))arg1;'
+p979
+aS'- (void)getClientFlowStatusWithReply:(void (^)(NSArray *))arg1;'
+p980
+aS'- (void)getNLAssetStatusForType:(NSString *)arg1 withReply:(void (^)(NSDictionary *, NSError *))arg2;'
+p981
+asS'CDMXPCListenerService'
+p982
+(lp983
+S'Delegate <NSObject>- (void)handleServiceAceUpdate:(NSDictionary *)arg1;'
+p984
+assS'/usr/libexec/companion_proxy'
+p985
+(dp986
+sS'/System/Library/AppRemovalServices/com.apple.Maps.appremoval.xpc/com.apple.Maps.appremoval'
+p987
+(dp988
+sS'/System/Library/PrivateFrameworks/IAP.framework/Support/iap2d'
+p989
+(dp990
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-8068.appex/Diagnostic-8068'
+p991
+(dp992
+sS'/private/var/staged_system_apps/Music.app/PlugIns/MusicConnectPostExtension.appex/MusicConnectPostExtension'
+p993
+(dp994
+sS'/System/Library/AppRemovalServices/com.apple.news.appremoval.xpc/com.apple.news'
+p995
+(dp996
+sS'/System/Library/PrivateFrameworks/FindMyDevice.framework/XPCServices/FindMyDeviceHelperXPCService.xpc/FindMyDeviceHelperXPCService'
+p997
+(dp998
+sS'/usr/libexec/OTATaskingAgent'
+p999
+(dp1000
+sS'/usr/libexec/locationd'
+p1001
+(dp1002
+sS'/usr/libexec/lskdmsed'
+p1003
+(dp1004
+sS'/System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent.app/CMFSyncAgent'
+p1005
+(dp1006
+sS'/System/Library/PrivateFrameworks/TouchRemote.framework/Support/touchsetupd'
+p1007
+(dp1008
+sS'/System/Library/PrivateFrameworks/StoreBookkeeperClient.framework/Support/storebookkeeperd'
+p1009
+(dp1010
+S'SBCPlaybackPositionServiceProtocol_Internal, SBCPlaybackPositionServiceProtocol'
+p1011
+(lp1012
+ssS'/System/Library/Frameworks/UIKit.framework/XPCServices/com.apple.UIKit.KeyboardManagement.xpc/com.apple.UIKit.KeyboardManagement'
+p1013
+(dp1014
+sS'/usr/libexec/keybagd'
+p1015
+(dp1016
+S'RDClient, BDBubbled'
+p1017
+(lp1018
+ssS'/Applications/HashtagImages.app/HashtagImages'
+p1019
+(dp1020
+sS'/System/Library/PrivateFrameworks/CompassUI.framework/XPCServices/CompassCalibration.xpc/CompassCalibration'
+p1021
+(dp1022
+sS'/usr/libexec/MobileStorageMounter'
+p1023
+(dp1024
+sS'/System/Library/Frameworks/VideoSubscriberAccount.framework/XPCServices/com.apple.VideoSubscriberAccount.PrivacyService.xpc/com.apple.VideoSubscriberAccount.PrivacyService'
+p1025
+(dp1026
+sS'/usr/libexec/DataDetectorsSourceAccess'
+p1027
+(dp1028
+sS'/usr/libexec/bootpd'
+p1029
+(dp1030
+sS'/usr/libexec/mobile_house_arrest'
+p1031
+(dp1032
+sS'/Applications/MailCompositionService.app/MailCompositionService'
+p1033
+(dp1034
+sS'/Applications/PreBoard.app/PreBoard'
+p1035
+(dp1036
+sS'/usr/libexec/eventkitsyncd'
+p1037
+(dp1038
+sS'/System/Library/AppRemovalServices/com.apple.Home.appremoval.xpc/com.apple.Home.appremoval'
+p1039
+(dp1040
+sS'/Applications/Camera.app/Camera'
+p1041
+(dp1042
+sS'/System/Library/PrivateFrameworks/MobileBackup.framework/PlugIns/MBFollowUpExtension.appex/MBFollowUpExtension'
+p1043
+(dp1044
+sS'/private/var/staged_system_apps/Podcasts.app/Podcasts'
+p1045
+(dp1046
+sS'/usr/libexec/atc'
+p1047
+(dp1048
+sS'/usr/bin/zprint'
+p1049
+(dp1050
+sS'/Applications/MobileSMS.app/PlugIns/MessagesNotificationExtension.appex/MessagesNotificationExtension'
+p1051
+(dp1052
+sS'/usr/libexec/airtunesd'
+p1053
+(dp1054
+sS'/System/Library/AppRemovalServices/com.apple.MobileStore.appremoval.xpc/com.apple.MobileStore.appremoval'
+p1055
+(dp1056
+sS'/usr/libexec/resourcegrabberd'
+p1057
+(dp1058
+sS'/System/Library/AppRemovalServices/com.apple.stocks.appremoval.xpc/com.apple.stocks.appremoval'
+p1059
+(dp1060
+sS'/System/Library/Frameworks/SafariServices.framework/XPCServices/com.apple.SafariServices.ContentBlockerLoader.xpc/com.apple.SafariServices.ContentBlockerLoader'
+p1061
+(dp1062
+sS'/private/var/staged_system_apps/News.app/PlugIns/News Diagnostic Extension.appex/News Diagnostic Extension'
+p1063
+(dp1064
+sS'/System/Library/Frameworks/UIKit.framework/PlugIns/com.apple.UIKit.ShareUI.appex/com.apple.UIKit.ShareUI'
+p1065
+(dp1066
+sS'/System/Library/PrivateFrameworks/WatchListKit.framework/Support/watchlistd'
+p1067
+(dp1068
+sS'/private/var/staged_system_apps/Weather.app/Weather'
+p1069
+(dp1070
+sS'/usr/sbin/syslogd'
+p1071
+(dp1072
+sS'/usr/libexec/neagent'
+p1073
+(dp1074
+sS'/usr/libexec/mobile_obliterator'
+p1075
+(dp1076
+sS'/Applications/MobileSafari.app/MobileSafari'
+p1077
+(dp1078
+sS'/usr/libexec/asd'
+p1079
+(dp1080
+sS'/Applications/WebApp1.app/WebApp1'
+p1081
+(dp1082
+sS'/usr/libexec/silhouette'
+p1083
+(dp1084
+sS'/Applications/DemoApp.app/DemoApp'
+p1085
+(dp1086
+sS'/Applications/InCallService.app/PlugIns/IntentsUI.appex/IntentsUI'
+p1087
+(dp1088
+sS'/private/var/staged_system_apps/News.app/News'
+p1089
+(dp1090
+sS'/System/Library/PrivateFrameworks/NanoLeash.framework/companionproximityd'
+p1091
+(dp1092
+sS'/sbin/fsck'
+p1093
+(dp1094
+sS'/System/Library/Filesystems/hfs.fs/Contents/Resources/CopyHFSMeta'
+p1095
+(dp1096
+sS'/usr/libexec/amfid'
+p1097
+(dp1098
+sS'/System/Library/Frameworks/AVKit.framework/XPCServices/SharedPreferences.xpc/SharedPreferences'
+p1099
+(dp1100
+sS'/private/var/staged_system_apps/Reminders.app/PlugIns/RemindersEditorExtension.appex/RemindersEditorExtension'
+p1101
+(dp1102
+sS'/System/Library/PrivateFrameworks/DocumentManagerUICore.framework/PlugIns/RecentsAppPopover.appex/RecentsAppPopover'
+p1103
+(dp1104
+sS'/private/var/staged_system_apps/VoiceMemos.app/PlugIns/com.apple.VoiceMemos.SpotlightIndexExtension.appex/com.apple.VoiceMemos.SpotlightIndexExtension'
+p1105
+(dp1106
+sS'/usr/libexec/nanomediaremotelinkagent'
+p1107
+(dp1108
+sS'/usr/libexec/dhcpd'
+p1109
+(dp1110
+sS'/System/Library/AppRemovalServices/com.apple.mobileme.fmf1.appremoval.xpc/com.apple.mobileme.fmf1.appremoval'
+p1111
+(dp1112
+sS'/System/Library/PrivateFrameworks/BatteryCenter.framework/PlugIns/BatteryWidget.appex/BatteryWidget'
+p1113
+(dp1114
+sS'/System/Library/Filesystems/apfs.fs/apfs.util'
+p1115
+(dp1116
+sS'/System/Library/PrivateFrameworks/MobileBackup.framework/backupd'
+p1117
+(dp1118
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.VisualVoiceMail.appex/com.apple.DiagnosticExtensions.VisualVoiceMail'
+p1119
+(dp1120
+sS'/System/Library/PrivateFrameworks/WelcomeKit.framework/matd'
+p1121
+(dp1122
+sS'/Applications/HomeUIService.app/HomeUIService'
+p1123
+(dp1124
+sS'/usr/libexec/pkd'
+p1125
+(dp1126
+sS'/System/Library/Filesystems/hfs.fs/Contents/Resources/mount_hfs'
+p1127
+(dp1128
+sS'/System/Library/PrivateFrameworks/CameraUI.framework/Support/nebulad'
+p1129
+(dp1130
+sS'/System/Library/PrivateFrameworks/MobileBackup.framework/MobileBackupCacheDeleteService'
+p1131
+(dp1132
+sS'/usr/libexec/mmaintenanced'
+p1133
+(dp1134
+sS'/System/Library/PrivateFrameworks/MapsSupport.framework/navd'
+p1135
+(dp1136
+S'NSXPCListenerDelegate, GEONavdXPCInterface'
+p1137
+(lp1138
+ssS'/System/Library/PrivateFrameworks/VideoProcessing.framework/mediaanalysisd'
+p1139
+(dp1140
+sS'/Applications/FieldTest.app/FieldTest'
+p1141
+(dp1142
+sS'/private/var/staged_system_apps/Files.app/PlugIns/RecentsWidget.appex/RecentsWidget'
+p1143
+(dp1144
+sS'/System/Library/PrivateFrameworks/MobileBackup.framework/PlugIns/MBDiagnosticExtension.appex/MBDiagnosticExtension'
+p1145
+(dp1146
+sS'/System/Library/Frameworks/NetworkExtension.framework/PlugIns/NEIKEv2Provider.appex/NEIKEv2Provider'
+p1147
+(dp1148
+sS'/System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent'
+p1149
+(dp1150
+sS'/Applications/MobileSMS.app/PlugIns/MobileSMSSpotlightImporter.appex/MobileSMSSpotlightImporter'
+p1151
+(dp1152
+sS'/System/Library/PrivateFrameworks/AXMediaUtilities.framework/XPCServices/AXMediaUtilitiesService.xpc/AXMediaUtilitiesService'
+p1153
+(dp1154
+sS'/usr/libexec/tipsd'
+p1155
+(dp1156
+S'NSURLSessionDataDelegate, NSURLSessionDelegate, TPSXPCServerInterface, TPSDWelcomeDelegate, NSXPCListenerDelegate'
+p1157
+(lp1158
+ssS'/System/Library/PrivateFrameworks/IAP.framework/Support/iapd'
+p1159
+(dp1160
+sS'/System/Library/Frameworks/CoreTelephony.framework/PlugIns/CTFollowUpExtension.appex/CTFollowUpExtension'
+p1161
+(dp1162
+sS'/usr/libexec/FSTaskScheduler'
+p1163
+(dp1164
+sS'/System/Library/PrivateFrameworks/CacheDelete.framework/deleted'
+p1165
+(dp1166
+sS'/System/Library/PrivateFrameworks/DataDetectorsUI.framework/PlugIns/com.apple.DataDetectorsUI.ActionsExtension.appex/com.apple.DataDetectorsUI.ActionsExtension'
+p1167
+(dp1168
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4007.appex/Diagnostic-4007'
+p1169
+(dp1170
+sS'/System/Library/CoreServices/EscrowSecurityAlert.app/EscrowSecurityAlert'
+p1171
+(dp1172
+sS'/System/Library/PrivateFrameworks/CloudPhotoLibrary.framework/Support/cloudphotod'
+p1173
+(dp1174
+S'CPLDaemonLibraryManagerProtocol, CPLLibraryManagerDelegate, CPLResourceProgressDelegate, NSXPCConnectionDelegate'
+p1175
+(lp1176
+ssS'/System/Library/PrivateFrameworks/CoreSuggestions.framework/Tools/suggest_tool'
+p1177
+(dp1178
+sS'/Applications/DiagnosticsService.app/DiagnosticsService'
+p1179
+(dp1180
+sS'/usr/libexec/biometrickitd'
+p1181
+(dp1182
+sS'/usr/sbin/rtadvd'
+p1183
+(dp1184
+sS'/private/var/staged_system_apps/Music.app/PlugIns/StoreFlowExtension.appex/StoreFlowExtension'
+p1185
+(dp1186
+sS'/Applications/SafariViewService.app/SafariViewService'
+p1187
+(dp1188
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4182.appex/Diagnostic-4182'
+p1189
+(dp1190
+sS'/System/Library/PrivateFrameworks/FindMyDevice.framework/XPCServices/FindMyDeviceBTDiscoveryXPCService.xpc/FindMyDeviceBTDiscoveryXPCService'
+p1191
+(dp1192
+sS'/System/Library/Frameworks/WebKit.framework/XPCServices/com.apple.WebKit.WebContent.xpc/com.apple.WebKit.WebContent'
+p1193
+(dp1194
+sS'/Applications/MobilePhone.app/PlugIns/VoicemailMessageNotificationExtension.appex/VoicemailMessageNotificationExtension'
+p1195
+(dp1196
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Sandbox.appex/com.apple.DiagnosticExtensions.Sandbox'
+p1197
+(dp1198
+sS'/System/Library/PrivateFrameworks/BookLibrary.framework/Support/bookassetd'
+p1199
+(dp1200
+sS'/System/Library/Frameworks/Security.framework/CircleJoinRequested/CircleJoinRequested'
+p1201
+(dp1202
+sS'/System/Library/PrivateFrameworks/VoiceServices.framework/Support/voiced'
+p1203
+(dp1204
+S'VSSpeechXPCServiceProtocol, VSSpeechServiceDelegate'
+p1205
+(lp1206
+ssS'/System/Library/Frameworks/GSS.framework/Helpers/GSSCred'
+p1207
+(dp1208
+sS'/usr/libexec/checkpointd'
+p1209
+(dp1210
+sS'/System/Library/PrivateFrameworks/ContextKit.framework/XPCServices/ContextService.xpc/ContextService'
+p1211
+(dp1212
+sS'/usr/bin/kbdebug'
+p1213
+(dp1214
+S'_UIKeyboardArbitrationClient'
+p1215
+(lp1216
+ssS'/System/Library/PrivateFrameworks/iWorkXPC.framework/XPCServices/iWorkFileFormat.xpc/iWorkFileFormat'
+p1217
+(dp1218
+sS'/System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd'
+p1219
+(dp1220
+sS'/private/var/staged_system_apps/Calculator.app/Calculator'
+p1221
+(dp1222
+sS'/System/Library/Frameworks/ReplayKit.framework/PlugIns/RPVideoEditorExtension.appex/RPVideoEditorExtension'
+p1223
+(dp1224
+sS'/System/Library/PrivateFrameworks/Accessibility.framework/Frameworks/AccessibilityUI.framework/XPCServices/com.apple.accessibility.AccessibilityUIServer.xpc/com.apple.accessibility.AccessibilityUIServer'
+p1225
+(dp1226
+sS'/System/Library/PrivateFrameworks/Sharing.framework/PlugIns/AirDropDiagnostic.appex/AirDropDiagnostic'
+p1227
+(dp1228
+sS'/private/var/staged_system_apps/MobileMail.app/PlugIns/MailCacheDeleteExtension.appex/MailCacheDeleteExtension'
+p1229
+(dp1230
+sS'/usr/libexec/magicswitchd'
+p1231
+(dp1232
+sS'/System/Library/PrivateFrameworks/CertUI.framework/certui_relay'
+p1233
+(dp1234
+sS'/Applications/AskPermissionUI.app/AskPermissionUI'
+p1235
+(dp1236
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3909.appex/Diagnostic-3909'
+p1237
+(dp1238
+sS'/System/Library/CoreServices/AssistiveTouch.app/assistivetouchd'
+p1239
+(dp1240
+sS'/System/Library/Frameworks/ReplayKit.framework/PlugIns/RPBroadcastActivityViewControllerExtension.appex/RPBroadcastActivityViewControllerExtension'
+p1241
+(dp1242
+S'NSXPCConnectionDelegate, RPDaemonProtocol, RPClientProtocol'
+p1243
+(lp1244
+ssS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-8035.appex/Diagnostic-8035'
+p1245
+(dp1246
+sS'/System/Library/PrivateFrameworks/BarcodeSupport.framework/PlugIns/com.apple.BarcodeSupport.BarcodeNotificationExtension.appex/com.apple.BarcodeSupport.BarcodeNotificationExtension'
+p1247
+(dp1248
+sS'/Applications/InCallService.app/InCallService'
+p1249
+(dp1250
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3741.appex/Diagnostic-3741'
+p1251
+(dp1252
+sS'/System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd'
+p1253
+(dp1254
+S'IXClientProtocol'
+p1255
+(lp1256
+S' <NSObject>- (oneway void)_remote_IXSPromisedOutOfBandStreamingZipTransfer:(NSUUID *)arg1 setArchiveBytesConsumed:(unsigned long long)arg2;'
+p1257
+aS'- (oneway void)_remote_IXSPromisedStreamingZipTransfer:(NSUUID *)arg1 consumeExtractedBytesAtPath:(NSURL *)arg2 completion:(void (^)(NSError *))arg3;'
+p1258
+aS'- (oneway void)_remote_IXSPromisedStreamingZipTransfer:(NSUUID *)arg1 setArchiveBytesConsumed:(unsigned long long)arg2;'
+p1259
+aS'- (oneway void)_remote_IXSPromisedTransferToPath:(NSUUID *)arg1 setShouldCopy:(_Bool)arg2;'
+p1260
+aS'- (oneway void)_remote_IXSPromisedTransferToPath:(NSUUID *)arg1 setTransferPath:(NSURL *)arg2;'
+p1261
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setConfigurationCompleteWithCompletion:(void (^)(NSError *))arg2;'
+p1262
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getPlugInPlaceholderPromises:(void (^)(NSArray *, NSError *))arg2;'
+p1263
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 hasPlugInPlaceholderPromises:(void (^)(_Bool, NSError *))arg2;'
+p1264
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setPlugInPlaceholderPromiseUUIDs:(NSArray *)arg2 completion:(void (^)(NSError *))arg3;'
+p1265
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getEntitlementsPromise:(void (^)(IXDataPromiseSeed *, NSError *))arg2;'
+p1266
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 hasEntitlementsPromise:(void (^)(_Bool, NSError *))arg2;'
+p1267
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setEntitlementsPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1268
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getLocalizationDictionary:(void (^)(NSDictionary *, NSError *))arg2;'
+p1269
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setLocalizationPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1270
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getIconPromise:(void (^)(IXDataPromiseSeed *, NSError *))arg2;'
+p1271
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 hasIconPromise:(void (^)(_Bool, NSError *))arg2;'
+p1272
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setIconPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1273
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getAttributesWithCompletion:(void (^)(IXPlaceholderAttributes *, NSError *))arg2;'
+p1274
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setAttributes:(IXPlaceholderAttributes *)arg2 completion:(void (^)(NSError *))arg3;'
+p1275
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getLaunchProhibitedWithCompletion:(void (^)(_Bool, NSError *))arg2;'
+p1276
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setLaunchProhibited:(_Bool)arg2 completion:(void (^)(NSError *))arg3;'
+p1277
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getSinfDataWithCompletion:(void (^)(NSData *, NSError *))arg2;'
+p1278
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setSinfPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1279
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 getMetadataWithCompletion:(void (^)(MIStoreMetadata *, NSError *))arg2;'
+p1280
+aS'- (oneway void)_remote_IXSPlaceholder:(NSUUID *)arg1 setMetadataPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1281
+aS'- (oneway void)_remote_IXSOwnedDataPromise:(NSUUID *)arg1 getStagedPath:(void (^)(NSURL *, NSError *))arg2;'
+p1282
+aS'- (oneway void)_remote_IXSOwnedDataPromise:(NSUUID *)arg1 setStagedPath:(NSURL *)arg2;'
+p1283
+aS'- (oneway void)_remote_IXSDataPromise:(NSUUID *)arg1 getErrorInfo:(void (^)(unsigned long long, NSError *))arg2;'
+p1284
+aS'- (oneway void)_remote_IXSDataPromise:(NSUUID *)arg1 resetWithCompletion:(void (^)(NSError *))arg2;'
+p1285
+aS'- (oneway void)_remote_IXSDataPromise:(NSUUID *)arg1 cancelForReason:(NSError *)arg2 client:(unsigned long long)arg3 completion:(void (^)(NSError *))arg4;'
+p1286
+aS'- (oneway void)_remote_IXSDataPromise:(NSUUID *)arg1 setIsComplete:(_Bool)arg2 completion:(void (^)(NSError *))arg3;'
+p1287
+aS'- (oneway void)_remote_IXSDataPromise:(NSUUID *)arg1 getIsComplete:(void (^)(_Bool, NSError *))arg2;'
+p1288
+aS'- (oneway void)_remote_IXSDataPromise:(NSUUID *)arg1 setPercentComplete:(double)arg2;'
+p1289
+aS'- (oneway void)_remote_IXSDataPromise:(NSUUID *)arg1 getPercentComplete:(void (^)(double, NSError *))arg2;'
+p1290
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getCoordinationState:(void (^)(unsigned long long, NSError *))arg2;'
+p1291
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 prioritizeWithCompletion:(void (^)(NSError *))arg2;'
+p1292
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getIsPausedWithCompletion:(void (^)(_Bool, NSError *))arg2;'
+p1293
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setIsPaused:(_Bool)arg2 completion:(void (^)(NSError *))arg3;'
+p1294
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 fireObserversWithCompletion:(void (^)(NSError *))arg2;'
+p1295
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getErrorInfo:(void (^)(unsigned long long, NSError *))arg2;'
+p1296
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getIsComplete:(void (^)(_Bool, NSError *))arg2;'
+p1297
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getPreparationPromise:(void (^)(IXDataPromiseSeed *, NSError *))arg2;'
+p1298
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setPreparationPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1299
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getUserDataRestoreShouldBegin:(void (^)(_Bool, NSError *))arg2;'
+p1300
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 hasUserDataPromise:(void (^)(_Bool, NSError *))arg2;'
+p1301
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getUserDataPromise:(void (^)(IXDataPromiseSeed *, NSError *))arg2;'
+p1302
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setUserDataPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1303
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 hasInitialODRAssetPromises:(void (^)(_Bool, NSError *))arg2;'
+p1304
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getInitialODRAssetPromises:(void (^)(NSArray *, NSError *))arg2;'
+p1305
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setInitialODRAssetPromiseUUIDs:(NSArray *)arg2 completion:(void (^)(NSError *))arg3;'
+p1306
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 isUserInitiated:(void (^)(_Bool, NSError *))arg2;'
+p1307
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setUserInitiated:(_Bool)arg2 completion:(void (^)(NSError *))arg3;'
+p1308
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 hasAutoEnabledExtensionTypes:(void (^)(_Bool, NSError *))arg2;'
+p1309
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setAutoEnabledExtensionTypes:(NSArray *)arg2 completion:(void (^)(NSError *))arg3;'
+p1310
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 hasInstallOptions:(void (^)(_Bool, NSError *))arg2;'
+p1311
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setInstallOptionsPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1312
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setAppAssetPromiseDRI:(unsigned long long)arg2 completion:(void (^)(NSError *))arg3;'
+p1313
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getAppAssetPromiseDRI:(void (^)(unsigned long long, NSError *))arg2;'
+p1314
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 appAssetPromiseHasBegunFulfillment:(void (^)(_Bool, NSError *))arg2;'
+p1315
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 hasAppAssetPromise:(void (^)(_Bool, NSError *))arg2;'
+p1316
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getAppAssetPromise:(void (^)(IXDataPromiseSeed *, NSError *))arg2;'
+p1317
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setAppAssetPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1318
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 hasPlaceholderPromise:(void (^)(_Bool, NSError *))arg2;'
+p1319
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 getPlaceholderPromise:(void (^)(IXDataPromiseSeed *, NSError *))arg2;'
+p1320
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 setPlaceholderPromiseUUID:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1321
+aS'- (oneway void)_remote_IXSCoordinatedAppInstall:(NSUUID *)arg1 cancelForReason:(NSError *)arg2 client:(unsigned long long)arg3 completion:(void (^)(NSError *))arg4;'
+p1322
+aS'- (void)_remote_displayUserPresentableErrorForApps:(NSArray *)arg1 code:(long long)arg2;'
+p1323
+aS'- (void)_remote_displayUserPresentableErrorForApp:(NSString *)arg1 code:(long long)arg2;'
+p1324
+aS'- (void)_remote_registerTransientObserver:(NSXPCListenerEndpoint *)arg1 forClientIdentifiers:(NSSet *)arg2 respondingToSelectors:(unsigned long long)arg3;'
+p1325
+aS'- (void)_remote_registerObserverMachServiceName:(NSString *)arg1 forClientIdentifiers:(NSSet *)arg2 respondingToSelectors:(unsigned long long)arg3;'
+p1326
+aS'- (void)_remote_uninstallAppWithBundleID:(NSString *)arg1 requestUserConfirmation:(_Bool)arg2 completion:(void (^)(NSError *))arg3;'
+p1327
+aS'- (void)_remote_prioritizeCoordinatorForAppWithBundleID:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1328
+aS'- (void)_remote_setIsPaused:(_Bool)arg1 forCoordinatorForAppWithBundleID:(NSString *)arg2 completion:(void (^)(NSError *))arg3;'
+p1329
+aS'- (void)_remote_cancelCoordinatorsForAppsWithBundleIDs:(NSArray *)arg1 reason:(NSError *)arg2 client:(unsigned long long)arg3 completion:(void (^)(NSError *))arg4;'
+p1330
+aS'- (void)_remote_cancelCoordinatorForAppWithBundleID:(NSString *)arg1 reason:(NSError *)arg2 client:(unsigned long long)arg3 completion:(void (^)(NSError *))arg4;'
+p1331
+aS'- (void)_remote_setRemovability:(unsigned long long)arg1 forAppWithBundleID:(NSString *)arg2 completion:(void (^)(NSError *))arg3;'
+p1332
+aS'- (void)_remote_removabilityForAppWithBundleID:(NSString *)arg1 completion:(void (^)(unsigned long long, NSError *))arg2;'
+p1333
+aS'- (void)_remote_setTestingEnabled:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1334
+aS'- (void)_remote_pingDaemonWithCompletion:(void (^)(NSError *))arg1;'
+p1335
+aS'- (void)_remote_killDaemonForTestingWithCompletion:(void (^)(NSError *))arg1;'
+p1336
+aS'- (void)_remote_purgeRegisteredCoordinatorsAndPromisesForCreator:(unsigned long long)arg1 completion:(void (^)(NSError *))arg2;'
+p1337
+aS'- (void)_remote_fetchRegisteredDataPromiseInfoForCreator:(unsigned long long)arg1 completion:(void (^)(NSArray *, NSError *))arg2;'
+p1338
+aS'- (void)_remote_fetchSeedsForCoordinatorsWithIntent:(unsigned long long)arg1 completion:(void (^)(NSArray *, NSError *))arg2;'
+p1339
+aS'- (void)_remote_removeObserverForCoordinatorWithUUID:(NSUUID *)arg1;'
+p1340
+aS'- (void)_remote_addObserversForCoordinatorsWithUUIDs:(NSSet *)arg1 fireObserverMethods:(_Bool)arg2;'
+p1341
+aS'- (void)_remote_createAppInstallCoordinatorWithSeed:(IXAppInstallCoordinatorSeed *)arg1 createIfNotExisting:(_Bool)arg2 completion:(void (^)(IXAppInstallCoordinatorSeed *, _Bool, NSError *))arg3;'
+p1342
+aS'- (void)_remote_removeObserverForDataPromiseWithUUID:(NSUUID *)arg1;'
+p1343
+aS'- (void)_remote_addObserversForDataPromisesWithUUIDs:(NSSet *)arg1;'
+p1344
+aS'- (void)_remote_createOutOfBandStreamingZipTransferDataPromiseWithSeed:(IXPromisedOutOfBandStreamingZipTransferSeed *)arg1 completion:(void (^)(IXPromisedOutOfBandStreamingZipTransferSeed *, NSError *))arg2;'
+p1345
+aS'- (void)_remote_createOutOfBandTransferPromiseWithSeed:(IXPromisedOutOfBandTransferSeed *)arg1 completion:(void (^)(IXPromisedOutOfBandTransferSeed *, NSError *))arg2;'
+p1346
+aS'- (void)_remote_createInMemoryDictionaryPromiseWithSeed:(IXPromisedInMemoryDictionarySeed *)arg1 dictionary:(NSDictionary *)arg2 completion:(void (^)(IXPromisedInMemoryDictionarySeed *, NSError *))arg3;'
+p1347
+aS'- (void)_remote_createInMemoryDataPromiseWithSeed:(IXPromisedInMemoryDataSeed *)arg1 data:(NSData *)arg2 completion:(void (^)(IXPromisedInMemoryDataSeed *, NSError *))arg3;'
+p1348
+aS'- (void)_remote_createStreamingZipTransferDataPromiseWithSeed:(IXPromisedStreamingZipTransferSeed *)arg1 completion:(void (^)(IXPromisedStreamingZipTransferSeed *, NSError *))arg2;'
+p1349
+aS'- (void)_remote_createTransferToPathDataPromiseWithSeed:(IXPromisedTransferToPathSeed *)arg1 completion:(void (^)(IXPromisedTransferToPathSeed *, NSError *))arg2;'
+p1350
+aS'- (void)_remote_createPlaceholderDataPromiseWithSeed:(IXPlaceholderSeed *)arg1 completion:(void (^)(IXPlaceholderSeed *, NSError *))arg2;'
+p1351
+assS'/private/var/staged_system_apps/FaceTime.app/FaceTime'
+p1352
+(dp1353
+sS'/System/Library/PrivateFrameworks/ManagedConfiguration.framework/Support/mdmd'
+p1354
+(dp1355
+S'MCMDMXPCProtocol'
+p1356
+(lp1357
+S' <NSObject, MCMDMClientProtocol>- (void)processDeviceRequest:(NSDictionary *)arg1 completion:(void (^)(NSError *, NSDictionary *))arg2;'
+p1358
+aS'- (void)uprootMDMWithCompletion:(void (^)(NSError *))arg1;'
+p1359
+aS'- (void)migrateMDMWithContext:(int)arg1 completion:(void (^)(NSError *))arg2;'
+p1360
+aS'- (void)retryNotNowWithCompletion:(void (^)(NSError *))arg1;'
+p1361
+aS'- (void)simulatePushIfNetworkTetheredWithCompletion:(void (^)(NSError *))arg1;'
+p1362
+aS'- (void)simulatePushWithCompletion:(void (^)(NSError *))arg1;'
+p1363
+aS'- (void)scheduleTokenUpdateIfNecessaryWithCompletion:(void (^)(NSError *))arg1;'
+p1364
+aS'- (void)scheduleTokenUpdateWithCompletion:(void (^)(NSError *))arg1;'
+p1365
+aS'- (void)notifyNewConfigurationWithCompletion:(void (^)(NSError *))arg1;'
+p1366
+assS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Bluetooth.appex/com.apple.DiagnosticExtensions.Bluetooth'
+p1367
+(dp1368
+sS'/Applications/MobileSlideShow.app/PlugIns/com.apple.social.StreamShareService.appex/com.apple.social.StreamShareService'
+p1369
+(dp1370
+sS'/System/Library/Frameworks/PassKit.framework/PlugIns/PassKitIntentsExtension.appex/PassKitIntentsExtension'
+p1371
+(dp1372
+sS'/System/Library/PrivateFrameworks/PrintKit.framework/XPCServices/com.apple.PrintKit.PrinterTool.xpc/com.apple.PrintKit.PrinterTool'
+p1373
+(dp1374
+S'PKBrowserProtocol, WPDeviceScannerDelegate'
+p1375
+(lp1376
+ssS'/usr/bin/hidutil'
+p1377
+(dp1378
+sS'/usr/sbin/nvram'
+p1379
+(dp1380
+sS'/usr/sbin/mediaserverd'
+p1381
+(dp1382
+sS'/System/Library/PrivateFrameworks/NotesShared.framework/XPCServices/com.apple.mobilenotes.datastore.xpc/com.apple.mobilenotes.datastore'
+p1383
+(dp1384
+sS'/private/var/staged_system_apps/MobileNotes.app/PlugIns/com.apple.mobilenotes.QuickLookExtension.appex/com.apple.mobilenotes.QuickLookExtension'
+p1385
+(dp1386
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.LowMemory.appex/com.apple.DiagnosticExtensions.LowMemory'
+p1387
+(dp1388
+sS'/System/Library/PrivateFrameworks/CarKit.framework/PlugIns/CarPlayDiagnostics.appex/CarPlayDiagnostics'
+p1389
+(dp1390
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Keyboard.appex/com.apple.DiagnosticExtensions.Keyboard'
+p1391
+(dp1392
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4003.appex/Diagnostic-4003'
+p1393
+(dp1394
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.WiFi.appex/com.apple.DiagnosticExtensions.WiFi'
+p1395
+(dp1396
+sS'/System/Library/PrivateFrameworks/CloudDocsDaemon.framework/PlugIns/CloudDocsDiagnostic.appex/CloudDocsDiagnostic'
+p1397
+(dp1398
+sS'/usr/libexec/pcapd'
+p1399
+(dp1400
+sS'/System/Library/PrivateFrameworks/WirelessDiagnostics.framework/PlugIns/AWDDiagnosticExtension.appex/AWDDiagnosticExtension'
+p1401
+(dp1402
+sS'/System/Library/PrivateFrameworks/UserActivity.framework/PlugIns/UASharedPasteboardiOSUI.appex/UASharedPasteboardiOSUI'
+p1403
+(dp1404
+sS'/Applications/DataActivation.app/DataActivation'
+p1405
+(dp1406
+sS'/Applications/MobileSlideShow.app/MobileSlideShow'
+p1407
+(dp1408
+sS'/System/Library/Frameworks/AudioToolbox.framework/PlugIns/com.apple.audio.DiagnosticExtension.appex/com.apple.audio.DiagnosticExtension'
+p1409
+(dp1410
+sS'/System/Library/PrivateFrameworks/AssistantServices.framework/XPCServices/com.apple.siri.ClientFlow.ClientScripter.xpc/com.apple.siri.ClientFlow.ClientScripter'
+p1411
+(dp1412
+S'CFCommandProcessing'
+p1413
+(lp1414
+ssS'/usr/libexec/rtcreportingd'
+p1415
+(dp1416
+S'ClientSessionInterface'
+p1417
+(lp1418
+ssS'/System/Library/Filesystems/apfs.fs/apfs_stats'
+p1419
+(dp1420
+sS'/System/Library/PrivateFrameworks/NewsServices.framework/PlugIns/NewsArticleViewer.appex/NewsArticleViewer'
+p1421
+(dp1422
+sS'/System/Library/AppRemovalServices/com.apple.Music.appremoval.xpc/com.apple.Music.appremoval'
+p1423
+(dp1424
+sS'/usr/libexec/demod_helper'
+p1425
+(dp1426
+sS'/System/Library/CoreServices/ScreenSharingServer.app/ScreenSharingServer'
+p1427
+(dp1428
+S'IDSSessionDelegate, AVConferenceDelegate'
+p1429
+(lp1430
+ssS'/private/var/staged_system_apps/News.app/PlugIns/NewsToday.appex/NewsToday'
+p1431
+(dp1432
+sS'/private/var/staged_system_apps/Compass.app/Compass'
+p1433
+(dp1434
+sS'/usr/libexec/demod'
+p1435
+(dp1436
+sS'/Applications/Print Center.app/Print Center'
+p1437
+(dp1438
+sS'/System/Library/PrivateFrameworks/SOS.framework/sosd'
+p1439
+(dp1440
+sS'/Applications/MobileSlideShow.app/PlugIns/PhotosFileProvider.appex/PhotosFileProvider'
+p1441
+(dp1442
+sS'/private/var/staged_system_apps/Maps.app/PlugIns/MapsWidget.appex/MapsWidget'
+p1443
+(dp1444
+sS'/System/Library/PrivateFrameworks/IMDMessageServices.framework/XPCServices/IMDMessageServicesAgent.xpc/IMDMessageServicesAgent'
+p1445
+(dp1446
+sS'/System/Library/PrivateFrameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent'
+p1447
+(dp1448
+sS'/usr/libexec/nsurlsessiond'
+p1449
+(dp1450
+sS'/Applications/Setup.app/Setup'
+p1451
+(dp1452
+sS'/Applications/Health.app/PlugIns/HealthShareExtension.appex/HealthShareExtension'
+p1453
+(dp1454
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4006.appex/Diagnostic-4006'
+p1455
+(dp1456
+sS'/System/Library/AppRemovalServices/com.apple.weather.appremoval.xpc/com.apple.weather.appremoval'
+p1457
+(dp1458
+sS'/System/Library/AppRemovalServices/com.apple.mobilemail.appremoval.xpc/com.apple.mobilemail.appremoval'
+p1459
+(dp1460
+sS'/System/Library/Frameworks/Security.framework/swcagent'
+p1461
+(dp1462
+sS'/usr/libexec/transitd'
+p1463
+(dp1464
+sS'/System/Library/PrivateFrameworks/DistributedEvaluation.framework/XPCServices/com.apple.siri-distributed-evaluation.xpc/com.apple.siri-distributed-evaluation'
+p1465
+(dp1466
+S'DESService'
+p1467
+(lp1468
+S' <NSObject>- (void)runLiveEvaluationForAllBundlesWithBaseURL:(NSURL *)arg1 localeIdentifier:(NSString *)arg2 completion:(void (^)(NSError *))arg3;'
+p1469
+aS'- (void)runLiveEvaluationForBundleId:(NSString *)arg1 baseURL:(NSURL *)arg2 localeIdentifier:(NSString *)arg3 completion:(void (^)(NSError *))arg4;'
+p1470
+aS'- (void)runEvaluationForBundleId:(NSString *)arg1 recipe:(NSDictionary *)arg2 recordUUID:(NSUUID *)arg3 attachments:(NSArray *)arg4 completion:(void (^)(NSDictionary *, NSError *))arg5;'
+p1471
+aS'- (void)runEvaluationForBundleId:(NSString *)arg1 recipe:(NSDictionary *)arg2 recordInfo:(NSDictionary *)arg3 recordData:(NSData *)arg4 attachments:(NSArray *)arg5 completion:(void (^)(NSDictionary *, NSError *))arg6;'
+p1472
+aS'- (void)deleteSavedRecordForBundleId:(NSString *)arg1 identfier:(NSUUID *)arg2 completion:(void (^)(NSError *))arg3;'
+p1473
+aS'- (void)deleteAllSavedRecordsForBundleId:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1474
+aS'- (void)fetchSavedRecordInfoForBundleId:(NSString *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p1475
+aS'- (void)saveRecordForBundleId:(NSString *)arg1 data:(NSData *)arg2 recordInfo:(NSDictionary *)arg3 completion:(void (^)(NSUUID *, NSError *))arg4;'
+p1476
+aS'- (void)fetchInstalledBundlesIdsWithCompletion:(void (^)(NSArray *, NSError *))arg1;'
+p1477
+assS'/System/Library/PrivateFrameworks/CloudPhotoServices.framework/Support/CloudPhotoDerivativeGenerator'
+p1478
+(dp1479
+sS'/usr/libexec/wifiFirmwareLoaderLegacy'
+p1480
+(dp1481
+sS'/System/Library/DistributedEvaluation/Plugins/CoreSpeechFidesPlugin.desPlugin/XPCServices/CoreSpeechFidesXPC.xpc/CoreSpeechFidesXPC'
+p1482
+(dp1483
+sS'/System/Library/PrivateFrameworks/SoftwareUpdateBridge.framework/Support/subridged'
+p1484
+(dp1485
+sS'/usr/sbin/cfprefsd'
+p1486
+(dp1487
+sS'/bin/ps'
+p1488
+(dp1489
+sS'/System/Library/PrivateFrameworks/AggregateDictionary.framework/Support/aggregated'
+p1490
+(dp1491
+sS'/usr/sbin/wirelessproxd'
+p1492
+(dp1493
+S'WPXPCDaemonProtocol'
+p1494
+(lp1495
+S' <NSObject>@optional- (void)disconnectFromLEPipePeer:(NSUUID *)arg1;'
+p1496
+aS'- (void)sendDatatoLePipe:(NSData *)arg1 forPeer:(NSUUID *)arg2;'
+p1497
+aS'- (void)unregisterEndpoint:(NSString *)arg1;'
+p1498
+aS'- (void)registerEndpoint:(NSString *)arg1;'
+p1499
+aS'- (void)enableBubbleTestMode;'
+p1500
+aS'- (void)dumpDaemonState;'
+p1501
+aS'- (void)registerForAnyScanResults:(_Bool)arg1;'
+p1502
+aS'- (void)disableScanning;'
+p1503
+aS'- (void)getPowerLogStats:(void (^)(NSDictionary *))arg1;'
+p1504
+aS'- (void)enableTestMode;'
+p1505
+aS'- (void)registerWithDaemon:(NSString *)arg1 forProcess:(NSString *)arg2 machName:(NSString *)arg3 shouldHoldVoucherForConnections:(_Bool)arg4;'
+p1506
+aS'- (void)listenToBandwidthNotifications;'
+p1507
+aS'- (void)checkAllowDuplicates:(void (^)(_Bool))arg1;'
+p1508
+aS'- (void)getAllTrackedZones;'
+p1509
+aS'- (void)stopTrackingAllZones;'
+p1510
+aS'- (void)stopTrackingZones:(NSArray *)arg1;'
+p1511
+aS'- (void)startTrackingZone:(WPZoneTrackingRequest *)arg1;'
+p1512
+aS'- (void)sendDataToCharacteristic:(WPCharacteristic *)arg1 inService:(NSString *)arg2 forPeer:(NSUUID *)arg3;'
+p1513
+aS'- (void)shouldSubscribe:(_Bool)arg1 toPeer:(NSUUID *)arg2 withCharacteristic:(NSString *)arg3 inService:(NSString *)arg4;'
+p1514
+aS'- (void)discoverCharacteristicsAndServices:(NSDictionary *)arg1 forPeripheral:(NSUUID *)arg2;'
+p1515
+aS'- (void)disconnectFromPeer:(NSUUID *)arg1;'
+p1516
+aS'- (void)connectToPeer:(NSUUID *)arg1 withOptions:(NSDictionary *)arg2;'
+p1517
+aS'- (void)connectToPeer:(NSUUID *)arg1;'
+p1518
+aS'- (void)stopTrackingPeerWithRequest:(WPPeerTrackingRequest *)arg1;'
+p1519
+aS'- (void)startTrackingPeerWithRequest:(WPPeerTrackingRequest *)arg1;'
+p1520
+aS'- (void)stopScanning:(WPScanRequest *)arg1;'
+p1521
+aS'- (void)startScanning:(WPScanRequest *)arg1;'
+p1522
+aS'- (void)stopAdvertising:(WPAdvertisingRequest *)arg1;'
+p1523
+aS'- (void)startAdvertising:(WPAdvertisingRequest *)arg1;'
+p1524
+aS'- (void)addCharacteristic:(WPCharacteristic *)arg1 forService:(NSUUID *)arg2;'
+p1525
+assS'/System/Library/Frameworks/HealthKit.framework/healthd'
+p1526
+(dp1527
+sS'/Applications/AppStore.app/PlugIns/ProductPageExtension.appex/ProductPageExtension'
+p1528
+(dp1529
+sS'/usr/libexec/IOMFB_bics_daemon'
+p1530
+(dp1531
+sS'/usr/libexec/nesessionmanager'
+p1532
+(dp1533
+sS'/System/Library/PrivateFrameworks/DataDetectorsUI.framework/XPCServices/com.apple.datadetectors.AddToRecentsService.xpc/com.apple.datadetectors.AddToRecentsService'
+p1534
+(dp1535
+sS'/System/Library/PrivateFrameworks/iOSDiagnostics.framework/iosdiagnosticsd'
+p1536
+(dp1537
+sS'/Applications/MusicUIService.app/MusicUIService'
+p1538
+(dp1539
+sS'/private/var/staged_system_apps/Bridge.app/Bridge'
+p1540
+(dp1541
+sS'/usr/bin/buttontool'
+p1542
+(dp1543
+sS'/usr/libexec/diagnosticextensionsd'
+p1544
+(dp1545
+sS'/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter'
+p1546
+(dp1547
+S'CTCellularPlanClient'
+p1548
+(lp1549
+S'Delegate <NSObject>- (void)remoteProvisioningDidBecomeAvailable;'
+p1550
+aS'- (void)planInfoDidUpdate;'
+p1551
+asS'NSXPCConnectionDelegate, CTCarrierSpaceServiceInterface'
+p1552
+(lp1553
+ssS'/System/Library/PrivateFrameworks/RemoteMediaServices.framework/remotemediaservicesd'
+p1554
+(dp1555
+sS'/Applications/BusinessExtensionsWrapper.app/PlugIns/Business.appex/Business'
+p1556
+(dp1557
+sS'/System/Library/Frameworks/FileProvider.framework/PlugIns/LocalStorageFileProvider.appex/LocalStorageFileProvider'
+p1558
+(dp1559
+sS'/System/Library/Frameworks/UIKit.framework/PlugIns/com.apple.UIKit.screenpicker.appex/com.apple.UIKit.screenpicker'
+p1560
+(dp1561
+sS'/System/Library/Frameworks/EventKitUI.framework/PlugIns/CalendarSpotlight.appex/CalendarSpotlight'
+p1562
+(dp1563
+sS'/usr/libexec/online-auth-agent'
+p1564
+(dp1565
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-2386.appex/Diagnostic-2386'
+p1566
+(dp1567
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4359.appex/Diagnostic-4359'
+p1568
+(dp1569
+sS'/System/Library/PrivateFrameworks/Search.framework/PlugIns/SpotlightDiagnostic.appex/SpotlightDiagnostic'
+p1570
+(dp1571
+sS'/private/var/staged_system_apps/Videos.app/PlugIns/VideosCoreSpotlightExtension.appex/VideosCoreSpotlightExtension'
+p1572
+(dp1573
+sS'/usr/sbin/aslmanager'
+p1574
+(dp1575
+sS'/System/Library/PrivateFrameworks/AssistantServices.framework/XPCServices/com.apple.siri.analyzer.xpc/com.apple.siri.analyzer'
+p1576
+(dp1577
+sS'/System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/IMDPersistenceAgent'
+p1578
+(dp1579
+sS'/Applications/iAdOptOut.app/iAdOptOut'
+p1580
+(dp1581
+sS'/System/Library/PrivateFrameworks/AppPredictionWidget.framework/PlugIns/AppPredictionWidget.appex/AppPredictionWidget'
+p1582
+(dp1583
+sS'/System/Library/PrivateFrameworks/IAPAuthentication.framework/Support/iapauthd'
+p1584
+(dp1585
+sS'/usr/libexec/tzlinkd'
+p1586
+(dp1587
+sS'/System/Library/PrivateFrameworks/DataAccessExpress.framework/PlugIns/ActiveSyncOAuthService.appex/ActiveSyncOAuthService'
+p1588
+(dp1589
+sS'/usr/libexec/sysstatuscheck'
+p1590
+(dp1591
+sS'/usr/libexec/smcDiagnose'
+p1592
+(dp1593
+sS'/System/Library/PrivateFrameworks/AppleAccountUI.framework/PlugIns/AAUIFollowUpExtension.appex/AAUIFollowUpExtension'
+p1594
+(dp1595
+sS'/usr/libexec/wapic'
+p1596
+(dp1597
+sS'/usr/libexec/feedbackarchiverd'
+p1598
+(dp1599
+S'NSXPCListenerDelegate, ADSpringBoardDelegate, AchiverdProtocol'
+p1600
+(lp1601
+ssS'/System/Library/PrivateFrameworks/AnnotationKit.framework/XPCServices/com.apple.AnnotationKit.MigratorService.xpc/com.apple.AnnotationKit.MigratorService'
+p1602
+(dp1603
+sS'/Applications/Web.app/Web'
+p1604
+(dp1605
+sS'/System/Library/Frameworks/FileProvider.framework/Support/fileproviderd'
+p1606
+(dp1607
+S'FPDProcessMonitorDelegate'
+p1608
+(lp1609
+S' <NSObject>- (void)processMonitor:(FPDProcessMonitor *)arg1 didBecomeForeground:(_Bool)arg2;'
+p1610
+asS'FPDDaemon'
+p1611
+(lp1612
+S'- (void)didUpdateAlternateContentsDocumentForDocumentAtURL:(NSURL *)arg1 completionHandler:(void (^)(NSError *))arg2;'
+p1613
+aS'- (void)fetchAlternateContentsURLForDocumentURL:(NSURL *)arg1 completionHandler:(void (^)(NSURL *, NSError *))arg2;'
+p1614
+aS'- (void)setAlternateContentsURL:(FPSandboxingURLWrapper *)arg1 onDocumentURL:(NSURL *)arg2 completionHandler:(void (^)(NSError *))arg3;'
+p1615
+aS'- (void)setEnabled:(_Bool)arg1 forDomainIdentifier:(NSString *)arg2 providerIdentifier:(NSString *)arg3 completionHandler:(void (^)(NSError *))arg4;'
+p1616
+aS'- (void)getDomainsForProviderIdentifier:(NSString *)arg1 completionHandler:(void (^)(NSArray *, NSError *))arg2;'
+p1617
+aS'- (void)removeAllDomainsForProviderIdentifier:(NSString *)arg1 completionHandler:(void (^)(NSError *))arg2;'
+p1618
+aS'- (void)removeDomain:(NSFileProviderDomain *)arg1 forProviderIdentifier:(NSString *)arg2 completionHandler:(void (^)(NSError *))arg3;'
+p1619
+aS'- (void)addDomain:(NSFileProviderDomain *)arg1 forProviderIdentifier:(NSString *)arg2 completionHandler:(void (^)(NSError *))arg3;'
+p1620
+aS'- (void)reindexAllSearchableItemsForBundleIDs:(NSArray *)arg1 acknowledgementHandler:(void (^)(void))arg2;'
+p1621
+aS'- (void)reindexAllSearchableItemsWithAcknowledgementHandler:(void (^)(void))arg1;'
+p1622
+aS'- (void)dumpStateTo:(NSFileHandle *)arg1 completionHandler:(void (^)(NSError *))arg2;'
+p1623
+aS'- (void)fetchSupportedServicesForDocumentAtURL:(NSURL *)arg1 completionHandler:(void (^)(NSArray *, NSError *))arg2;'
+p1624
+aS'- (void)updateLastUsedDate:(NSURL *)arg1 completionHandler:(void (^)(NSError *))arg2;'
+p1625
+aS'- (void)trashItemAtURL:(NSURL *)arg1 completionHandler:(void (^)(NSURL *, NSError *))arg2;'
+p1626
+aS'- (void)endpointForItemAtURL:(NSURL *)arg1 completionHandler:(void (^)(NSArray *, NSXPCListenerEndpoint *, NSError *))arg2;'
+p1627
+aS'- (void)valuesForAttributes:(NSArray *)arg1 forItemAtURL:(NSURL *)arg2 completionHandler:(void (^)(NSDictionary *, NSError *))arg3;'
+p1628
+aS'- (void)extendBookmarkForItemID:(FPItemID *)arg1 consumerID:(NSString *)arg2 completionHandler:(void (^)(NSString *, NSError *))arg3;'
+p1629
+aS'- (void)itemForURL:(NSURL *)arg1 completionHandler:(void (^)(FPItem *, NSError *))arg2;'
+p1630
+aS'- (void)fetchRemoteServiceEndpointCreatingProviderWithIdentifier:(NSString *)arg1 itemURL:(NSURL *)arg2 handler:(void (^)(id <FPDRemoteServiceEndpointCreatingProvider>, NSError *))arg3;'
+p1631
+aS'- (void)fetchRemoteFileProviderWithIdentifier:(NSString *)arg1 handler:(void (^)(id <FPDRemoteFileProvider>, NSString *, NSError *))arg2;'
+p1632
+aS'- (void)documentURLFromBookmarkableString:(NSString *)arg1 creatingPlaceholderIfMissing:(_Bool)arg2 ignoreAlternateContentsURL:(_Bool)arg3 completionHandler:(void (^)(FPSandboxingURLWrapper *, FPSandboxingURLWrapper *, NSError *))arg4;'
+p1633
+aS'- (void)bookmarkableStringFromDocumentURL:(NSURL *)arg1 completionHandler:(void (^)(NSString *, NSError *))arg2;'
+p1634
+aS'- (void)extendBookmarkForFileURL:(NSURL *)arg1 toConsumerID:(NSString *)arg2 completionHandler:(void (^)(NSString *, NSError *))arg3;'
+p1635
+aS'- (void)providersCompletionHandler:(void (^)(NSError *, NSDictionary *))arg1;'
+p1636
+aS'- (void)evictItemAtURL:(NSURL *)arg1 evenIfEnumeratingFP:(_Bool)arg2 andClearACLForConsumer:(NSString *)arg3 completionHandler:(void (^)(NSError *))arg4;'
+p1637
+aS'- (void)startProvidingItemAtURL:(NSURL *)arg1 fromProviderID:(NSString *)arg2 forConsumerID:(NSString *)arg3 completionHandler:(void (^)(NSError *))arg4;'
+p1638
+aS'- (void)extendSandboxForFileURL:(NSURL *)arg1 fromProviderID:(NSString *)arg2 toConsumerID:(NSString *)arg3 completionHandler:(void (^)(FPSandboxingURLWrapper *, NSError *))arg4;'
+p1639
+aS'- (void)wakeUpCompletionHandler:(void (^)(NSError *))arg1;'
+p1640
+assS'/Applications/StoreDemoViewService.app/StoreDemoViewService'
+p1641
+(dp1642
+sS'/private/var/staged_system_apps/Home.app/Home'
+p1643
+(dp1644
+sS'/Applications/MobileSlideShow.app/PlugIns/PhotoPicker.appex/PhotoPicker'
+p1645
+(dp1646
+sS'/private/var/staged_system_apps/FindMyFriends.app/PlugIns/FindMyFriendsNotificationContentExtension.appex/FindMyFriendsNotificationContentExtension'
+p1647
+(dp1648
+sS'/usr/libexec/pkreporter'
+p1649
+(dp1650
+sS'/System/Library/Frameworks/QuickLook.framework/PlugIns/com.apple.quicklook.extension.previewUI.appex/com.apple.quicklook.extension.previewUI'
+p1651
+(dp1652
+sS'/usr/libexec/videosubscriptionsd'
+p1653
+(dp1654
+sS'/System/Library/PrivateFrameworks/AGXCompilerConnection.framework/XPCServices/AGXCompilerService.xpc/AGXCompilerService'
+p1655
+(dp1656
+sS'/System/Library/Frameworks/CFNetwork.framework/CFNetworkAgent'
+p1657
+(dp1658
+sS'/private/var/staged_system_apps/Music.app/PlugIns/MediaSocialShareService.appex/MediaSocialShareService'
+p1659
+(dp1660
+sS'/usr/sbin/spindump'
+p1661
+(dp1662
+sS'/private/var/staged_system_apps/Maps.app/Maps'
+p1663
+(dp1664
+sS'/System/Library/PrivateFrameworks/HomeSharing.framework/Support/itunescloudd'
+p1665
+(dp1666
+sS'/Applications/Health.app/PlugIns/com.apple.Health.HealthDiagnosticExtension.appex/com.apple.Health.HealthDiagnosticExtension'
+p1667
+(dp1668
+sS'/System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/IMRemoteURLConnectionAgent'
+p1669
+(dp1670
+sS'/Applications/MobilePhone.app/MobilePhone'
+p1671
+(dp1672
+sS'/usr/libexec/cc_fips_test'
+p1673
+(dp1674
+sS'/System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd'
+p1675
+(dp1676
+sS'/System/Library/PrivateFrameworks/CoreParsec.framework/parsecd'
+p1677
+(dp1678
+sS'/System/Library/PrivateFrameworks/PowerlogCore.framework/PlugIns/com.apple.PowerlogCore.diagnosticextension.appex/com.apple.PowerlogCore.diagnosticextension'
+p1679
+(dp1680
+sS'/private/var/staged_system_apps/Podcasts.app/PlugIns/com.apple.podcasts.DiagnosticExtension.appex/com.apple.podcasts.DiagnosticExtension'
+p1681
+(dp1682
+sS'/usr/libexec/hangreporter'
+p1683
+(dp1684
+sS'/System/Library/PrivateFrameworks/NanoPassKit.framework/NPKCompanionAgent'
+p1685
+(dp1686
+sS'/Applications/DiagnosticsService.app/PlugIns/SystemReport.appex/SystemReport'
+p1687
+(dp1688
+sS'/System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/com.apple.CloudDocs.MobileDocumentsFileProvider'
+p1689
+(dp1690
+sS'/Applications/Health.app/Health'
+p1691
+(dp1692
+sS'/System/Library/PrivateFrameworks/GameCenterUI.framework/PlugIns/GameCenterDashboardExtension.appex/GameCenterDashboardExtension'
+p1693
+(dp1694
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.Baseband.appex/com.apple.DiagnosticExtensions.Baseband'
+p1695
+(dp1696
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4183.appex/Diagnostic-4183'
+p1697
+(dp1698
+sS'/usr/libexec/atwakeup'
+p1699
+(dp1700
+sS'/Applications/MessagesViewService.app/MessagesViewService'
+p1701
+(dp1702
+sS'/System/Library/Frameworks/CoreTelephony.framework/Support/DMHelper'
+p1703
+(dp1704
+sS'/private/var/staged_system_apps/News.app/PlugIns/ArticleNotificationServiceExtension.appex/ArticleNotificationServiceExtension'
+p1705
+(dp1706
+sS'/Applications/MobileSlideShow.app/PlugIns/PhotosWidget.appex/PhotosWidget'
+p1707
+(dp1708
+sS'/Applications/WebSheet.app/WebSheet'
+p1709
+(dp1710
+sS'/usr/libexec/replayd'
+p1711
+(dp1712
+S'RPClientProtocol'
+p1713
+(lp1714
+S' <NSObject>- (oneway void)recordingTimerDidUpdate:(NSString *)arg1;'
+p1715
+aS'- (oneway void)recordingLockInterrupted:(NSError *)arg1;'
+p1716
+aS'- (oneway void)captureHandlerWithAudioSample:(NSData *)arg1 absdData:(NSData *)arg2 itemCount:(long long)arg3 bufferType:(long long)arg4 timingData:(NSData *)arg5;'
+p1717
+aS'- (oneway void)captureHandlerWithSample:(RPIOSurfaceObject *)arg1 timingData:(NSData *)arg2;'
+p1718
+aS'- (oneway void)updateBroadcastURL:(NSURL *)arg1;'
+p1719
+aS'- (oneway void)updateBroadcastServiceInfo:(NSDictionary *)arg1;'
+p1720
+aS'- (oneway void)stopRecordingWithError:(NSError *)arg1 movieURL:(NSURL *)arg2;'
+p1721
+aS'- (oneway void)updateScreenRecordingState:(_Bool)arg1;'
+p1722
+asS'NSXPCListenerDelegate, RPBroadcastExtensionProtocol, RPBroadcastDaemonProtocol'
+p1723
+(lp1724
+ssS'/Applications/PhotosViewService.app/PhotosViewService'
+p1725
+(dp1726
+sS'/usr/libexec/xpcroleaccountd'
+p1727
+(dp1728
+sS'/private/var/staged_system_apps/MobileCal.app/PlugIns/CalendarWidget.appex/CalendarWidget'
+p1729
+(dp1730
+sS'/System/Library/PrivateFrameworks/SignpostNotification.framework/XPCServices/signpost_notificationd.xpc/signpost_notificationd'
+p1731
+(dp1732
+sS'/private/var/staged_system_apps/Maps.app/PlugIns/Nearby.appex/Nearby'
+p1733
+(dp1734
+sS'/System/Library/PrivateFrameworks/CloudServices.framework/XPCServices/com.apple.sbd.xpc/com.apple.sbd'
+p1735
+(dp1736
+sS'/Applications/Passbook.app/Passbook'
+p1737
+(dp1738
+sS'/usr/libexec/symptomsd-helper'
+p1739
+(dp1740
+sS'/Applications/SharedWebCredentialViewService.app/SharedWebCredentialViewService'
+p1741
+(dp1742
+sS'/System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd'
+p1743
+(dp1744
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4579.appex/Diagnostic-4579'
+p1745
+(dp1746
+sS'/usr/libexec/mobilewatchdog'
+p1747
+(dp1748
+sS'/System/Library/PrivateFrameworks/AppStoreDaemon.framework/appstored.bundle/appstored'
+p1749
+(dp1750
+S'ASDRequestService'
+p1751
+(lp1752
+S'- (void)submitRequest:(ASDRequest *)arg1 delegate:(id <ASDRequestDelegate>)arg2 withReplyHandler:(void (^)(id <ASDRequestProxy>, NSError *))arg3;'
+p1753
+aS'- (void)cancelAllRequestsWithErrorHandler:(void (^)(NSError *))arg1;'
+p1754
+assS'/System/Library/PrivateFrameworks/GameCenterUI.framework/PlugIns/GameCenterTurnBasedMatchmakerExtension.appex/GameCenterTurnBasedMatchmakerExtension'
+p1755
+(dp1756
+sS'/usr/sbin/BTPbap'
+p1757
+(dp1758
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4615.appex/Diagnostic-4615'
+p1759
+(dp1760
+sS'/usr/sbin/racoon'
+p1761
+(dp1762
+sS'/System/Library/Frameworks/MobileCoreServices.framework/XPCServices/lsdiconservice.xpc/lsdiconservice'
+p1763
+(dp1764
+sS'/System/Library/PrivateFrameworks/VoiceMemos.framework/Support/voicememod'
+p1765
+(dp1766
+sS'/Applications/MobileSafari.app/PlugIns/com.apple.mobilesafari.SafariDiagnosticExtension.appex/com.apple.mobilesafari.SafariDiagnosticExtension'
+p1767
+(dp1768
+sS'/private/var/staged_system_apps/Weather.app/PlugIns/WeatherAppTodayWidget.appex/WeatherAppTodayWidget'
+p1769
+(dp1770
+sS'/private/var/staged_system_apps/Maps.app/PlugIns/MapsSpotlightIndexExtension.appex/MapsSpotlightIndexExtension'
+p1771
+(dp1772
+sS'/Applications/AppStore.app/PlugIns/AppInstallExtension.appex/AppInstallExtension'
+p1773
+(dp1774
+sS'/usr/libexec/networkserviceproxy'
+p1775
+(dp1776
+sS'/private/var/staged_system_apps/Stocks.app/PlugIns/StocksWidget.appex/StocksWidget'
+p1777
+(dp1778
+sS'/Applications/Family.app/Family'
+p1779
+(dp1780
+sS'/System/Library/PrivateFrameworks/NanoBackup.framework/nanobackupd'
+p1781
+(dp1782
+sS'/private/var/staged_system_apps/Music.app/Music'
+p1783
+(dp1784
+sS'/System/Library/Frameworks/MediaPlayer.framework/PlugIns/MediaPlayerDiagnosticExtension.appex/MediaPlayerDiagnosticExtension'
+p1785
+(dp1786
+sS'/System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/com.apple.MobileSoftwareUpdate.CleanupPreparePathService'
+p1787
+(dp1788
+sS'/Applications/SLYahooAuth.app/SLYahooAuth'
+p1789
+(dp1790
+sS'/System/Library/Frameworks/Metal.framework/XPCServices/MTLCompilerService.xpc/MTLCompilerService'
+p1791
+(dp1792
+sS'/System/Library/PrivateFrameworks/AuthKitUI.framework/PlugIns/AKFollowUpExtension.appex/AKFollowUpExtension'
+p1793
+(dp1794
+sS'/System/Library/PrivateFrameworks/AssistantServices.framework/assistantd'
+p1795
+(dp1796
+S'ADAcousticFingerprinterDelegate, CSSpeechControllerDelegate, CSEndpointAnalyzerDelegate, ADSpeechCapturing'
+p1797
+(lp1798
+sS'SiriCoreLocalSpeechRecognizerDelegate, NSXPCListenerDelegate, ADCommandCenterSpeechDelegate, AFDictationService'
+p1799
+(lp1800
+sS'ADHandsFreeStateChangedObserver, ADAudioStateListening, ADCommandCenterClient, ADCommandCenterRequestDelegate, ADCommandCenterSpeechDelegate, AFClientService'
+p1801
+(lp1802
+sS'AFAnalyticsObservationService, AFAnalyticsService'
+p1803
+(lp1804
+sS'AFClientLiteRemoteCommandHandling, ADCommandCenterRequestDelegate'
+p1805
+(lp1806
+sS'AFSettingsService, ADCommandCenterSyncDelegate'
+p1807
+(lp1808
+ssS'/System/Library/PrivateFrameworks/MobileBackup.framework/XPCServices/MBHelperService.xpc/MBHelperService'
+p1809
+(dp1810
+sS'/System/Library/Frameworks/Social.framework/XPCServices/com.apple.tencentweibo.xpc/com.apple.tencentweibo'
+p1811
+(dp1812
+sS'/System/Library/Filesystems/apfs.fs/newfs_apfs'
+p1813
+(dp1814
+sS'/usr/bin/vm_stat'
+p1815
+(dp1816
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.CrashLogs.appex/com.apple.DiagnosticExtensions.CrashLogs'
+p1817
+(dp1818
+sS'/System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd'
+p1819
+(dp1820
+sS'/Applications/MobileTimer.app/MobileTimer'
+p1821
+(dp1822
+sS'/Applications/iCloud.app/iCloud'
+p1823
+(dp1824
+S'RetrievingDialogDelegate'
+p1825
+(lp1826
+S'- (void)retrievingDialogCancelled;'
+p1827
+aS'- (_Bool)retrievingDialogShouldDisplay;'
+p1828
+assS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3940.appex/Diagnostic-3940'
+p1829
+(dp1830
+sS'/private/var/staged_system_apps/Tips.app/PlugIns/TipsWidgetExtension.appex/TipsWidgetExtension'
+p1831
+(dp1832
+sS'/usr/libexec/swcd'
+p1833
+(dp1834
+sS'/System/Library/PrivateFrameworks/iCloudNotification.framework/ind'
+p1835
+(dp1836
+sS'/System/Library/CoreServices/AppleIDAuthAgent'
+p1837
+(dp1838
+sS'/usr/libexec/oscard'
+p1839
+(dp1840
+sS'/usr/libexec/siriknowledged'
+p1841
+(dp1842
+sS'/usr/libexec/wifivelocityd'
+p1843
+(dp1844
+sS'/System/Library/PrivateFrameworks/AuthKitUI.framework/PlugIns/AKSecondFactorEntryAlert.appex/AKSecondFactorEntryAlert'
+p1845
+(dp1846
+sS'/Applications/AdSheet.app/AdSheet'
+p1847
+(dp1848
+S'ADSSession_RPC, ADClientStateDelegate'
+p1849
+(lp1850
+ssS'/usr/libexec/pcsstatus'
+p1851
+(dp1852
+sS'/usr/bin/taskinfo'
+p1853
+(dp1854
+sS'/private/var/staged_system_apps/Stocks.app/Stocks'
+p1855
+(dp1856
+sS'/Applications/MobileSlideShow.app/PlugIns/PhotosDiagnostics.appex/PhotosDiagnostics'
+p1857
+(dp1858
+sS'/usr/libexec/ftp-proxy'
+p1859
+(dp1860
+sS'/usr/libexec/seputil'
+p1861
+(dp1862
+sS'/System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProviderUI.appex/com.apple.CloudDocs.MobileDocumentsFileProviderUI'
+p1863
+(dp1864
+sS'/System/Library/Filesystems/apfs.fs/mount_apfs'
+p1865
+(dp1866
+sS'/private/var/staged_system_apps/FindMyFriends.app/FindMyFriends'
+p1867
+(dp1868
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.VPN.appex/com.apple.DiagnosticExtensions.VPN'
+p1869
+(dp1870
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3745.appex/Diagnostic-3745'
+p1871
+(dp1872
+sS'/System/Library/PrivateFrameworks/DocumentManagerUICore.framework/PlugIns/com.apple.DocumentManager.Service.appex/com.apple.DocumentManager.Service'
+p1873
+(dp1874
+sS'/Applications/DiagnosticsService.app/PlugIns/SystemReport-BatteryCase.appex/SystemReport-BatteryCase'
+p1875
+(dp1876
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3907.appex/Diagnostic-3907'
+p1877
+(dp1878
+sS'/System/Library/PrivateFrameworks/CryptoTokenKit.framework/PlugIns/setoken.appex/setoken'
+p1879
+(dp1880
+sS'/usr/libexec/NANDTaskScheduler'
+p1881
+(dp1882
+sS'/System/Library/Frameworks/MediaAccessibility.framework/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/com.apple.accessibility.mediaaccessibilityd'
+p1883
+(dp1884
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3744.appex/Diagnostic-3744'
+p1885
+(dp1886
+sS'/Applications/WebContentAnalysisUI.app/WebContentAnalysisUI'
+p1887
+(dp1888
+sS'/System/Library/PrivateFrameworks/IAP.framework/Support/iaptransportd'
+p1889
+(dp1890
+sS'/System/Library/PrivateFrameworks/ManagedConfiguration.framework/Support/profiled'
+p1891
+(dp1892
+S'MCXPCProtocol'
+p1893
+(lp1894
+S' <NSObject>- (void)mayShareToAirDropForOriginatingAppBundleID:(NSString *)arg1 originatingAccountIsManaged:(_Bool)arg2 completion:(void (^)(_Bool, NSError *))arg3;'
+p1895
+aS'- (void)mayShareToMessagesForOriginatingAppBundleID:(NSString *)arg1 originatingAccountIsManaged:(_Bool)arg2 completion:(void (^)(_Bool, NSError *))arg3;'
+p1896
+aS'- (void)cancelFeaturePromptWithIdentifier:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1897
+aS'- (void)showFeaturePromptForSetting:(NSString *)arg1 configurationUUID:(NSString *)arg2 promptOptions:(NSDictionary *)arg3 promptIdentifier:(NSString *)arg4 completion:(void (^)(int, NSError *))arg5;'
+p1898
+aS'- (void)shutDownWithCompletion:(void (^)(NSError *))arg1;'
+p1899
+aS'- (void)validateAppBundleIDs:(NSArray *)arg1 completion:(void (^)(NSError *))arg2;'
+p1900
+aS'- (void)setupAssistantDidFinishCompletion:(void (^)(NSError *))arg1;'
+p1901
+aS'- (void)filteredMailAccountsWithSourceAccountManagement:(int)arg1 completion:(void (^)(NSArray *, NSError *))arg2;'
+p1902
+aS'- (void)allowedKeyboardBundleIDsAfterApplyingFilterToBundleIDs:(NSArray *)arg1 hostAppBundleID:(NSString *)arg2 accountIsManaged:(_Bool)arg3 completion:(void (^)(NSArray *))arg4;'
+p1903
+aS'- (void)unstashWhitelistURLStringsWithCompletion:(void (^)(NSError *))arg1;'
+p1904
+aS'- (void)stashWhitelistURLStringsWithCompletion:(void (^)(NSError *))arg1;'
+p1905
+aS'- (void)unstashBlacklistURLStringsWithCompletion:(void (^)(NSError *))arg1;'
+p1906
+aS'- (void)stashBlacklistURLStringsWithCompletion:(void (^)(NSError *))arg1;'
+p1907
+aS'- (void)removeWebContentFilterUserBlacklistedURLString:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1908
+aS'- (void)unstashUserBookmarksFromLabel:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1909
+aS'- (void)stashUserBookmarks:(NSArray *)arg1 withLabel:(NSString *)arg2 completion:(void (^)(NSError *))arg3;'
+p1910
+aS'- (void)setUserBookmarks:(NSArray *)arg1 completion:(void (^)(NSError *))arg2;'
+p1911
+aS'- (void)storeActivationRecord:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;'
+p1912
+aS'- (void)createActivationLockBypassCodeWithCompletion:(void (^)(NSString *, NSError *))arg1;'
+p1913
+aS'- (void)cloudConfigurationStoreDetails:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;'
+p1914
+aS'- (void)cloudConfigurationMachineInfoDataWithCompletion:(void (^)(NSData *, NSError *))arg1;'
+p1915
+aS'- (void)rereadManagedAppAttributesWithCompletion:(void (^)(NSError *))arg1;'
+p1916
+aS'- (void)markStoredProfileForPurposeAsInstalled:(int)arg1 completion:(void (^)(NSError *))arg2;'
+p1917
+aS'- (void)profileDataStoredForPurpose:(int)arg1 completion:(void (^)(NSData *, NSError *))arg2;'
+p1918
+aS'- (void)storeProfileData:(NSData *)arg1 configurationSource:(int)arg2 purpose:(int)arg3 completion:(void (^)(NSError *))arg4;'
+p1919
+aS'- (void)removeExpiredProfilesWithCompletion:(void (^)(NSError *))arg1;'
+p1920
+aS'- (void)managedAppIDsWithFlags:(int)arg1 completion:(void (^)(NSArray *, NSError *))arg2;'
+p1921
+aS'- (void)setUserInfo:(NSDictionary *)arg1 forClientUUID:(NSString *)arg2 completion:(void (^)(NSError *))arg3;'
+p1922
+aS'- (void)resetAllSettingsToDefaultsIsUserInitiated:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1923
+aS'- (void)recomputePerClientUserComplianceWithCompletion:(void (^)(NSError *))arg1;'
+p1924
+aS'- (void)recomputeUserComplianceWarningWithCompletion:(void (^)(NSError *))arg1;'
+p1925
+aS'- (void)notifyHaveSeenComplianceMessageWithLastLockDate:(NSDate *)arg1 completion:(void (^)(NSError *))arg2;'
+p1926
+aS'- (void)notifyStartComplianceTimer:(NSDate *)arg1 completion:(void (^)(NSError *))arg2;'
+p1927
+aS'- (void)removeProvisioningProfileWithUUID:(NSString *)arg1 completion:(void (^)(_Bool, NSError *))arg2;'
+p1928
+aS'- (void)installProvisioningProfileData:(NSData *)arg1 managingProfileIdentifer:(NSString *)arg2 completion:(void (^)(NSError *))arg3;'
+p1929
+aS'- (void)storeCertificateData:(NSData *)arg1 forIPCUIdentifier:(NSString *)arg2 completion:(void (^)(NSError *))arg3;'
+p1930
+aS'- (void)openSensitiveURL:(NSString *)arg1 unlock:(_Bool)arg2 completion:(void (^)(NSError *))arg3;'
+p1931
+aS'- (void)removeValueSetting:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1932
+aS'- (void)removeBoolSetting:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1933
+aS'- (void)setParametersForSettingsByType:(NSDictionary *)arg1 configurationUUID:(NSString *)arg2 toSystem:(_Bool)arg3 user:(_Bool)arg4 passcode:(NSString *)arg5 credentialSet:(NSData *)arg6 completion:(void (^)(NSError *))arg7;'
+p1934
+aS'- (void)migratePostMDMDataMigratorWithContext:(int)arg1 completion:(void (^)(NSError *))arg2;'
+p1935
+aS'- (void)migrateWithContext:(int)arg1 passcodeWasSetInBackup:(_Bool)arg2 completion:(void (^)(NSError *))arg3;'
+p1936
+aS'- (void)managedWiFiNetworkNamesWithCompletion:(void (^)(NSArray *, NSError *))arg1;'
+p1937
+aS'- (void)managedSystemConfigurationServiceIDsWithCompletion:(void (^)(NSArray *, NSError *))arg1;'
+p1938
+aS'- (void)removeOrphanedClientRestrictionsWithCompletion:(void (^)(NSError *))arg1;'
+p1939
+aS'- (void)clearPasscodeWithEscrowKeybagData:(NSData *)arg1 secret:(NSData *)arg2 completion:(void (^)(NSError *))arg3;'
+p1940
+aS'- (void)changePasscode:(NSString *)arg1 oldPasscode:(NSString *)arg2 completion:(void (^)(_Bool, NSError *))arg3;'
+p1941
+aS'- (void)applyRestrictionDictionary:(NSDictionary *)arg1 appsAndOptions:(NSArray *)arg2 clientType:(NSString *)arg3 clientUUID:(NSString *)arg4 localizedClientDescription:(NSString *)arg5 localizedWarningMessage:(NSString *)arg6 completion:(void (^)(_Bool, _Bool, NSError *))arg7;'
+p1942
+aS'- (void)removeProtectedProfileWithIdentifier:(NSString *)arg1 installationType:(long long)arg2 completion:(void (^)(NSError *))arg3;'
+p1943
+aS'- (void)removeProfileWithIdentifier:(NSString *)arg1 installationType:(long long)arg2 completion:(void (^)(NSError *))arg3;'
+p1944
+aS'- (void)updateProfileIdentifier:(NSString *)arg1 interactive:(_Bool)arg2 completion:(void (^)(NSString *, NSError *))arg3;'
+p1945
+aS'- (void)popProvisioningProfileFromHeadOfInstallationQueueWithCompletion:(void (^)(NSData *, NSError *))arg1;'
+p1946
+aS'- (void)popProfileDataFromHeadOfInstallationQueueWithCompletion:(void (^)(NSData *, NSError *))arg1;'
+p1947
+aS'- (void)queueProfileDataForInstallation:(NSData *)arg1 originalFileName:(NSString *)arg2 originatingBundleID:(NSString *)arg3 transitionToUI:(_Bool)arg4 completion:(void (^)(NSString *, NSError *))arg5;'
+p1948
+aS'- (void)installProfileData:(NSData *)arg1 interactive:(_Bool)arg2 options:(NSDictionary *)arg3 completion:(void (^)(NSString *, NSError *))arg4;'
+p1949
+aS'- (void)isProfileInstalledWithIdentifier:(NSString *)arg1 completion:(void (^)(NSError *, _Bool))arg2;'
+p1950
+aS'- (void)defaultAppBundleIDForCommunicationServiceType:(NSString *)arg1 forAccountWithIdentifier:(NSString *)arg2 completion:(void (^)(NSString *, NSError *))arg3;'
+p1951
+aS'- (void)notifyDeviceUnlockedWithCompletion:(void (^)(NSError *))arg1;'
+p1952
+aS'- (void)waitForMigrationIncludingPostRestoreMigration:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1953
+aS'- (void)addBookmark:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;'
+p1954
+aS'- (void)addAllowedURLString:(NSString *)arg1 completion:(void (^)(NSError *))arg2;'
+p1955
+aS'- (void)setAllowedURLStrings:(NSArray *)arg1 completion:(void (^)(NSError *))arg2;'
+p1956
+aS'- (void)setDictationAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1957
+aS'- (void)setSpellCheckAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1958
+aS'- (void)setKeyboardShortcutsAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1959
+aS'- (void)setPredictiveKeyboardAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1960
+aS'- (void)setSmartPunctuationAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1961
+aS'- (void)setAutoCorrectionAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1962
+aS'- (void)allowedImportFromAppBundleIDs:(NSArray *)arg1 importingAppBundleID:(NSString *)arg2 importingIsManaged:(_Bool)arg3 completion:(void (^)(NSArray *, NSError *))arg4;'
+p1963
+aS'- (void)allowedOpenInAppBundleIDs:(NSArray *)arg1 originatingAppBundleID:(NSString *)arg2 originatingIsManaged:(_Bool)arg3 completion:(void (^)(NSArray *, NSError *))arg4;'
+p1964
+aS'- (void)checkCarrierProfileAndForceReinstallation:(_Bool)arg1 completion:(void (^)(NSError *))arg2;'
+p1965
+aS'- (void)checkInWithCompletion:(void (^)(NSError *))arg1;'
+p1966
+assS'/Applications/SiriViewService.app/SiriViewService'
+p1967
+(dp1968
+sS'/usr/libexec/BackupAgent2'
+p1969
+(dp1970
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.HangTracer.appex/com.apple.DiagnosticExtensions.HangTracer'
+p1971
+(dp1972
+sS'/usr/libexec/lskdd'
+p1973
+(dp1974
+sS'/System/Library/PrivateFrameworks/DataMigration.framework/XPCServices/com.apple.datamigrator.xpc/com.apple.datamigrator'
+p1975
+(dp1976
+sS'/System/Library/PrivateFrameworks/GameCenterUI.framework/PlugIns/GameCenterAuthenticateExtension.appex/GameCenterAuthenticateExtension'
+p1977
+(dp1978
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.DataAccess.appex/com.apple.DiagnosticExtensions.DataAccess'
+p1979
+(dp1980
+sS'/usr/libexec/routined'
+p1981
+(dp1982
+sS'/usr/bin/powerlogd'
+p1983
+(dp1984
+sS'/System/Library/PrivateFrameworks/TelephonyUI.framework/PlugIns/FavoritesTodayWidget.appex/FavoritesTodayWidget'
+p1985
+(dp1986
+sS'/Applications/MobileSMS.app/PlugIns/MessagesAssistantExtension.appex/MessagesAssistantExtension'
+p1987
+(dp1988
+sS'/Applications/AccountAuthenticationDialog.app/AccountAuthenticationDialog'
+p1989
+(dp1990
+sS'/Applications/AppStore.app/PlugIns/BridgeStoreExtension.appex/BridgeStoreExtension'
+p1991
+(dp1992
+sS'/private/var/staged_system_apps/Tips.app/Tips'
+p1993
+(dp1994
+sS'/private/var/staged_system_apps/Videos.app/PlugIns/VideosTodayExtension.appex/VideosTodayExtension'
+p1995
+(dp1996
+sS'/System/Library/PrivateFrameworks/AccountNotification.framework/and'
+p1997
+(dp1998
+sS'/System/Library/PrivateFrameworks/ChatKit.framework/companionmessagesd'
+p1999
+(dp2000
+sS'/Applications/ScreenSharingViewService.app/ScreenSharingViewService'
+p2001
+(dp2002
+sS'/System/Library/PrivateFrameworks/CoreSuggestions.framework/reversetemplated'
+p2003
+(dp2004
+sS'/System/Library/PrivateFrameworks/AuthKit.framework/akd'
+p2005
+(dp2006
+sS'/System/Library/Frameworks/Accounts.framework/accountsd'
+p2007
+(dp2008
+sS'/System/Library/PrivateFrameworks/CoreCDPUI.framework/PlugIns/CDPFollowUpExtension.appex/CDPFollowUpExtension'
+p2009
+(dp2010
+sS'/usr/sbin/BTMap'
+p2011
+(dp2012
+sS'/System/Library/PrivateFrameworks/CarKit.framework/PlugIns/CarDNDDiagnostics.appex/CarDNDDiagnostics'
+p2013
+(dp2014
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4008.appex/Diagnostic-4008'
+p2015
+(dp2016
+sS'/System/Library/PrivateFrameworks/UserFS.framework/userfsd'
+p2017
+(dp2018
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4181.appex/Diagnostic-4181'
+p2019
+(dp2020
+sS'/usr/libexec/rapportd'
+p2021
+(dp2022
+S'RPDaemonXPCServerInterface'
+p2023
+(lp2024
+S'- (void)diagnosticShow:(NSString *)arg1 level:(int)arg2 completion:(void (^)(NSString *))arg3;'
+p2025
+aS'- (void)diagnosticLogControl:(NSString *)arg1 completion:(void (^)(NSString *))arg2;'
+p2026
+aS'- (void)activateAssertionWithIdentifier:(NSString *)arg1;'
+p2027
+assS'/System/Library/AppRemovalServices/com.apple.Bridge.appremoval.xpc/com.apple.Bridge.appremoval'
+p2028
+(dp2029
+sS'/private/var/staged_system_apps/Files.app/Files'
+p2030
+(dp2031
+sS'/usr/libexec/backboardd'
+p2032
+(dp2033
+S'NSXPCListenerDelegate, BKSAlternateSystemAppServerProtocol'
+p2034
+(lp2035
+ssS'/System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app/IMTransferAgent'
+p2036
+(dp2037
+sS'/usr/libexec/fmfd'
+p2038
+(dp2039
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/BluetoothHeadset.appex/BluetoothHeadset'
+p2040
+(dp2041
+sS'/System/Library/PrivateFrameworks/VectorKit.framework/mapinspectord'
+p2042
+(dp2043
+sS'/private/var/staged_system_apps/MobileCal.app/MobileCal'
+p2044
+(dp2045
+sS'/usr/libexec/IOAccelMemoryInfoCollector'
+p2046
+(dp2047
+sS'/System/Library/PrivateFrameworks/AppConduit.framework/Support/appconduitd'
+p2048
+(dp2049
+S'ACXDeviceConnectionProtocol'
+p2050
+(lp2051
+S' <NSObject>- (void)updatePreferencesForApplicationWithIdentifier:(NSString *)arg1 preferences:(NSDictionary *)arg2 forDeviceWithPairingID:(NSUUID *)arg3 completion:(void (^)(NSError *))arg4;'
+p2052
+aS'- (void)fetchProvisioningProfilesForApplicationWithBundleID:(NSString *)arg1 forDeviceWithPairingID:(NSUUID *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;'
+p2053
+aS'- (void)fetchProvisioningProfilesForDeviceWithPairingID:(NSUUID *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p2054
+aS'- (void)removeProvisioningProfileWithID:(NSString *)arg1 fromDeviceWithPairingID:(NSUUID *)arg2 completion:(void (^)(_Bool, NSError *))arg3;'
+p2055
+aS'- (void)installProvisioningProfileWithData:(NSData *)arg1 onDeviceWithPairingID:(NSUUID *)arg2 completion:(void (^)(_Bool, NSError *))arg3;'
+p2056
+aS'- (void)disableObservers;'
+p2057
+aS'- (void)enableObservers;'
+p2058
+aS'- (void)getAlwaysInstallForDeviceWithPairingID:(NSUUID *)arg1 completion:(void (^)(_Bool))arg2;'
+p2059
+aS'- (void)removeApplication:(NSString *)arg1 fromDeviceWithPairingID:(NSUUID *)arg2 completion:(void (^)(long long))arg3;'
+p2060
+aS'- (void)installApplication:(NSString *)arg1 withProvisioningProfileInfo:(NSDictionary *)arg2 forTestFlight:(_Bool)arg3 onDeviceWithPairingID:(NSUUID *)arg4 completion:(void (^)(long long, NSError *))arg5;'
+p2061
+aS'- (void)retryPendingAppInstallationsOnDeviceWithPairingID:(NSUUID *)arg1;'
+p2062
+aS'- (void)cancelPendingInstallations;'
+p2063
+aS'- (void)installAllApplications;'
+p2064
+aS'- (void)fetchWatchAppBundleIDForCompanionAppBundleID:(NSString *)arg1 completion:(void (^)(NSString *, NSError *))arg2;'
+p2065
+aS'- (void)fetchWatchAppBundleURLWithinCompanionAppWithWatchAppIdentifier:(NSString *)arg1 completion:(void (^)(NSURL *, NSError *))arg2;'
+p2066
+aS'- (void)fetchInfoForApplicationWithBundleID:(NSString *)arg1 forDeviceWithPairingID:(NSUUID *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;'
+p2067
+aS'- (void)fetchApplicationWithContainingApplicationBundleID:(NSString *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p2068
+aS'- (void)fetchInstalledCompatibleApplicationsForDeviceWithPairingID:(NSUUID *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p2069
+aS'- (void)activeComplicationsForDeviceWithPairingID:(NSUUID *)arg1 completion:(void (^)(NSArray *, NSError *))arg2;'
+p2070
+aS'- (void)fetchInstalledComplicationsForDeviceWithPairingID:(NSUUID *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p2071
+aS'- (void)fetchInstalledApplicationsForDeviceWithPairingID:(NSUUID *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;'
+p2072
+assS'/usr/libexec/rolld'
+p2073
+(dp2074
+sS'/System/Library/PrivateFrameworks/TelephonyUtilities.framework/PlugIns/IntentHandler.appex/IntentHandler'
+p2075
+(dp2076
+sS'/private/var/staged_system_apps/Music.app/PlugIns/RecentlyPlayedTodayExtension.appex/RecentlyPlayedTodayExtension'
+p2077
+(dp2078
+sS'/usr/libexec/cloudpaird'
+p2079
+(dp2080
+sS'/Applications/PassbookUIService.app/PlugIns/PeerPaymentMessagesExtension.appex/PeerPaymentMessagesExtension'
+p2081
+(dp2082
+sS'/Applications/CoreAuthUI.app/CoreAuthUI'
+p2083
+(dp2084
+sS'/private/var/staged_system_apps/MobileStore.app/MobileStore'
+p2085
+(dp2086
+sS'/System/Library/PrivateFrameworks/NotesUI.framework/XPCServices/com.apple.mobilenotes.NotesImporter.xpc/com.apple.mobilenotes.NotesImporter'
+p2087
+(dp2088
+sS'/System/Library/PrivateFrameworks/ToneLibrary.framework/XPCServices/com.apple.tonelibraryd.xpc/com.apple.tonelibraryd'
+p2089
+(dp2090
+sS'/Applications/ScreenshotServicesService.app/ScreenshotServicesService'
+p2091
+(dp2092
+sS'/System/Library/PrivateFrameworks/CoreSuggestions.framework/suggestd'
+p2093
+(dp2094
+sS'/private/var/staged_system_apps/MobileNotes.app/MobileNotes'
+p2095
+(dp2096
+sS'/Applications/ServerDocuments.app/PlugIns/ServerFileProvider.appex/ServerFileProvider'
+p2097
+(dp2098
+sS'/sbin/mount'
+p2099
+(dp2100
+sS'/System/Library/Filesystems/hfs.fs/Contents/Resources/newfs_hfs'
+p2101
+(dp2102
+sS'/usr/libexec/fdrhelper'
+p2103
+(dp2104
+sS'/Applications/Magnifier.app/Magnifier'
+p2105
+(dp2106
+sS'/usr/libexec/SafariCloudHistoryPushAgent'
+p2107
+(dp2108
+sS'/Applications/ActivityMessagesApp.app/PlugIns/ActivityMessagesExtension.appex/ActivityMessagesExtension'
+p2109
+(dp2110
+sS'/usr/libexec/lockdownd'
+p2111
+(dp2112
+sS'/System/Library/CoreServices/SpringBoard.app/SpringBoard'
+p2113
+(dp2114
+sS'/usr/libexec/springboardservicesrelay'
+p2115
+(dp2116
+sS'/usr/libexec/assertiond'
+p2117
+(dp2118
+sS'/System/Library/PrivateFrameworks/DataMigration.framework/XPCServices/com.apple.migrationpluginwrapper.xpc/com.apple.migrationpluginwrapper'
+p2119
+(dp2120
+sS'/usr/sbin/pppd'
+p2121
+(dp2122
+sS'/private/var/staged_system_apps/Contacts.app/Contacts'
+p2123
+(dp2124
+sS'/System/Library/PrivateFrameworks/IMTranscoding.framework/IMTranscoderAgent.xpc/IMTranscoderAgent'
+p2125
+(dp2126
+sS'/usr/libexec/OTAPKIAssetTool'
+p2127
+(dp2128
+sS'/Applications/SharingViewService.app/SharingViewService'
+p2129
+(dp2130
+sS'/usr/libexec/nptocompaniond'
+p2131
+(dp2132
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4534.appex/Diagnostic-4534'
+p2133
+(dp2134
+sS'/Applications/ActivityMessagesApp.app/ActivityMessagesApp'
+p2135
+(dp2136
+sS'/System/Library/Frameworks/Contacts.framework/PlugIns/ContactsCoreSpotlightExtension.appex/ContactsCoreSpotlightExtension'
+p2137
+(dp2138
+sS'/usr/libexec/captiveagent'
+p2139
+(dp2140
+sS'/System/Library/Frameworks/Social.framework/XPCServices/com.apple.facebook.xpc/com.apple.facebook'
+p2141
+(dp2142
+sS'/Applications/TrustMe.app/TrustMe'
+p2143
+(dp2144
+sS'/System/Library/Frameworks/AddressBook.framework/Support/ABDatabaseDoctor'
+p2145
+(dp2146
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3904.appex/Diagnostic-3904'
+p2147
+(dp2148
+sS'/System/Library/PrivateFrameworks/CloudDocsUI.framework/PlugIns/com.apple.CloudDocsUI.DocumentPicker.appex/com.apple.CloudDocsUI.DocumentPicker'
+p2149
+(dp2150
+sS'/System/Library/PrivateFrameworks/AggregateDictionary.framework/Support/addaily'
+p2151
+(dp2152
+sS'/System/Library/PrivateFrameworks/AccountsDaemon.framework/XPCServices/com.apple.accounts.dom.xpc/com.apple.accounts.dom'
+p2153
+(dp2154
+sS'/private/var/staged_system_apps/Podcasts.app/PlugIns/com.apple.podcasts.SpotlightIndexExtension.appex/com.apple.podcasts.SpotlightIndexExtension'
+p2155
+(dp2156
+sS'/System/Library/PrivateFrameworks/NanoLeash.framework/findme'
+p2157
+(dp2158
+sS'/usr/libexec/rtbuddyd'
+p2159
+(dp2160
+sS'/System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd'
+p2161
+(dp2162
+sS'/usr/bin/DumpBasebandCrash'
+p2163
+(dp2164
+sS'/System/Library/PrivateFrameworks/ApplePushService.framework/apsd'
+p2165
+(dp2166
+sS'/System/Library/PrivateFrameworks/ClassroomKit.framework/XPCServices/ScreenshotService.xpc/ScreenshotService'
+p2167
+(dp2168
+sS'/private/var/staged_system_apps/Home.app/PlugIns/HomeIntentExtension.appex/HomeIntentExtension'
+p2169
+(dp2170
+sS'/usr/libexec/finish_demo_restore'
+p2171
+(dp2172
+sS'/System/Library/PrivateFrameworks/TCC.framework/tccd'
+p2173
+(dp2174
+sS'/usr/libexec/duetexpertd'
+p2175
+(dp2176
+sS'/private/var/staged_system_apps/Fitness.app/Fitness'
+p2177
+(dp2178
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-4005.appex/Diagnostic-4005'
+p2179
+(dp2180
+sS'/usr/libexec/nlcd'
+p2181
+(dp2182
+sS'/System/Library/PrivateFrameworks/SafariShared.framework/XPCServices/com.apple.Safari.History.xpc/com.apple.Safari.History'
+p2183
+(dp2184
+sS'/usr/sbin/BTLEServer'
+p2185
+(dp2186
+sS'/System/Library/Frameworks/ContactsUI.framework/PlugIns/ContactsViewService.appex/ContactsViewService'
+p2187
+(dp2188
+sS'/System/Library/PrivateFrameworks/Symptoms.framework/PlugIns/SFDiagnosticExtension.appex/SFDiagnosticExtension'
+p2189
+(dp2190
+sS'/System/Library/Frameworks/VideoSubscriberAccount.framework/XPCServices/com.apple.VideoSubscriberAccount.DeveloperService.xpc/com.apple.VideoSubscriberAccount.DeveloperService'
+p2191
+(dp2192
+sS'/System/Library/PrivateFrameworks/Quagga.framework/XPCServices/com.apple.Quagga.Decode.xpc/com.apple.Quagga.Decode'
+p2193
+(dp2194
+sS'/usr/libexec/tzinit'
+p2195
+(dp2196
+sS'/usr/libexec/lsd'
+p2197
+(dp2198
+sS'/System/Library/PrivateFrameworks/DiagnosticExtensions.framework/PlugIns/com.apple.DiagnosticExtensions.sysdiagnose.appex/com.apple.DiagnosticExtensions.sysdiagnose'
+p2199
+(dp2200
+sS'/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenterRootHelper'
+p2201
+(dp2202
+sS'/usr/libexec/SyncAgent'
+p2203
+(dp2204
+sS'/usr/sbin/ipconfig'
+p2205
+(dp2206
+sS'/usr/libexec/nfcd'
+p2207
+(dp2208
+S'NFSessionInterface, _NFSessionCallbacks'
+p2209
+(lp2210
+ssS'/System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd'
+p2211
+(dp2212
+sS'/System/Library/PrivateFrameworks/MobileInstallation.framework/XPCServices/com.apple.MobileInstallationHelperService.xpc/com.apple.MobileInstallationHelperService'
+p2213
+(dp2214
+S'MobileInstallationHelperServiceProtocol'
+p2215
+(lp2216
+ssS'/usr/libexec/security-sysdiagnose'
+p2217
+(dp2218
+sS'/usr/libexec/dmd'
+p2219
+(dp2220
+sS'/System/Library/PrivateFrameworks/BiometricKit.framework/PlugIns/BioLogDiagnostic.appex/BioLogDiagnostic'
+p2221
+(dp2222
+sS'/System/Library/Frameworks/Social.framework/XPCServices/com.apple.twitter.xpc/com.apple.twitter'
+p2223
+(dp2224
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3738.appex/Diagnostic-3738'
+p2225
+(dp2226
+sS'/System/Library/PrivateFrameworks/StreamingZip.framework/XPCServices/com.apple.StreamingUnzipService.xpc/com.apple.StreamingUnzipService'
+p2227
+(dp2228
+sS'/System/Library/Frameworks/CoreTelephony.framework/Support/CommCenterMobileHelper'
+p2229
+(dp2230
+sS'/usr/libexec/ProxiedCrashCopier'
+p2231
+(dp2232
+sS'/Applications/CheckerBoard.app/CheckerBoard'
+p2233
+(dp2234
+sS'/Applications/DNDBuddy.app/DNDBuddy'
+p2235
+(dp2236
+sS'/System/Library/PrivateFrameworks/IDSFoundation.framework/IDSRemoteURLConnectionAgent.app/IDSRemoteURLConnectionAgent'
+p2237
+(dp2238
+sS'/System/Library/PrivateFrameworks/Weather.framework/Support/nanoweatherprefsd'
+p2239
+(dp2240
+sS'/usr/libexec/hangtracerd'
+p2241
+(dp2242
+sS'/System/Library/PrivateFrameworks/MapsSuggestions.framework/destinationd'
+p2243
+(dp2244
+S'MapsSuggestionsSourceDelegate, MapsSuggestionsLocationUpdaterDelegate'
+p2245
+(lp2246
+sS'MapsSuggestionsSourceProxy'
+p2247
+(lp2248
+S' <NSObject>- (void)forceEarlyUpdateWithCompletionBlock:(void (^)(void))arg1;'
+p2249
+aS'- (void)stopMonitoringWithCompletionBlock:(void (^)(void))arg1;'
+p2250
+aS'- (void)startMonitoringWithCompletionBlock:(void (^)(void))arg1;'
+p2251
+assS'/private/var/staged_system_apps/News.app/PlugIns/NewsArticleQuickLook.appex/NewsArticleQuickLook'
+p2252
+(dp2253
+sS'/System/Library/PrivateFrameworks/VideoSubscriberAccountUI.framework/PlugIns/VideoSubscriberAccountAuthenticationExtension.appex/VideoSubscriberAccountAuthenticationExtension'
+p2254
+(dp2255
+sS'/private/var/staged_system_apps/MobileMail.app/PlugIns/DiagnosticExtension.appex/DiagnosticExtension'
+p2256
+(dp2257
+sS'/usr/libexec/pfd'
+p2258
+(dp2259
+sS'/System/Library/Frameworks/CallKit.framework/XPCServices/com.apple.CallKit.CallDirectoryMaintenance.xpc/com.apple.CallKit.CallDirectoryMaintenance'
+p2260
+(dp2261
+sS'/Applications/DiagnosticsService.app/PlugIns/Diagnostic-3732.appex/Diagnostic-3732'
+p2262
+(dp2263
+sS'/System/Library/PrivateFrameworks/iTunesStore.framework/Support/itunesstored'
+p2264
+(dp2265
+S'pjRPsXEyBJiXQnH9'
+p2266
+(lp2267
+S' <NSObject>- (void)getScoreMessageWithIdentifier:(NSString *)arg1 nonce:(NSData *)arg2 completion:(void (^)(NSData *, NSError *))arg3;'
+p2268
+aS'- (void)computeScoresUsingSettings:(VD9LmqazgfzMqjuy *)arg1 completion:(void (^)(NSString *, NSData *, NSError *))arg2;'
+p2269
+asS'UMUserSwitchStakeholder'
+p2270
+(lp2271
+S' <NSObject>- (void)willSwitchUser;'
+p2272
+assS'/System/Library/PrivateFrameworks/DuetExpertCenter.framework/PlugIns/diagnosticextension.appex/diagnosticextension'
+p2273
+(dp2274
+sS'/usr/libexec/nanoregistryd'
+p2275
+(dp2276
+S'NSSecureCoding, NRRecoveryStep'
+p2277
+(lp2278
+sS'NSXPCListenerDelegate, NRPairedDeviceRegistryXPCDaemonDelegate, NRLocalPropertyMonitorObserver, CBCentralManagerDelegate, NRSwitchProgressTrackerObserver, NRPairedSyncAdvisorObserver, NRKeychainSyncStatusManagerObserver, NRRemoteObjectClassADelegate, NRRemoteObjectClassCDelegate, NRRemoteObjectClassDDelegate, NRRemoteObjectCloudDelegate, NRRemoteObjectDelegate, EPUpdateLastUnpairReason, CBPairingAgentDelegate, NRStateMachineDelegate, NRXPCProxyDelegate, NRRegistryProxyDelegate, NRPrivateProxyDelegate, NRRecoveryManagerDelegate, NanoRegistryPrivateDaemonDelegate, EPResourceOwnerDelegate, EPNanoRegistryStatusCodeElectionDelegate, CBScalablePipeManagerDelegate, NRActiveDeviceAssertionManagerObserver, EPSetServiceDisconnection, NRCreateUnpairTriggerFile'
+p2279
+(lp2280
+ssS'/System/Library/PrivateFrameworks/AppSupport.framework/Support/cplogd'
+p2281
+(dp2282
+sS'/System/Library/PrivateFrameworks/CloudDocsUI.framework/PlugIns/com.apple.CloudDocsUI.CloudSharing.appex/com.apple.CloudDocsUI.CloudSharing'
+p2283
+(dp2284
+sS'/System/Library/PrivateFrameworks/CoreRoutine.framework/PlugIns/RTDiagnosticExtension.appex/RTDiagnosticExtension'
+p2285
+(dp2286
+sS'/System/Library/PrivateFrameworks/AdminLite.framework/Resources/AdminLiteTool'
+p2287
+(dp2288
+s.

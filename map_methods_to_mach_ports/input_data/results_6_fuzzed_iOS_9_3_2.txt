@@ -1,0 +1,1075 @@
+382
+  - (oneway void)getInstalledOfflineLanguagesWithCompletion:(void (^)(NSArray *))arg1;
+  com.apple.assistant.dictation
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_382_1: ( )
+405
+  - (void)updateSpotlightIndexMetadataForItemsWithIdentifiers:(NSArray *)arg1 bundleID:(NSString *)arg2 withCompletion:(void (^)(_Bool, NSError *))arg3;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_405_3: 0
+****NSError * var_405_4: Error Domain=MLDMediaLibraryServiceErrorDomain Code=1001 "(null)" UserInfo={description=A bundle id is required to preocess the index update}
+406
+  - (void)updateSpotlightIndexForBundleID:(NSString *)arg1 withCompletion:(void (^)(_Bool, NSError *))arg2;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_406_2: 0
+****NSError * var_406_3: Error Domain=MLDMediaLibraryServiceErrorDomain Code=1001 "(null)" UserInfo={description=A bundle id is required to preocess the index update}
+407
+  - (void)setDeviceSharedLibraryPath:(NSString *)arg1 withCompletion:(void (^)(_Bool, NSError *))arg2;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_407_2: 1
+****NSError * var_407_3: (null)
+408
+  - (void)getDeviceSharedLibraryPath:(void (^)(NSString *))arg1;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSString * var_408_1: Simple Var
+410
+  - (void)unlockDatabaseWithCompletion:(void (^)(_Bool, NSError *))arg1;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_410_1: 0
+****NSError * var_410_2: Error Domain=MLWriterErrorDomain Code=0 "Database is not currently locked." UserInfo={NSLocalizedDescription=Database is not currently locked.}
+411
+  - (void)lockDatabaseForReason:(NSString *)arg1 withCompletion:(void (^)(_Bool, NSError *))arg2;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_411_2: 1
+****NSError * var_411_3: (null)
+412
+  - (void)cancelImportOperation:(unsigned long long)arg1 completionHandler:(void (^)(_Bool, NSError *))arg2;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_412_2: 1
+****NSError * var_412_3: (null)
+414
+  - (void)setOptions:(NSDictionary *)arg1 withCompletionHandler:(void (^)(_Bool, NSError *))arg2;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_414_2: 1
+****NSError * var_414_3: (null)
+416
+  - (void)endTransaction:(NSUUID *)arg1 shouldCommit:(_Bool)arg2 withCompletionHandler:(void (^)(_Bool, NSError *))arg3;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_416_3: 0
+****NSError * var_416_4: Error Domain=MLWriterErrorDomain Code=200 "A connection with the transaction ID <__NSConcreteUUID 0x15e642be0> 20B0DDE7-6087-4607-842A-E97C72E4D522 could not be found." UserInfo={NSLocalizedDescription=A connection with the transaction ID <__NSConcreteUUID 0x15e642be0> 20B0DDE7-6087-4607-842A-E97C72E4D522 could not be found.}
+417
+  - (void)executeQuery:(NSString *)arg1 withParameters:(NSArray *)arg2 options:(NSDictionary *)arg3 onTransaction:(NSUUID *)arg4 withCompletionHandler:(void (^)(NSData *, NSError *))arg5;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSData * var_417_5: <62706c69 73743030 d4010203 04050614 15582476 65727369 6f6e5824 6f626a65 63747359 24617263 68697665 72542474 6f701200 0186a0a3 07080d55 246e756c 6cd2090a 0b0c5a4e 532e6f62 6a656374 73562463 6c617373 a08002d2 0e0f1011 5a24636c 6173736e 616d6558 24636c61 73736573 5e4e534d 75746162 6c654172 726179a3 10121357 4e534172 72617958 4e534f62 6a656374 5f100f4e 534b6579 65644172 63686976 6572d116 1754726f 6f748001 08111a23 2d32373b 41465158 595b606b 7483878f 98aaadb2 00000000 00000101 00000000 00000018 00000000 00000000 00000000 000000b4>
+****NSError * var_417_6: Error Domain=MLWriterErrorDomain Code=200 "Attempted to execute query without a valid transaction (transaction ID = <__NSConcreteUUID 0x15e567790> 20B0DDE7-6087-4607-842A-E97C72E4D522). You must be within an existing transaction first before executing a query." UserInfo={NSLocalizedDescription=Attempted to execute query without a valid transaction (transaction ID = <__NSConcreteUUID 0x15e567790> 20B0DDE7-6087-4607-842A-E97C72E4D522). You must be within an existing transaction first before executing a query.}
+418
+  - (void)executeUpdate:(NSString *)arg1 withParameters:(NSArray *)arg2 onTransaction:(NSUUID *)arg3 withCompletionHandler:(void (^)(_Bool, NSError *))arg4;
+  com.apple.medialibraryd.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_418_4: 0
+****NSError * var_418_5: Error Domain=MLWriterErrorDomain Code=200 "Attempted to execute update without a valid transaction (transaction ID = <__NSConcreteUUID 0x15e642630> 20B0DDE7-6087-4607-842A-E97C72E4D522). You must start a transaction first before executing an update." UserInfo={NSLocalizedDescription=Attempted to execute update without a valid transaction (transaction ID = <__NSConcreteUUID 0x15e642630> 20B0DDE7-6087-4607-842A-E97C72E4D522). You must start a transaction first before executing an update.}
+429
+  - (oneway void)getLogToFile:(void (^)(_Bool))arg1;
+  com.apple.voiceservices.tts
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_429_1: 1
+****Connection Terminated
+437
+  - (oneway void)getAutoDownloadedVoiceAssets:(void (^)(NSArray *))arg1;
+  com.apple.voiceservices.tts
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_437_1: ( )
+****Connection Terminated
+447
+  - (oneway void)getSpeechIsActiveForConnectionReply:(void (^)(_Bool))arg1;
+  com.apple.voiceservices.tts
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_447_1: 0
+****Connection Terminated
+449
+  - (oneway void)getSpeechIsActiveReply:(void (^)(_Bool))arg1;
+  com.apple.voiceservices.tts
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_449_1: 0
+****Connection Terminated
+451
+  - (oneway void)getFootprintsForVoiceName:(NSString *)arg1 languageCode:(NSString *)arg2 reply:(void (^)(NSArray *))arg3;
+  com.apple.voiceservices.tts
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_451_3: (     1 )
+****Connection Terminated
+453
+  - (oneway void)getVoiceNamesForLanguage:(NSString *)arg1 reply:(void (^)(NSArray *))arg2;
+  com.apple.voiceservices.tts
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_453_2: (null)
+****Connection Terminated
+584
+  - (void)transferUserInfo:(WCSessionUserInfoTransfer *)arg1 withURL:(NSURL *)arg2 clientPairingID:(NSString *)arg3 errorHandler:(void (^)(NSError *))arg4;
+  com.apple.wcd
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_584_4: Error Domain=WCErrorDomain Code=7014 "Payload could not be delivered." UserInfo={NSLocalizedDescription=Payload could not be delivered.}
+586
+  - (void)transferFile:(WCSessionFileTransfer *)arg1 sandboxToken:(NSData *)arg2 clientPairingID:(NSString *)arg3 errorHandler:(void (^)(NSError *))arg4;
+  com.apple.wcd
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_586_4: Error Domain=WCErrorDomain Code=7013 "WatchConnectivity session cannot access the file." UserInfo={NSLocalizedDescription=WatchConnectivity session cannot access the file., NSLocalizedFailureReason=Invalid file path, or insufficient permissions to access the file., NSLocalizedRecoverySuggestion=Verify the file path is accessible.}
+****Connection Terminated
+588
+  - (void)updateApplicationContext:(NSData *)arg1 clientPairingID:(NSString *)arg2 errorHandler:(void (^)(NSError *))arg3;
+  com.apple.wcd
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_588_3: Error Domain=WCErrorDomain Code=7014 "Payload could not be delivered." UserInfo={NSLocalizedDescription=Payload could not be delivered.}
+****Connection Terminated
+590
+  - (void)sendMessage:(WCMessage *)arg1 clientPairingID:(NSString *)arg2 acceptanceHandler:(void (^)(_Bool, _Bool))arg3;
+  com.apple.wcd
+  set([])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_590_3: 1
+****_Bool var_590_4: 1
+****Connection Terminated
+592
+  - (void)sessionReadyForInitialStateForClientPairingID:(NSString *)arg1 supportsActiveDeviceSwitch:(_Bool)arg2 withErrorHandler:(void (^)(NSError *))arg3;
+  com.apple.wcd
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_592_3: (null)
+****Connection Invalidated
+644
+  - (void)snapshotWKAppInCompanionAppID:(NSString *)arg1 toURL:(NSURL *)arg2 options:(NSDictionary *)arg3 completion:(void (^)(NSDictionary *, NSError *))arg4;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_644_4: (null)
+****NSError * var_644_5: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "SnapshotWKApp" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "SnapshotWKApp" to call the MobileInstallation SPI.}
+647
+  - (void)updateAppDataProtectionWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_647_2: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "DataMigratorUpdateDataProtection" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "DataMigratorUpdateDataProtection" to call the MobileInstallation SPI.}
+649
+  - (void)updateSinfForLSWithIdentifier:(NSString *)arg1 withOptions:(NSDictionary *)arg2 sinfData:(NSData *)arg3 completion:(void (^)(NSDictionary *, NSError *))arg4;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_649_4: (null)
+****NSError * var_649_5: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "UpdateSinfForLaunchServices" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "UpdateSinfForLaunchServices" to call the MobileInstallation SPI.}
+650
+  - (void)checkCapabilities:(NSObject *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;
+  com.apple.mobile.installd
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_650_3: {     CapabilitiesMatch = 0;     MismatchedCapabilities =     {         "Bogus Capabilities Key" = "Double-check Info.plist format";     }; }
+****NSError * var_650_4: (null)
+651
+  - (void)listSafeHarborsOfType:(long long)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_651_3: (null)
+****NSError * var_651_4: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopySafeHarbors" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopySafeHarbors" to call the MobileInstallation SPI.}
+652
+  - (void)removeSafeHarborForIdentifier:(NSString *)arg1 ofType:(long long)arg2 withOptions:(NSDictionary *)arg3 completion:(void (^)(NSError *))arg4;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_652_4: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "RemoveSafeHarbor" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "RemoveSafeHarbor" to call the MobileInstallation SPI.}
+653
+  - (void)registerSafeHarborAtPath:(NSString *)arg1 forIdentifier:(NSString *)arg2 ofType:(long long)arg3 withOptions:(NSDictionary *)arg4 completion:(void (^)(NSError *))arg5;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_653_5: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "RegisterSafeHarbor" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "RegisterSafeHarbor" to call the MobileInstallation SPI.}
+654
+  - (void)processRestoredContainerWithIdentifier:(NSString *)arg1 ofType:(long long)arg2 options:(NSDictionary *)arg3 completion:(void (^)(NSError *))arg4;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_654_4: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "ProcessRestoredContainer" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "ProcessRestoredContainer" to call the MobileInstallation SPI.}
+655
+  - (void)fetchDiskUsageForIdentifiers:(NSArray *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_655_3: (null)
+****NSError * var_655_4: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopyDiskUsageForLaunchServices" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopyDiskUsageForLaunchServices" to call the MobileInstallation SPI.}
+657
+  - (void)fetchInstalledAppsWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_657_2: (null)
+****NSError * var_657_3: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopyInstalledAppsForLaunchServices" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopyInstalledAppsForLaunchServices" to call the MobileInstallation SPI.}
+658
+  - (void)fetchInstalledDeveloperAppsWithMountPath:(NSString *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_658_2: (null)
+****NSError * var_658_3: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopyInstalledDeveloperAppsForLaunchServices" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "CopyInstalledDeveloperAppsForLaunchServices" to call the MobileInstallation SPI.}
+661
+  - (void)clearUninstalledIdentifiers:(NSArray *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_661_3: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "ClearUninstalled" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "ClearUninstalled" to call the MobileInstallation SPI.}
+662
+  - (void)lookupUninstalledWithOptions:(NSDictionary *)arg1 completion:(void (^)(NSDictionary *, NSError *))arg2;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_662_2: (null)
+****NSError * var_662_3: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "LookupUninstalled" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "LookupUninstalled" to call the MobileInstallation SPI.}
+663
+  - (void)uninstallIdentifiers:(NSArray *)arg1 withOptions:(NSDictionary *)arg2 completion:(void (^)(NSDictionary *, NSError *))arg3;
+  com.apple.mobile.installd
+  set(['com.apple.private.mobileinstall.allowedSPI'])
+****Invocation has a completion handler
+****Completion message
+****NSDictionary * var_663_3: (null)
+****NSError * var_663_4: Error Domain=MIInstallerErrorDomain Code=2 "Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "UninstallForLaunchServices" to call the MobileInstallation SPI." UserInfo={LegacyErrorString=NotEntitled, FunctionName=_ValidateEntitlement, SourceFileLine=87, NSLocalizedDescription=Process CallingMethodsApp (pid 209) is required to have an entitlement named "com.apple.private.mobileinstall.allowedSPI" with an array containing "UninstallForLaunchServices" to call the MobileInstallation SPI.}
+682
+  - (void)uprootMDMWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.mdmdservice
+  set(['com.apple.managedconfiguration.mdmd-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_682_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.mdmd-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement}
+****Connection Terminated
+685
+  - (void)migrateMDMWithContext:(int)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.mdmdservice
+  set(['com.apple.managedconfiguration.mdmd-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_685_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.mdmd-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement}
+****Connection Terminated
+688
+  - (void)retryNotNowWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.mdmdservice
+  set(['com.apple.managedconfiguration.mdmd-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_688_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.mdmd-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement}
+****Connection Terminated
+694
+  - (void)simulatePushWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.mdmdservice
+  set(['com.apple.managedconfiguration.mdmd-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_694_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.mdmd-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement}
+****Connection Terminated
+697
+  - (void)scheduleTokenUpdateIfNecessaryWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.mdmdservice
+  set(['com.apple.managedconfiguration.mdmd-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_697_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.mdmd-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement}
+****Connection Terminated
+700
+  - (void)scheduleTokenUpdateWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.mdmdservice
+  set(['com.apple.managedconfiguration.mdmd-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_700_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.mdmd-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement}
+****Connection Terminated
+703
+  - (void)notifyNewConfigurationWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.mdmdservice
+  set(['com.apple.managedconfiguration.mdmd-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_703_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.mdmd-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.mdmd-access” entitlement}
+****Connection Terminated
+961
+  - (void)createStreamsForMessage:(NSDictionary *)arg1 reply:(void (^)(NSFileHandle *, NSError *))arg2;
+  com.apple.sharingd.nsxpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSFileHandle * var_961_2: (null)
+****NSError * var_961_3: Error Domain=NSPOSIXErrorDomain Code=94 "Bad message" UserInfo={NSLocalizedDescription=Could not set up internal streams}
+1109
+  - (void)obliterateAllSessionsWithReply:(void (^)(void))arg1;
+  com.apple.nsurlsessiond
+  set([])
+****Invocation has a completion handler
+****Completion message
+1110
+  - (void)getActiveSessionIdentifiersWithReply:(void (^)(NSArray *))arg1;
+  com.apple.nsurlsessiond
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1110_1: ( )
+1111
+  - (void)okayToSendPendingCallbacksForIdentifier:(NSString *)arg1 reply:(void (^)(void))arg2;
+  com.apple.nsurlsessiond
+  set([])
+****Invocation has a completion handler
+****Completion message
+1112
+  - (void)releaseAssertionForSession:(NSString *)arg1 reply:(void (^)(void))arg2;
+  com.apple.nsurlsessiond
+  set([])
+****Invocation has a completion handler
+****Completion message
+1282
+  - (void)providersCompletionHandler:(void (^)(NSError *, NSDictionary *))arg1;
+  com.apple.FileProvider
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1282_1: Error Domain=FPErrorDomain Code=8 "The caller is not allowed to perform an operation." UserInfo={NSLocalizedDescription=The caller is not allowed to perform an operation.}
+****NSDictionary * var_1282_2: (null)
+1284
+  - (void)startProvidingItemAtURL:(NSURL *)arg1 fromProviderID:(NSString *)arg2 forConsumerID:(NSString *)arg3 completionHandler:(void (^)(NSError *))arg4;
+  com.apple.FileProvider
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1284_4: Error Domain=FPErrorDomain Code=8 "The caller is not allowed to perform an operation." UserInfo={NSLocalizedDescription=The caller is not allowed to perform an operation.}
+1619
+  - (void)doGetCurrentUserActivityInfo:(void (^)(NSUUID *, NSString *, NSError *))arg1;
+  com.apple.coreservices.lsuseractivitymanager.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSUUID * var_1619_1: (null)
+****NSString * var_1619_2: (null)
+****NSError * var_1619_3: Error Domain=UAContinuityErrorDomain Code=-112 "(null)"
+1620
+  - (void)doPinUserActivityInfo:(UAUserActivityInfo *)arg1 completionHandler:(void (^)(NSUUID *, NSError *))arg2;
+  com.apple.coreservices.lsuseractivitymanager.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSUUID * var_1620_2: (null)
+****NSError * var_1620_3: Error Domain=UAContinuityErrorDomain Code=-112 "(null)"
+1626
+  - (void)doUpdateUserActivityInfo:(UAUserActivityInfo *)arg1 makeCurrent:(_Bool)arg2 completionHandler:(void (^)(NSError *))arg3;
+  com.apple.coreservices.lsuseractivitymanager.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1626_3: Error Domain=UAContinuityErrorDomain Code=-108 "(null)"
+1627
+  - (void)doFetchUserActivityInfoWithUUID:(NSUUID *)arg1 completionHandler:(void (^)(UAUserActivityInfo *, NSError *))arg2;
+  com.apple.coreservices.lsuseractivitymanager.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****UAUserActivityInfo * var_1627_2: (null)
+****NSError * var_1627_3: Error Domain=UAContinuityErrorDomain Code=-106 "(null)"
+1628
+  - (void)doInitializeWithClientVersion:(long long)arg1 clientInfo:(NSDictionary *)arg2 completionHandler:(void (^)(long long, NSDictionary *, NSError *))arg3;
+  com.apple.coreservices.lsuseractivitymanager.xpc
+  set([])
+****Invocation has a completion handler
+****Completion message
+****long long var_1628_3: 1
+****NSDictionary * var_1628_4: (null)
+****NSError * var_1628_5: (null)
+1682
+  - (void)shutDownWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1682_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1683
+  - (void)validateAppBundleIDs:(NSArray *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1683_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1684
+  - (void)setupAssistantDidFinishCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1684_1: (null)
+1686
+  - (void)allowedKeyboardBundleIDsAfterApplyingFilterToBundleIDs:(NSArray *)arg1 hostAppBundleID:(NSString *)arg2 accountIsManaged:(_Bool)arg3 completion:(void (^)(NSArray *))arg4;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1686_4: (     key1,     key2,     key3 )
+1687
+  - (void)unstashWhitelistURLStringsWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1687_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1688
+  - (void)stashWhitelistURLStringsWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1688_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1689
+  - (void)unstashBlacklistURLStringsWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1689_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1690
+  - (void)stashBlacklistURLStringsWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1690_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1691
+  - (void)removeWebContentFilterUserBlacklistedURLString:(NSString *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1691_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1692
+  - (void)unstashUserBookmarksFromLabel:(NSString *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1692_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1693
+  - (void)stashUserBookmarks:(NSArray *)arg1 withLabel:(NSString *)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1693_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1694
+  - (void)setUserBookmarks:(NSArray *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1694_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1695
+  - (void)storeActivationRecord:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1695_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1696
+  - (void)createActivationLockBypassCodeWithCompletion:(void (^)(NSString *, NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSString * var_1696_1: (null)
+****NSError * var_1696_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1697
+  - (void)cloudConfigurationStoreDetails:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1697_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1698
+  - (void)cloudConfigurationMachineInfoDataWithCompletion:(void (^)(NSData *, NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSData * var_1698_1: (null)
+****NSError * var_1698_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1699
+  - (void)rereadManagedAppAttributesWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1699_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1700
+  - (void)markStoredProfileForPurposeAsInstalled:(int)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1700_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1701
+  - (void)profileDataStoredForPurpose:(int)arg1 completion:(void (^)(NSData *, NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSData * var_1701_2: (null)
+****NSError * var_1701_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1702
+  - (void)storeProfileData:(NSData *)arg1 configurationSource:(int)arg2 purpose:(int)arg3 completion:(void (^)(NSError *))arg4;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1702_4: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1703
+  - (void)removeExpiredProfilesWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1703_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1704
+  - (void)managedAppIDsWithFlags:(int)arg1 completion:(void (^)(NSArray *, NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1704_2: (null)
+****NSError * var_1704_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1705
+  - (void)setUserInfo:(NSDictionary *)arg1 forClientUUID:(NSString *)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1705_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1706
+  - (void)resetAllSettingsToDefaultsIsUserInitiated:(_Bool)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1706_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1707
+  - (void)recomputePerClientUserComplianceWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1707_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1708
+  - (void)recomputeUserComplianceWarningWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1708_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1709
+  - (void)notifyHaveSeenComplianceMessageWithLastLockDate:(NSDate *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1709_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1710
+  - (void)notifyStartComplianceTimer:(NSDate *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1710_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1711
+  - (void)removeProvisioningProfileWithUUID:(NSString *)arg1 completion:(void (^)(_Bool, NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_1711_2: 0
+****NSError * var_1711_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1712
+  - (void)installProvisioningProfileData:(NSData *)arg1 managingProfileIdentifer:(NSString *)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1712_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1713
+  - (void)storeCertificateData:(NSData *)arg1 forIPCUIdentifier:(NSString *)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1713_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1714
+  - (void)openSensitiveURL:(NSString *)arg1 unlock:(_Bool)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1714_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1715
+  - (void)removeValueSetting:(NSString *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1715_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1716
+  - (void)removeBoolSetting:(NSString *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1716_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1718
+  - (void)migratePostMDMDataMigratorWithContext:(int)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1718_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1720
+  - (void)managedWiFiNetworkNamesWithCompletion:(void (^)(NSArray *, NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1720_1: (null)
+****NSError * var_1720_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1721
+  - (void)managedSystemConfigurationServiceIDsWithCompletion:(void (^)(NSArray *, NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1721_1: (null)
+****NSError * var_1721_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1722
+  - (void)removeOrphanedClientRestrictionsWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1722_1: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1723
+  - (void)clearPasscodeWithEscrowKeybagData:(NSData *)arg1 secret:(NSData *)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1723_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1724
+  - (void)changePasscode:(NSString *)arg1 oldPasscode:(NSString *)arg2 completion:(void (^)(_Bool, NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****_Bool var_1724_3: 0
+****NSError * var_1724_4: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1727
+  - (void)removeProfileWithIdentifier:(NSString *)arg1 installationType:(long long)arg2 completion:(void (^)(NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1727_3: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1728
+  - (void)updateProfileIdentifier:(NSString *)arg1 interactive:(_Bool)arg2 completion:(void (^)(NSString *, NSError *))arg3;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSString * var_1728_3: (null)
+****NSError * var_1728_4: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1729
+  - (void)popProvisioningProfileFromHeadOfInstallationQueueWithCompletion:(void (^)(NSData *, NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSData * var_1729_1: (null)
+****NSError * var_1729_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1730
+  - (void)popProfileDataFromHeadOfInstallationQueueWithCompletion:(void (^)(NSData *, NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSData * var_1730_1: (null)
+****NSError * var_1730_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1731
+  - (void)queueProfileDataForInstallation:(NSData *)arg1 originalFileName:(NSString *)arg2 originatingBundleID:(NSString *)arg3 transitionToUI:(_Bool)arg4 completion:(void (^)(NSString *, NSError *))arg5;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSString * var_1731_5: (null)
+****NSError * var_1731_6: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1732
+  - (void)installProfileData:(NSData *)arg1 interactive:(_Bool)arg2 options:(NSDictionary *)arg3 completion:(void (^)(NSString *, NSError *))arg4;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled-access'])
+****Invocation has a completion handler
+****Completion message
+****NSString * var_1732_4: (null)
+****NSError * var_1732_5: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled-access" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled-access” entitlement}
+1733
+  - (void)isProfileInstalledWithIdentifier:(NSString *)arg1 completion:(void (^)(NSError *, _Bool))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set(['com.apple.managedconfiguration.profiled.profile-list-read'])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1733_2: Error Domain=MCXPCErrorDomain Code=39000 "Calling process lacks “com.apple.managedconfiguration.profiled.profile-list-read” entitlement" UserInfo={USEnglishDescription=Calling process lacks “com.apple.managedconfiguration.profiled.profile-list-read” entitlement, descriptionParameters=(     "com.apple.managedconfiguration.profiled.profile-list-read" ), MCErrorType=MCFatalError, NSLocalizedDescription=Calling process lacks “com.apple.managedconfiguration.profiled.profile-list-read” entitlement}
+****_Bool var_1733_3: 0
+1735
+  - (void)notifyDeviceUnlockedWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1735_1: (null)
+1736
+  - (void)waitForMigrationIncludingPostRestoreMigration:(_Bool)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1736_2: (null)
+1737
+  - (void)addBookmark:(NSDictionary *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1737_2: (null)
+1738
+  - (void)addAllowedURLString:(NSString *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1738_2: (null)
+1739
+  - (void)setAllowedURLStrings:(NSArray *)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1739_2: (null)
+1741
+  - (void)setSpellCheckAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1741_2: (null)
+1742
+  - (void)setKeyboardShortcutsAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1742_2: (null)
+1743
+  - (void)setPredictiveKeyboardAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1743_2: (null)
+1745
+  - (void)setAutoCorrectionAllowed:(_Bool)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1745_2: (null)
+1746
+  - (void)allowedImportFromAppBundleIDs:(NSArray *)arg1 importingAppBundleID:(NSString *)arg2 importingIsManaged:(_Bool)arg3 completion:(void (^)(NSArray *, NSError *))arg4;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1746_4: (     key1,     key2,     key3 )
+****NSError * var_1746_5: (null)
+1747
+  - (void)allowedOpenInAppBundleIDs:(NSArray *)arg1 originatingAppBundleID:(NSString *)arg2 originatingIsManaged:(_Bool)arg3 completion:(void (^)(NSArray *, NSError *))arg4;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1747_4: (     key1,     key2,     key3 )
+****NSError * var_1747_5: (null)
+1748
+  - (void)checkCarrierProfileAndForceReinstallation:(_Bool)arg1 completion:(void (^)(NSError *))arg2;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1748_2: (null)
+1749
+  - (void)checkInWithCompletion:(void (^)(NSError *))arg1;
+  com.apple.managedconfiguration.profiled.public
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSError * var_1749_1: (null)
+1922
+  - (void)xpcClientInfo:(void (^)(NSArray *))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSArray * var_1922_1: (null)
+1923
+  - (void)xpcDeviceIDAtSwitchIndex:(unsigned int)arg1 withBlock:(void (^)(NSUUID *, NSDate *))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSUUID * var_1923_2: (null)
+****NSDate * var_1923_3: (null)
+1924
+  - (void)xpcSwitchIndex:(void (^)(unsigned int))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+****unsigned int var_1924_1: (null)
+1925
+  - (void)xpcGetChangeHistoryWithBlock:(void (^)(NRDeviceCollectionHistory *))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NRDeviceCollectionHistory * var_1925_1: (null)
+1928
+  - (void)xpcActiveDeviceAssertions:(void (^)(NSUUID *, NSArray *))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSUUID * var_1928_1: (null)
+****NSArray * var_1928_2: (null)
+1932
+  - (void)xpcPairingClientDidEnterPhase:(NSString *)arg1 withBlock:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1933
+  - (void)xpcSubmitAlbertPairingReport:(void (^)(void))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1936
+  - (void)xpcQSRecoveryMigration:(NSUUID *)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1937
+  - (void)xpcAddRemoveRecoveryStepIDSFinalizeQS:(_Bool)arg1 withPairedBTDeviceID:(NSUUID *)arg2 block:(void (^)(void))arg3;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1938
+  - (void)xpcAddRemoveRecoveryStepIDSFinalize:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1939
+  - (void)xpcAddRemoveRecoveryStepObliterate:(_Bool)arg1 withStatePath:(NSString *)arg2 block:(void (^)(void))arg3;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1940
+  - (void)xpcAddRemoveRecoveryStepResetNVRAM:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1941
+  - (void)xpcAddRemoveRecoveryStepICloudDeletePaymentCards:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1942
+  - (void)xpcAddRemoveRecoveryStepStockholmReset:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1943
+  - (void)xpcAddRemoveRecoveryStepIDSUnpair:(_Bool)arg1 withPairingDeviceID:(NSUUID *)arg2 block:(void (^)(void))arg3;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1944
+  - (void)xpcAddRemoveRecoveryStepUnpairBluetooth:(_Bool)arg1 withPairingDeviceID:(NSUUID *)arg2 block:(void (^)(void))arg3;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1945
+  - (void)xpcAddRemoveRecoveryStepDeletePairingStore:(_Bool)arg1 withPairingDeviceID:(NSUUID *)arg2 block:(void (^)(void))arg3;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1946
+  - (void)xpcAddRemoveRecoveryStepRemoteUnpair:(_Bool)arg1 withAdvertisedName:(NSString *)arg2 andPairedDeviceID:(NSUUID *)arg3 block:(void (^)(void))arg4;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1947
+  - (void)xpcAddRemoveRecoveryStepIDSUnpairStartQS:(_Bool)arg1 withPairedBTDeviceID:(NSUUID *)arg2 block:(void (^)(void))arg3;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1948
+  - (void)xpcAddRemoveRecoveryStepIDSUnpairStart:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1949
+  - (void)xpcAddRemoveRecoveryStepDeleteAccounts:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1950
+  - (void)xpcAddRemoveRecoveryStepBackup:(_Bool)arg1 withPairingDeviceID:(NSUUID *)arg2 block:(void (^)(void))arg3;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1951
+  - (void)xpcAddRemoveRecoveryStepDisableDaemons:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1952
+  - (void)xpcSetObliterationEnabled:(_Bool)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1953
+  - (void)xpcTriggerRecovery:(void (^)(void))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1954
+  - (void)xpcRecoveryDescription:(void (^)(NSString *))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NSString * var_1954_1: (null)
+1955
+  - (void)xpcResumePairingClientCrashMonitoring:(void (^)(void))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1956
+  - (void)xpcSuspendPairingClientCrashMonitoring:(void (^)(void))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1967
+  - (void)xpcOverrideSignalStrengthLimit:(long long)arg1 block:(void (^)(void))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1968
+  - (void)xpcEndDiscoveryWithBlock:(void (^)(void))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1969
+  - (void)xpcBeginDiscoveryWithBlock:(void (^)(void))arg1;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+1970
+  - (void)xpcGetDiffSinceIndex:(unsigned long long)arg1 withBlock:(void (^)(NRDeviceCollectionDiff *, _Bool, unsigned long long, _Bool, _Bool))arg2;
+  com.apple.nano.nanoregistry.paireddeviceregistry
+  set([])
+****Invocation has a completion handler
+****Completion message
+****NRDeviceCollectionDiff * var_1970_2: (null)
+****_Bool var_1970_3: 0
+****unsigned long long var_1970_4: 1
+****_Bool var_1970_5: 0
+****_Bool var_1970_6: 1

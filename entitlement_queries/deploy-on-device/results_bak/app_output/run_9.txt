@@ -1,0 +1,730 @@
+2018-11-05 14:59:32.000 out.exec[10156:221389] ios-command-line-tool
+2018-11-05 14:59:32.004 out.exec[10156:221389] id 1: about to run
+2018-11-05 14:59:32.004 out.exec[10156:221389] id 1: MachPort: com.apple.siri.vocabularyupdates Method: flushWithCompletion
+2018-11-05 14:59:32.019 out.exec[10156:221389] id 1: Invocation has a completion handler
+2018-11-05 14:59:32.022 out.exec[10156:221389] id 2: about to run
+2018-11-05 14:59:32.022 out.exec[10156:221389] id 2: MachPort: com.apple.siri.vocabularyupdates Method: observeWithCompletion
+2018-11-05 14:59:32.024 out.exec[10156:221392] id 1: Connection Terminated
+2018-11-05 14:59:32.031 out.exec[10156:221389] id 2: Invocation has a completion handler
+2018-11-05 14:59:32.032 out.exec[10156:221389] id 3: about to run
+2018-11-05 14:59:32.033 out.exec[10156:221389] id 3: MachPort: com.apple.siri.vocabularyupdates Method: getDevicesWithAvailablePHSAssetsForLanguage
+2018-11-05 14:59:32.035 out.exec[10156:221392] id 2: Connection Terminated
+2018-11-05 14:59:32.041 out.exec[10156:221389] id 3: Invocation has a completion handler
+2018-11-05 14:59:32.041 out.exec[10156:221389] id 4: about to run
+2018-11-05 14:59:32.041 out.exec[10156:221389] id 4: MachPort: com.apple.siri.vocabularyupdates Method: disableAndDeleteCloudSyncWithCompletion
+2018-11-05 14:59:32.044 out.exec[10156:221392] id 3: Connection Terminated
+2018-11-05 14:59:32.049 out.exec[10156:221389] id 4: Invocation has a completion handler
+2018-11-05 14:59:32.050 out.exec[10156:221389] id 5: about to run
+2018-11-05 14:59:32.050 out.exec[10156:221389] id 5: MachPort: com.apple.siri.vocabularyupdates Method: fetchExperimentContextWithCompletion
+2018-11-05 14:59:32.052 out.exec[10156:221392] id 4: Connection Terminated
+2018-11-05 14:59:32.058 out.exec[10156:221389] id 5: Invocation has a completion handler
+2018-11-05 14:59:32.059 out.exec[10156:221389] id 6: about to run
+2018-11-05 14:59:32.059 out.exec[10156:221389] id 6: MachPort: com.apple.siri.vocabularyupdates Method: fetchExperimentConfigurationsWithCompletion
+2018-11-05 14:59:32.061 out.exec[10156:221392] id 5: Connection Terminated
+2018-11-05 14:59:32.066 out.exec[10156:221389] id 6: Invocation has a completion handler
+2018-11-05 14:59:32.067 out.exec[10156:221389] id 7: about to run
+2018-11-05 14:59:32.067 out.exec[10156:221389] id 7: MachPort: com.apple.siri.vocabularyupdates Method: sendMetricsToServerWithCompletion
+2018-11-05 14:59:32.070 out.exec[10156:221392] id 6: Connection Terminated
+2018-11-05 14:59:32.075 out.exec[10156:221389] id 7: Invocation has a completion handler
+2018-11-05 14:59:32.076 out.exec[10156:221389] id 8: about to run
+2018-11-05 14:59:32.076 out.exec[10156:221389] id 8: MachPort: com.apple.siri.vocabularyupdates Method: resetAnalyticsStoreWithCompletion
+2018-11-05 14:59:32.079 out.exec[10156:221392] id 7: Connection Terminated
+2018-11-05 14:59:32.084 out.exec[10156:221389] id 8: Invocation has a completion handler
+2018-11-05 14:59:32.084 out.exec[10156:221389] id 9: about to run
+2018-11-05 14:59:32.085 out.exec[10156:221389] id 9: MachPort: com.apple.siri.vocabularyupdates Method: purgeAnalyticsStoreWithCompletion
+2018-11-05 14:59:32.087 out.exec[10156:221392] id 8: Connection Terminated
+2018-11-05 14:59:32.092 out.exec[10156:221389] id 9: Invocation has a completion handler
+2018-11-05 14:59:32.093 out.exec[10156:221389] id 10: about to run
+2018-11-05 14:59:32.093 out.exec[10156:221389] id 10: MachPort: com.apple.siri.vocabularyupdates Method: fetchEventRecordsFromAnalyticsStoreAtPath
+2018-11-05 14:59:32.096 out.exec[10156:221392] id 9: Connection Terminated
+2018-11-05 14:59:32.101 out.exec[10156:221389] id 10: Invocation has a completion handler
+2018-11-05 14:59:32.102 out.exec[10156:221389] id 11: about to run
+2018-11-05 14:59:32.102 out.exec[10156:221389] id 11: MachPort: com.apple.siri.vocabularyupdates Method: setDESPolicyCDNOverride
+2018-11-05 14:59:32.104 out.exec[10156:221392] id 10: Connection Terminated
+2018-11-05 14:59:32.110 out.exec[10156:221389] id 11: Invocation has a completion handler
+2018-11-05 14:59:32.111 out.exec[10156:221389] id 12: about to run
+2018-11-05 14:59:32.111 out.exec[10156:221389] id 12: MachPort: com.apple.siri.vocabularyupdates Method: disableDESWithCompletion
+2018-11-05 14:59:32.113 out.exec[10156:221392] id 11: Connection Terminated
+2018-11-05 14:59:32.119 out.exec[10156:221389] id 12: Invocation has a completion handler
+2018-11-05 14:59:32.120 out.exec[10156:221389] id 13: about to run
+2018-11-05 14:59:32.120 out.exec[10156:221389] id 13: MachPort: com.apple.siri.vocabularyupdates Method: setDESLotteryWinOverrideEnabled
+2018-11-05 14:59:32.122 out.exec[10156:221392] id 12: Connection Terminated
+2018-11-05 14:59:32.128 out.exec[10156:221389] id 13: Invocation has a completion handler
+2018-11-05 14:59:32.129 out.exec[10156:221389] id 14: about to run
+2018-11-05 14:59:32.129 out.exec[10156:221389] id 14: MachPort: com.apple.siri.vocabularyupdates Method: setDESRecordingAlwaysIsEnabled
+2018-11-05 14:59:32.131 out.exec[10156:221392] id 13: Connection Terminated
+2018-11-05 14:59:32.137 out.exec[10156:221389] id 14: Invocation has a completion handler
+2018-11-05 14:59:32.138 out.exec[10156:221389] id 15: about to run
+2018-11-05 14:59:32.138 out.exec[10156:221389] id 15: MachPort: com.apple.siri.vocabularyupdates Method: runLiveAdaptationRecipeEvaluationWithBaseURL
+2018-11-05 14:59:32.140 out.exec[10156:221392] id 14: Connection Terminated
+2018-11-05 14:59:32.146 out.exec[10156:221389] id 15: Invocation has a completion handler
+2018-11-05 14:59:32.146 out.exec[10156:221389] id 16: about to run
+2018-11-05 14:59:32.146 out.exec[10156:221389] id 16: MachPort: com.apple.siri.vocabularyupdates Method: runAdaptationRecipeEvaluation
+2018-11-05 14:59:32.149 out.exec[10156:221392] id 15: Connection Terminated
+2018-11-05 14:59:32.155 out.exec[10156:221389] id 16: Invocation has a completion handler
+2018-11-05 14:59:32.156 out.exec[10156:221389] id 17: about to run
+2018-11-05 14:59:32.156 out.exec[10156:221389] id 17: MachPort: com.apple.siri.vocabularyupdates Method: stopAllAudioPlaybackRequests
+2018-11-05 14:59:32.158 out.exec[10156:221392] id 16: Connection Terminated
+2018-11-05 14:59:32.164 out.exec[10156:221389] id 18: about to run
+2018-11-05 14:59:32.164 out.exec[10156:221389] id 18: MachPort: com.apple.siri.vocabularyupdates Method: stopAudioPlaybackRequest
+2018-11-05 14:59:32.167 out.exec[10156:221392] id 17: Connection Terminated
+2018-11-05 14:59:32.172 out.exec[10156:221389] id 19: about to run
+2018-11-05 14:59:32.173 out.exec[10156:221389] id 19: MachPort: com.apple.siri.vocabularyupdates Method: startAudioPlaybackRequest
+2018-11-05 14:59:32.175 out.exec[10156:221392] id 18: Connection Terminated
+2018-11-05 14:59:32.181 out.exec[10156:221389] id 19: Invocation has a completion handler
+2018-11-05 14:59:32.181 out.exec[10156:221389] id 20: about to run
+2018-11-05 14:59:32.182 out.exec[10156:221389] id 20: MachPort: com.apple.siri.vocabularyupdates Method: getPeerIdentifiers
+2018-11-05 14:59:32.184 out.exec[10156:221392] id 19: Connection Terminated
+2018-11-05 14:59:32.189 out.exec[10156:221389] id 20: Invocation has a completion handler
+2018-11-05 14:59:32.190 out.exec[10156:221389] id 21: about to run
+2018-11-05 14:59:32.190 out.exec[10156:221389] id 21: MachPort: com.apple.siri.vocabularyupdates Method: startRemoteRequest
+2018-11-05 14:59:32.192 out.exec[10156:221392] id 20: Connection Terminated
+2018-11-05 14:59:32.197 out.exec[10156:221389] id 21: Invocation has a completion handler
+2018-11-05 14:59:32.198 out.exec[10156:221389] id 22: about to run
+2018-11-05 14:59:32.198 out.exec[10156:221389] id 22: MachPort: com.apple.siri.vocabularyupdates Method: startUIRequestWithSpeechAudioFileURL
+2018-11-05 14:59:32.200 out.exec[10156:221392] id 21: Connection Terminated
+2018-11-05 14:59:32.206 out.exec[10156:221389] id 23: about to run
+2018-11-05 14:59:32.206 out.exec[10156:221389] id 23: MachPort: com.apple.siri.vocabularyupdates Method: startUIRequestWithText
+2018-11-05 14:59:32.208 out.exec[10156:221392] id 22: Connection Terminated
+2018-11-05 14:59:32.214 out.exec[10156:221389] id 24: about to run
+2018-11-05 14:59:32.215 out.exec[10156:221389] id 24: MachPort: com.apple.siri.vocabularyupdates Method: setOfflineDictationProfileOverridePath
+2018-11-05 14:59:32.217 out.exec[10156:221392] id 23: Connection Terminated
+2018-11-05 14:59:32.222 out.exec[10156:221389] id 24: Invocation has a completion handler
+2018-11-05 14:59:32.223 out.exec[10156:221389] id 25: about to run
+2018-11-05 14:59:32.223 out.exec[10156:221389] id 25: MachPort: com.apple.siri.vocabularyupdates Method: createOfflineSpeechProfileWithLanguage
+2018-11-05 14:59:32.225 out.exec[10156:221392] id 24: Connection Terminated
+2018-11-05 14:59:32.232 out.exec[10156:221389] id 25: Invocation has a completion handler
+2018-11-05 14:59:32.232 out.exec[10156:221389] id 26: about to run
+2018-11-05 14:59:32.233 out.exec[10156:221389] id 26: MachPort: com.apple.siri.vocabularyupdates Method: updateOfflineSpeechProfileWithLanguage
+2018-11-05 14:59:32.235 out.exec[10156:221392] id 25: Connection Terminated
+2018-11-05 14:59:32.241 out.exec[10156:221389] id 26: Invocation has a completion handler
+2018-11-05 14:59:32.242 out.exec[10156:221389] id 27: about to run
+2018-11-05 14:59:32.242 out.exec[10156:221389] id 27: MachPort: com.apple.siri.vocabularyupdates Method: getOfflineDictationStatusWithCompletion
+2018-11-05 14:59:32.244 out.exec[10156:221392] id 26: Connection Terminated
+2018-11-05 14:59:32.250 out.exec[10156:221389] id 27: Invocation has a completion handler
+2018-11-05 14:59:32.250 out.exec[10156:221389] id 28: about to run
+2018-11-05 14:59:32.250 out.exec[10156:221389] id 28: MachPort: com.apple.siri.vocabularyupdates Method: setLanguage
+2018-11-05 14:59:32.253 out.exec[10156:221392] id 27: Connection Terminated
+2018-11-05 14:59:32.258 out.exec[10156:221389] id 28: Invocation has a completion handler
+2018-11-05 14:59:32.259 out.exec[10156:221389] id 29: about to run
+2018-11-05 14:59:32.259 out.exec[10156:221389] id 29: MachPort: com.apple.siri.vocabularyupdates Method: setOutputVoice
+2018-11-05 14:59:32.262 out.exec[10156:221392] id 28: Connection Terminated
+2018-11-05 14:59:32.267 out.exec[10156:221389] id 29: Invocation has a completion handler
+2018-11-05 14:59:32.268 out.exec[10156:221389] id 30: about to run
+2018-11-05 14:59:32.268 out.exec[10156:221389] id 30: MachPort: com.apple.siri.vocabularyupdates Method: getAvailableVoicesIncludingAssetInfo
+2018-11-05 14:59:32.270 out.exec[10156:221392] id 29: Connection Terminated
+2018-11-05 14:59:32.276 out.exec[10156:221389] id 30: Invocation has a completion handler
+2018-11-05 14:59:32.277 out.exec[10156:221389] id 31: about to run
+2018-11-05 14:59:32.277 out.exec[10156:221389] id 31: MachPort: com.apple.siri.vocabularyupdates Method: _runServiceMaintenance;
+2018-11-05 14:59:32.279 out.exec[10156:221392] id 30: Connection Terminated
+2018-11-05 14:59:32.285 out.exec[10156:221389] id 32: about to run
+2018-11-05 14:59:32.285 out.exec[10156:221389] id 32: MachPort: com.apple.siri.vocabularyupdates Method: _startDeepSyncVerificationForKeys
+2018-11-05 14:59:32.287 out.exec[10156:221392] id 31: Connection Terminated
+2018-11-05 14:59:32.293 out.exec[10156:221389] id 33: about to run
+2018-11-05 14:59:32.293 out.exec[10156:221389] id 33: MachPort: com.apple.siri.vocabularyupdates Method: _setSyncVerificationNeededAndFullReportNeeded
+2018-11-05 14:59:32.295 out.exec[10156:221392] id 32: Connection Terminated
+2018-11-05 14:59:32.301 out.exec[10156:221389] id 33: Invocation has a completion handler
+2018-11-05 14:59:32.302 out.exec[10156:221389] id 34: about to run
+2018-11-05 14:59:32.302 out.exec[10156:221389] id 34: MachPort: com.apple.siri.vocabularyupdates Method: _fetchPeerData
+2018-11-05 14:59:32.304 out.exec[10156:221392] id 33: Connection Terminated
+2018-11-05 14:59:32.309 out.exec[10156:221389] id 34: Invocation has a completion handler
+2018-11-05 14:59:32.310 out.exec[10156:221389] id 35: about to run
+2018-11-05 14:59:32.310 out.exec[10156:221389] id 35: MachPort: com.apple.siri.vocabularyupdates Method: _syncDataWithAnchorKeys
+2018-11-05 14:59:32.312 out.exec[10156:221392] id 34: Connection Terminated
+2018-11-05 14:59:32.318 out.exec[10156:221389] id 35: Invocation has a completion handler
+2018-11-05 14:59:32.319 out.exec[10156:221389] id 36: about to run
+2018-11-05 14:59:32.319 out.exec[10156:221389] id 36: MachPort: com.apple.siri.vocabularyupdates Method: _clearSyncNeededForKey
+2018-11-05 14:59:32.322 out.exec[10156:221392] id 35: Connection Terminated
+2018-11-05 14:59:32.327 out.exec[10156:221389] id 37: about to run
+2018-11-05 14:59:32.327 out.exec[10156:221389] id 37: MachPort: com.apple.siri.vocabularyupdates Method: _setSyncNeededForReason
+2018-11-05 14:59:32.330 out.exec[10156:221392] id 36: Connection Terminated
+2018-11-05 14:59:32.335 out.exec[10156:221389] id 38: about to run
+2018-11-05 14:59:32.336 out.exec[10156:221389] id 38: MachPort: com.apple.siri.vocabularyupdates Method: barrierWithReply
+2018-11-05 14:59:32.338 out.exec[10156:221392] id 37: Connection Terminated
+2018-11-05 14:59:32.343 out.exec[10156:221389] id 38: Invocation has a completion handler
+2018-11-05 14:59:32.344 out.exec[10156:221389] id 39: about to run
+2018-11-05 14:59:32.344 out.exec[10156:221389] id 39: MachPort: com.apple.siri.vocabularyupdates Method: _killDaemon;
+2018-11-05 14:59:32.346 out.exec[10156:221392] id 38: Connection Terminated
+2018-11-05 14:59:32.352 out.exec[10156:221389] id 40: about to run
+2018-11-05 14:59:32.353 out.exec[10156:221389] id 40: MachPort: com.apple.siri.vocabularyupdates Method: setDictationEnabled
+2018-11-05 14:59:32.355 out.exec[10156:221392] id 39: Connection Terminated
+2018-11-05 14:59:32.361 out.exec[10156:221389] id 41: about to run
+2018-11-05 14:59:32.361 out.exec[10156:221389] id 41: MachPort: com.apple.siri.vocabularyupdates Method: setAssistantEnabled
+2018-11-05 14:59:32.363 out.exec[10156:221392] id 40: Connection Terminated
+2018-11-05 14:59:32.370 out.exec[10156:221389] id 42: about to run
+2018-11-05 14:59:32.370 out.exec[10156:221389] id 42: MachPort: com.apple.siri.vocabularyupdates Method: setActiveAccountIdentifier
+2018-11-05 14:59:32.372 out.exec[10156:221392] id 41: Connection Terminated
+2018-11-05 14:59:32.378 out.exec[10156:221389] id 43: about to run
+2018-11-05 14:59:32.378 out.exec[10156:221389] id 43: MachPort: com.apple.siri.vocabularyupdates Method: deleteAccountWithIdentifier
+2018-11-05 14:59:32.379 out.exec[10156:221392] id 42: Connection Terminated
+2018-11-05 14:59:32.387 out.exec[10156:221389] id 44: about to run
+2018-11-05 14:59:32.388 out.exec[10156:221389] id 44: MachPort: com.apple.siri.vocabularyupdates Method: saveAccountWithMessageDictionary
+2018-11-05 14:59:32.388 out.exec[10156:221392] id 43: Connection Terminated
+2018-11-05 14:59:32.396 out.exec[10156:221389] id 45: about to run
+2018-11-05 14:59:32.397 out.exec[10156:221389] id 45: MachPort: com.apple.siri.vocabularyupdates Method: retrieveAccountMessageDictionariesWithReply
+2018-11-05 14:59:32.398 out.exec[10156:221392] id 44: Connection Terminated
+2018-11-05 14:59:32.405 out.exec[10156:221389] id 45: Invocation has a completion handler
+2018-11-05 14:59:32.407 out.exec[10156:221389] id 46: about to run
+2018-11-05 14:59:32.408 out.exec[10156:221392] id 45: Connection Terminated
+2018-11-05 14:59:32.407 out.exec[10156:221389] id 46: MachPort: com.apple.siri.vocabularyupdates Method: fetchSupportedLanguagesWithReply
+2018-11-05 14:59:32.415 out.exec[10156:221389] id 46: Invocation has a completion handler
+2018-11-05 14:59:32.416 out.exec[10156:221389] id 47: about to run
+2018-11-05 14:59:32.417 out.exec[10156:221392] id 46: Connection Terminated
+2018-11-05 14:59:32.417 out.exec[10156:221389] id 47: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerLPCMRecordBufferAvailable
+2018-11-05 14:59:32.458 out.exec[10156:221389] id 48: about to run
+2018-11-05 14:59:32.459 out.exec[10156:221392] id 47: Connection Terminated
+2018-11-05 14:59:32.459 out.exec[10156:221389] id 48: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerRecordBufferAvailable
+2018-11-05 14:59:32.499 out.exec[10156:221389] id 49: about to run
+2018-11-05 14:59:32.500 out.exec[10156:221392] id 48: Connection Terminated
+2018-11-05 14:59:32.500 out.exec[10156:221389] id 49: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerRequestsOperation
+2018-11-05 14:59:32.508 out.exec[10156:221389] id 50: about to run
+2018-11-05 14:59:32.509 out.exec[10156:221389] id 50: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerEndRecordInterruption
+2018-11-05 14:59:32.510 out.exec[10156:221392] id 49: Connection Terminated
+2018-11-05 14:59:32.518 out.exec[10156:221389] id 51: about to run
+2018-11-05 14:59:32.519 out.exec[10156:221392] id 50: Connection Terminated
+2018-11-05 14:59:32.519 out.exec[10156:221389] id 51: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerBeginRecordInterruption
+2018-11-05 14:59:32.529 out.exec[10156:221392] id 51: Connection Terminated
+2018-11-05 14:59:32.528 out.exec[10156:221389] id 52: about to run
+2018-11-05 14:59:32.529 out.exec[10156:221389] id 52: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerBeginRecordInterruption
+2018-11-05 14:59:32.537 out.exec[10156:221389] id 53: about to run
+2018-11-05 14:59:32.538 out.exec[10156:221392] id 52: Connection Terminated
+2018-11-05 14:59:32.538 out.exec[10156:221389] id 53: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerRecordHardwareConfigurationDidChange
+2018-11-05 14:59:32.546 out.exec[10156:221389] id 54: about to run
+2018-11-05 14:59:32.547 out.exec[10156:221389] id 54: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerDidDetectEndpoint
+2018-11-05 14:59:32.548 out.exec[10156:221392] id 53: Connection Terminated
+2018-11-05 14:59:32.556 out.exec[10156:221389] id 55: about to run
+2018-11-05 14:59:32.556 out.exec[10156:221389] id 55: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerDidDetectStartpoint
+2018-11-05 14:59:32.557 out.exec[10156:221392] id 54: Connection Terminated
+2018-11-05 14:59:32.565 out.exec[10156:221389] id 56: about to run
+2018-11-05 14:59:32.565 out.exec[10156:221389] id 56: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerDidStopRecording
+2018-11-05 14:59:32.566 out.exec[10156:221392] id 55: Connection Terminated
+2018-11-05 14:59:32.574 out.exec[10156:221389] id 57: about to run
+2018-11-05 14:59:32.575 out.exec[10156:221389] id 57: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerDidStartRecording
+2018-11-05 14:59:32.576 out.exec[10156:221392] id 56: Connection Terminated
+2018-11-05 14:59:32.584 out.exec[10156:221389] id 58: about to run
+2018-11-05 14:59:32.584 out.exec[10156:221389] id 58: MachPort: com.apple.siri.vocabularyupdates Method: speechControllerDidDetectVoiceTriggerTwoShot
+2018-11-05 14:59:32.585 out.exec[10156:221392] id 57: Connection Terminated
+2018-11-05 14:59:32.593 out.exec[10156:221389] id 59: about to run
+2018-11-05 14:59:32.594 out.exec[10156:221389] id 59: MachPort: com.apple.siri.vocabularyupdates Method: stageEvents
+2018-11-05 14:59:32.595 out.exec[10156:221392] id 58: Connection Terminated
+2018-11-05 14:59:32.602 out.exec[10156:221389] id 59: Invocation has a completion handler
+2018-11-05 14:59:32.604 out.exec[10156:221392] id 59: Connection Terminated
+2018-11-05 14:59:32.603 out.exec[10156:221389] id 60: about to run
+2018-11-05 14:59:32.604 out.exec[10156:221389] id 60: MachPort: com.apple.siri.vocabularyupdates Method: stageEvents
+2018-11-05 14:59:32.612 out.exec[10156:221389] id 61: about to run
+2018-11-05 14:59:32.613 out.exec[10156:221389] id 61: MachPort: com.apple.siri.vocabularyupdates Method: stageEvent
+2018-11-05 14:59:32.614 out.exec[10156:221392] id 60: Connection Terminated
+2018-11-05 14:59:32.621 out.exec[10156:221389] id 62: about to run
+2018-11-05 14:59:32.622 out.exec[10156:221389] id 62: MachPort: com.apple.siri.vocabularyupdates Method: adRequestEncounteredIntermediateError
+2018-11-05 14:59:32.623 out.exec[10156:221392] id 61: Connection Terminated
+2018-11-05 14:59:32.630 out.exec[10156:221389] id 63: about to run
+2018-11-05 14:59:32.631 out.exec[10156:221389] id 63: MachPort: com.apple.siri.vocabularyupdates Method: adRequestDidCompleteWithSuccess
+2018-11-05 14:59:32.632 out.exec[10156:221392] id 62: Connection Terminated
+2018-11-05 14:59:32.639 out.exec[10156:221389] id 64: about to run
+2018-11-05 14:59:32.641 out.exec[10156:221392] id 63: Connection Terminated
+2018-11-05 14:59:32.640 out.exec[10156:221389] id 64: MachPort: com.apple.siri.vocabularyupdates Method: adRequestDidReceiveCommand
+2018-11-05 14:59:32.649 out.exec[10156:221389] id 64: Invocation has a completion handler
+2018-11-05 14:59:32.650 out.exec[10156:221392] id 64: Connection Terminated
+2018-11-05 14:59:32.650 out.exec[10156:221389] id 65: about to run
+2018-11-05 14:59:32.651 out.exec[10156:221389] id 65: MachPort: com.apple.siri.vocabularyupdates Method: adRequestWillReceiveCommand
+2018-11-05 14:59:32.658 out.exec[10156:221389] id 66: about to run
+2018-11-05 14:59:32.659 out.exec[10156:221389] id 66: MachPort: com.apple.siri.vocabularyupdates Method: endpointer
+2018-11-05 14:59:32.660 out.exec[10156:221392] id 65: Connection Terminated
+2018-11-05 14:59:32.668 out.exec[10156:221389] id 67: about to run
+2018-11-05 14:59:32.668 out.exec[10156:221389] id 67: MachPort: com.apple.siri.vocabularyupdates Method: endpointer
+2018-11-05 14:59:32.670 out.exec[10156:221392] id 66: Connection Terminated
+2018-11-05 14:59:32.677 out.exec[10156:221389] id 68: about to run
+2018-11-05 14:59:32.678 out.exec[10156:221392] id 67: Connection Terminated
+2018-11-05 14:59:32.678 out.exec[10156:221389] id 68: MachPort: com.apple.siri.vocabularyupdates Method: adAudioPlaybackRequestDidStop
+2018-11-05 14:59:32.686 out.exec[10156:221389] id 69: about to run
+2018-11-05 14:59:32.687 out.exec[10156:221389] id 69: MachPort: com.apple.siri.vocabularyupdates Method: adAudioPlaybackRequestDidNotStart
+2018-11-05 14:59:32.688 out.exec[10156:221392] id 68: Connection Terminated
+2018-11-05 14:59:32.695 out.exec[10156:221389] id 70: about to run
+2018-11-05 14:59:32.696 out.exec[10156:221389] id 70: MachPort: com.apple.siri.vocabularyupdates Method: adAudioPlaybackRequestDidStart
+2018-11-05 14:59:32.697 out.exec[10156:221392] id 69: Connection Terminated
+2018-11-05 14:59:32.704 out.exec[10156:221389] id 71: about to run
+2018-11-05 14:59:32.705 out.exec[10156:221389] id 71: MachPort: com.apple.siri.vocabularyupdates Method: adAudioPlaybackRequestWillStart
+2018-11-05 14:59:32.706 out.exec[10156:221392] id 70: Connection Terminated
+2018-11-05 14:59:32.714 out.exec[10156:221389] id 72: about to run
+2018-11-05 14:59:32.714 out.exec[10156:221389] id 72: MachPort: com.apple.siri.vocabularyupdates Method: adStartUIRequestWithText
+2018-11-05 14:59:32.715 out.exec[10156:221392] id 71: Connection Terminated
+2018-11-05 14:59:32.723 out.exec[10156:221389] id 72: Invocation has a completion handler
+2018-11-05 14:59:32.724 out.exec[10156:221392] id 72: Connection Terminated
+2018-11-05 14:59:32.724 out.exec[10156:221389] id 73: about to run
+2018-11-05 14:59:32.725 out.exec[10156:221389] id 73: MachPort: com.apple.siri.vocabularyupdates Method: adHandleIntent
+2018-11-05 14:59:32.732 out.exec[10156:221389] id 73: Invocation has a completion handler
+2018-11-05 14:59:32.734 out.exec[10156:221392] id 73: Connection Terminated
+2018-11-05 14:59:32.733 out.exec[10156:221389] id 74: about to run
+2018-11-05 14:59:32.734 out.exec[10156:221389] id 74: MachPort: com.apple.siri.vocabularyupdates Method: adExtensionRequestFinishedForApplication
+2018-11-05 14:59:32.742 out.exec[10156:221389] id 75: about to run
+2018-11-05 14:59:32.743 out.exec[10156:221389] id 75: MachPort: com.apple.siri.vocabularyupdates Method: adExtensionRequestWillStartForApplication
+2018-11-05 14:59:32.743 out.exec[10156:221392] id 74: Connection Terminated
+2018-11-05 14:59:32.751 out.exec[10156:221389] id 76: about to run
+2018-11-05 14:59:32.752 out.exec[10156:221389] id 76: MachPort: com.apple.siri.vocabularyupdates Method: adWantsToCacheImage
+2018-11-05 14:59:32.752 out.exec[10156:221392] id 75: Connection Terminated
+2018-11-05 14:59:32.777 out.exec[10156:221389] id 77: about to run
+2018-11-05 14:59:32.779 out.exec[10156:221392] id 76: Connection Terminated
+2018-11-05 14:59:32.779 out.exec[10156:221389] id 77: MachPort: com.apple.siri.vocabularyupdates Method: adQuickStopWasHandledWithActions
+2018-11-05 14:59:32.802 out.exec[10156:221389] id 78: about to run
+2018-11-05 14:59:32.803 out.exec[10156:221392] id 77: Connection Terminated
+2018-11-05 14:59:32.802 out.exec[10156:221389] id 78: MachPort: com.apple.siri.vocabularyupdates Method: adRequestRequestedDismissAssistant;
+2018-11-05 14:59:32.823 out.exec[10156:221389] id 79: about to run
+2018-11-05 14:59:32.824 out.exec[10156:221389] id 79: MachPort: com.apple.siri.vocabularyupdates Method: adServerRequestsTTSStateUnmuted
+2018-11-05 14:59:32.825 out.exec[10156:221392] id 78: Connection Terminated
+2018-11-05 14:59:32.840 out.exec[10156:221389] id 80: about to run
+2018-11-05 14:59:32.842 out.exec[10156:221392] id 79: Connection Terminated
+2018-11-05 14:59:32.842 out.exec[10156:221389] id 80: MachPort: com.apple.siri.vocabularyupdates Method: adInvalidateCurrentUserActivity;
+2018-11-05 14:59:32.866 out.exec[10156:221389] id 81: about to run
+2018-11-05 14:59:32.867 out.exec[10156:221392] id 80: Connection Terminated
+2018-11-05 14:59:32.867 out.exec[10156:221389] id 81: MachPort: com.apple.siri.vocabularyupdates Method: adSetUserActivityInfo
+2018-11-05 14:59:32.917 out.exec[10156:221389] id 82: about to run
+2018-11-05 14:59:32.918 out.exec[10156:221389] id 82: MachPort: com.apple.siri.vocabularyupdates Method: adAcousticIDRequestDidFinishSuccessfully
+2018-11-05 14:59:32.918 out.exec[10156:221392] id 81: Connection Terminated
+2018-11-05 14:59:32.947 out.exec[10156:221389] id 83: about to run
+2018-11-05 14:59:32.948 out.exec[10156:221389] id 83: MachPort: com.apple.siri.vocabularyupdates Method: adMusicWasDetected;
+2018-11-05 14:59:32.950 out.exec[10156:221392] id 82: Connection Terminated
+2018-11-05 14:59:33.063 out.exec[10156:221392] id 83: Connection Terminated
+2018-11-05 14:59:33.064 out.exec[10156:221389] id 84: about to run
+2018-11-05 14:59:33.065 out.exec[10156:221389] id 84: MachPort: com.apple.siri.vocabularyupdates Method: adAcousticIDRequestWillStart;
+2018-11-05 14:59:33.073 out.exec[10156:221389] id 85: about to run
+2018-11-05 14:59:33.074 out.exec[10156:221389] id 85: MachPort: com.apple.siri.vocabularyupdates Method: adTextToSpeechIsMuted;
+2018-11-05 14:59:33.075 out.exec[10156:221392] id 84: Connection Terminated
+2018-11-05 14:59:33.084 out.exec[10156:221389] id 85: Invocation Exception: [NSXPCConnection sendInvocation]: Return type of methods sent over this proxy must be 'void' (adTextToSpeechIsMuted)
+2018-11-05 14:59:33.084 out.exec[10156:221389] id 86: about to run
+2018-11-05 14:59:33.084 out.exec[10156:221389] id 86: MachPort: com.apple.siri.vocabularyupdates Method: adGetBulletinContext
+2018-11-05 14:59:33.092 out.exec[10156:221389] id 86: Invocation has a completion handler
+2018-11-05 14:59:33.094 out.exec[10156:221392] id 86: Connection Terminated
+2018-11-05 14:59:33.094 out.exec[10156:221389] id 87: about to run
+2018-11-05 14:59:33.094 out.exec[10156:221389] id 87: MachPort: com.apple.siri.vocabularyupdates Method: adRequestRequestedOpenURL
+2018-11-05 14:59:33.102 out.exec[10156:221389] id 87: Invocation has a completion handler
+2018-11-05 14:59:33.104 out.exec[10156:221392] id 87: Connection Terminated
+2018-11-05 14:59:33.104 out.exec[10156:221389] id 88: about to run
+2018-11-05 14:59:33.104 out.exec[10156:221389] id 88: MachPort: com.apple.siri.vocabularyupdates Method: adRequestRequestedOpenApplicationWithBundleID
+2018-11-05 14:59:33.112 out.exec[10156:221389] id 88: Invocation has a completion handler
+2018-11-05 14:59:33.113 out.exec[10156:221392] id 88: Connection Terminated
+2018-11-05 14:59:33.113 out.exec[10156:221389] id 89: about to run
+2018-11-05 14:59:33.114 out.exec[10156:221389] id 89: MachPort: com.apple.siri.vocabularyupdates Method: adShouldSpeakStateDidChange
+2018-11-05 14:59:33.122 out.exec[10156:221389] id 90: about to run
+2018-11-05 14:59:33.123 out.exec[10156:221392] id 89: Connection Terminated
+2018-11-05 14:59:33.123 out.exec[10156:221389] id 90: MachPort: com.apple.siri.vocabularyupdates Method: localSpeechRecognizer
+2018-11-05 14:59:33.131 out.exec[10156:221389] id 91: about to run
+2018-11-05 14:59:33.132 out.exec[10156:221389] id 91: MachPort: com.apple.siri.vocabularyupdates Method: localSpeechRecognizer
+2018-11-05 14:59:33.133 out.exec[10156:221392] id 90: Connection Terminated
+2018-11-05 14:59:33.141 out.exec[10156:221389] id 92: about to run
+2018-11-05 14:59:33.142 out.exec[10156:221392] id 91: Connection Terminated
+2018-11-05 14:59:33.142 out.exec[10156:221389] id 92: MachPort: com.apple.siri.vocabularyupdates Method: localSpeechRecognizer
+2018-11-05 14:59:33.150 out.exec[10156:221389] id 93: about to run
+2018-11-05 14:59:33.151 out.exec[10156:221389] id 93: MachPort: com.apple.siri.vocabularyupdates Method: localSpeechRecognizer
+2018-11-05 14:59:33.152 out.exec[10156:221392] id 92: Connection Terminated
+2018-11-05 14:59:33.159 out.exec[10156:221389] id 94: about to run
+2018-11-05 14:59:33.161 out.exec[10156:221392] id 93: Connection Terminated
+2018-11-05 14:59:33.160 out.exec[10156:221389] id 94: MachPort: com.apple.siri.vocabularyupdates Method: localSpeechRecognizer
+2018-11-05 14:59:33.169 out.exec[10156:221389] id 95: about to run
+2018-11-05 14:59:33.169 out.exec[10156:221389] id 95: MachPort: com.apple.siri.vocabularyupdates Method: adSyncVerificationServerReport
+2018-11-05 14:59:33.170 out.exec[10156:221392] id 94: Connection Terminated
+2018-11-05 14:59:33.178 out.exec[10156:221389] id 96: about to run
+2018-11-05 14:59:33.179 out.exec[10156:221389] id 96: MachPort: com.apple.siri.vocabularyupdates Method: adSyncVerificationPartialResult
+2018-11-05 14:59:33.180 out.exec[10156:221392] id 95: Connection Terminated
+2018-11-05 14:59:33.188 out.exec[10156:221389] id 97: about to run
+2018-11-05 14:59:33.188 out.exec[10156:221389] id 97: MachPort: com.apple.siri.vocabularyupdates Method: adWaitingForAudioFile;
+2018-11-05 14:59:33.189 out.exec[10156:221392] id 96: Connection Terminated
+2018-11-05 14:59:33.198 out.exec[10156:221389] id 97: Invocation Exception: [NSXPCConnection sendInvocation]: Return type of methods sent over this proxy must be 'void' (adWaitingForAudioFile)
+2018-11-05 14:59:33.198 out.exec[10156:221389] id 98: about to run
+2018-11-05 14:59:33.198 out.exec[10156:221389] id 98: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidRecognizePhrases
+2018-11-05 14:59:33.206 out.exec[10156:221389] id 99: about to run
+2018-11-05 14:59:33.207 out.exec[10156:221389] id 99: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidRecognizeTokens
+2018-11-05 14:59:33.209 out.exec[10156:221392] id 98: Connection Terminated
+2018-11-05 14:59:33.216 out.exec[10156:221389] id 100: about to run
+2018-11-05 14:59:33.216 out.exec[10156:221389] id 100: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecognizedPartialResult
+2018-11-05 14:59:33.217 out.exec[10156:221392] id 99: Connection Terminated
+2018-11-05 14:59:33.225 out.exec[10156:221389] id 101: about to run
+2018-11-05 14:59:33.226 out.exec[10156:221389] id 101: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecognitionDidFail
+2018-11-05 14:59:33.226 out.exec[10156:221392] id 100: Connection Terminated
+2018-11-05 14:59:33.234 out.exec[10156:221389] id 102: about to run
+2018-11-05 14:59:33.235 out.exec[10156:221389] id 102: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecognized
+2018-11-05 14:59:33.236 out.exec[10156:221392] id 101: Connection Terminated
+2018-11-05 14:59:33.244 out.exec[10156:221389] id 103: about to run
+2018-11-05 14:59:33.244 out.exec[10156:221389] id 103: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidFail
+2018-11-05 14:59:33.245 out.exec[10156:221392] id 102: Connection Terminated
+2018-11-05 14:59:33.253 out.exec[10156:221389] id 104: about to run
+2018-11-05 14:59:33.255 out.exec[10156:221392] id 103: Connection Terminated
+2018-11-05 14:59:33.254 out.exec[10156:221389] id 104: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidCancelWithSessionUUID
+2018-11-05 14:59:33.262 out.exec[10156:221389] id 105: about to run
+2018-11-05 14:59:33.263 out.exec[10156:221389] id 105: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidEndWithSessionUUID
+2018-11-05 14:59:33.264 out.exec[10156:221392] id 104: Connection Terminated
+2018-11-05 14:59:33.272 out.exec[10156:221389] id 106: about to run
+2018-11-05 14:59:33.272 out.exec[10156:221389] id 106: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidChangeAVRecordRoute
+2018-11-05 14:59:33.273 out.exec[10156:221392] id 105: Connection Terminated
+2018-11-05 14:59:33.281 out.exec[10156:221389] id 107: about to run
+2018-11-05 14:59:33.281 out.exec[10156:221389] id 107: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidBeginOnAVRecordRoute
+2018-11-05 14:59:33.282 out.exec[10156:221392] id 106: Connection Terminated
+2018-11-05 14:59:33.290 out.exec[10156:221389] id 108: about to run
+2018-11-05 14:59:33.291 out.exec[10156:221389] id 108: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingWillBeginWithInputAudioPowerXPCWrapper
+2018-11-05 14:59:33.293 out.exec[10156:221392] id 107: Connection Terminated
+2018-11-05 14:59:33.300 out.exec[10156:221389] id 109: about to run
+2018-11-05 14:59:33.300 out.exec[10156:221389] id 109: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidRecognizePhrases
+2018-11-05 14:59:33.301 out.exec[10156:221392] id 108: Connection Terminated
+2018-11-05 14:59:33.309 out.exec[10156:221389] id 110: about to run
+2018-11-05 14:59:33.309 out.exec[10156:221389] id 110: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecognitionWillBeginRecognitionUpdateForTask
+2018-11-05 14:59:33.310 out.exec[10156:221392] id 109: Connection Terminated
+2018-11-05 14:59:33.319 out.exec[10156:221389] id 111: about to run
+2018-11-05 14:59:33.321 out.exec[10156:221392] id 110: Connection Terminated
+2018-11-05 14:59:33.320 out.exec[10156:221389] id 111: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecognitionDidFinishUpdateWithError
+2018-11-05 14:59:33.329 out.exec[10156:221389] id 112: about to run
+2018-11-05 14:59:33.330 out.exec[10156:221389] id 112: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingPerformTwoShotPromptWithType
+2018-11-05 14:59:33.331 out.exec[10156:221392] id 111: Connection Terminated
+2018-11-05 14:59:33.338 out.exec[10156:221389] id 112: Invocation has a completion handler
+2018-11-05 14:59:33.341 out.exec[10156:221392] id 112: Connection Terminated
+2018-11-05 14:59:33.340 out.exec[10156:221389] id 113: about to run
+2018-11-05 14:59:33.341 out.exec[10156:221389] id 113: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecordingDidDetectStartPointWithSessionUUID
+2018-11-05 14:59:33.351 out.exec[10156:221389] id 114: about to run
+2018-11-05 14:59:33.352 out.exec[10156:221392] id 113: Connection Terminated
+2018-11-05 14:59:33.352 out.exec[10156:221389] id 114: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechDidFindVoiceSearchFinalResult
+2018-11-05 14:59:33.360 out.exec[10156:221389] id 115: about to run
+2018-11-05 14:59:33.361 out.exec[10156:221389] id 115: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechDidFindVoiceSearchPartialResult
+2018-11-05 14:59:33.362 out.exec[10156:221392] id 114: Connection Terminated
+2018-11-05 14:59:33.369 out.exec[10156:221389] id 116: about to run
+2018-11-05 14:59:33.370 out.exec[10156:221389] id 116: MachPort: com.apple.siri.vocabularyupdates Method: adPronunciationRecognized
+2018-11-05 14:59:33.371 out.exec[10156:221392] id 115: Connection Terminated
+2018-11-05 14:59:33.379 out.exec[10156:221389] id 117: about to run
+2018-11-05 14:59:33.380 out.exec[10156:221389] id 117: MachPort: com.apple.siri.vocabularyupdates Method: adAudioFileFinishedWriting
+2018-11-05 14:59:33.381 out.exec[10156:221392] id 116: Connection Terminated
+2018-11-05 14:59:33.388 out.exec[10156:221389] id 118: about to run
+2018-11-05 14:59:33.389 out.exec[10156:221389] id 118: MachPort: com.apple.siri.vocabularyupdates Method: adSpeechRecognizedStructuredResult
+2018-11-05 14:59:33.390 out.exec[10156:221392] id 117: Connection Terminated
+2018-11-05 14:59:33.397 out.exec[10156:221389] id 119: about to run
+2018-11-05 14:59:33.398 out.exec[10156:221389] id 119: MachPort: com.apple.siri.vocabularyupdates Method: acousticFingerprinter
+2018-11-05 14:59:33.399 out.exec[10156:221392] id 118: Connection Terminated
+2018-11-05 14:59:33.406 out.exec[10156:221389] id 120: about to run
+2018-11-05 14:59:33.408 out.exec[10156:221392] id 119: Connection Terminated
+2018-11-05 14:59:33.408 out.exec[10156:221389] id 120: MachPort: com.apple.siri.vocabularyupdates Method: enforcePreviousEndpointHint;
+2018-11-05 14:59:33.416 out.exec[10156:221389] id 121: about to run
+2018-11-05 14:59:33.417 out.exec[10156:221392] id 120: Connection Terminated
+2018-11-05 14:59:33.416 out.exec[10156:221389] id 121: MachPort: com.apple.siri.vocabularyupdates Method: updateEndpointHintForDuration
+2018-11-05 14:59:33.425 out.exec[10156:221389] id 121: Invocation has a completion handler
+2018-11-05 14:59:33.426 out.exec[10156:221392] id 121: Connection Terminated
+2018-11-05 14:59:33.426 out.exec[10156:221389] id 122: about to run
+2018-11-05 14:59:33.427 out.exec[10156:221389] id 122: MachPort: com.apple.siri.vocabularyupdates Method: updateServerEndpointFeatures
+2018-11-05 14:59:33.435 out.exec[10156:221389] id 123: about to run
+2018-11-05 14:59:33.435 out.exec[10156:221389] id 123: MachPort: com.apple.siri.vocabularyupdates Method: playRecordingStartAlert;
+2018-11-05 14:59:33.438 out.exec[10156:221392] id 122: Connection Terminated
+2018-11-05 14:59:33.443 out.exec[10156:221389] id 124: about to run
+2018-11-05 14:59:33.443 out.exec[10156:221389] id 124: MachPort: com.apple.siri.vocabularyupdates Method: getLastStartpointTimestampAndCurrentTime
+2018-11-05 14:59:33.446 out.exec[10156:221392] id 123: Connection Terminated
+2018-11-05 14:59:33.451 out.exec[10156:221389] id 124: Invocation has a completion handler
+2018-11-05 14:59:33.452 out.exec[10156:221389] id 125: about to run
+2018-11-05 14:59:33.452 out.exec[10156:221389] id 125: MachPort: com.apple.siri.vocabularyupdates Method: setIsDriving
+2018-11-05 14:59:33.454 out.exec[10156:221392] id 124: Connection Terminated
+2018-11-05 14:59:33.460 out.exec[10156:221389] id 126: about to run
+2018-11-05 14:59:33.461 out.exec[10156:221389] id 126: MachPort: com.apple.siri.vocabularyupdates Method: forceSuccessAudioAlertOnStop;
+2018-11-05 14:59:33.463 out.exec[10156:221392] id 125: Connection Terminated
+2018-11-05 14:59:33.468 out.exec[10156:221389] id 127: about to run
+2018-11-05 14:59:33.469 out.exec[10156:221389] id 127: MachPort: com.apple.siri.vocabularyupdates Method: setFingerprintingEnabled
+2018-11-05 14:59:33.471 out.exec[10156:221392] id 126: Connection Terminated
+2018-11-05 14:59:33.477 out.exec[10156:221389] id 128: about to run
+2018-11-05 14:59:33.477 out.exec[10156:221389] id 128: MachPort: com.apple.siri.vocabularyupdates Method: cancelSpeechCaptureSuppressingAlert
+2018-11-05 14:59:33.480 out.exec[10156:221392] id 127: Connection Terminated
+2018-11-05 14:59:33.485 out.exec[10156:221389] id 129: about to run
+2018-11-05 14:59:33.485 out.exec[10156:221389] id 129: MachPort: com.apple.siri.vocabularyupdates Method: stopSpeechCaptureForEvent
+2018-11-05 14:59:33.487 out.exec[10156:221392] id 128: Connection Terminated
+2018-11-05 14:59:33.493 out.exec[10156:221389] id 130: about to run
+2018-11-05 14:59:33.494 out.exec[10156:221389] id 130: MachPort: com.apple.siri.vocabularyupdates Method: setFingerprintWasRecognized;
+2018-11-05 14:59:33.496 out.exec[10156:221392] id 129: Connection Terminated
+2018-11-05 14:59:33.502 out.exec[10156:221389] id 131: about to run
+2018-11-05 14:59:33.502 out.exec[10156:221389] id 131: MachPort: com.apple.siri.vocabularyupdates Method: setSpeechWasRecognizedForElapsedTime
+2018-11-05 14:59:33.504 out.exec[10156:221392] id 130: Connection Terminated
+2018-11-05 14:59:33.510 out.exec[10156:221389] id 132: about to run
+2018-11-05 14:59:33.510 out.exec[10156:221389] id 132: MachPort: com.apple.siri.vocabularyupdates Method: setSpeechRequestOptions
+2018-11-05 14:59:33.512 out.exec[10156:221392] id 131: Connection Terminated
+2018-11-05 14:59:33.519 out.exec[10156:221389] id 133: about to run
+2018-11-05 14:59:33.519 out.exec[10156:221389] id 133: MachPort: com.apple.siri.vocabularyupdates Method: setUseAutomaticEndpointing
+2018-11-05 14:59:33.521 out.exec[10156:221392] id 132: Connection Terminated
+2018-11-05 14:59:33.527 out.exec[10156:221389] id 134: about to run
+2018-11-05 14:59:33.528 out.exec[10156:221389] id 134: MachPort: com.apple.siri.vocabularyupdates Method: releaseAudioSession;
+2018-11-05 14:59:33.531 out.exec[10156:221392] id 133: Connection Terminated
+2018-11-05 14:59:33.535 out.exec[10156:221389] id 135: about to run
+2018-11-05 14:59:33.536 out.exec[10156:221389] id 135: MachPort: com.apple.siri.vocabularyupdates Method: setDelegate
+2018-11-05 14:59:33.538 out.exec[10156:221392] id 134: Connection Terminated
+2018-11-05 14:59:33.543 out.exec[10156:221389] id 136: about to run
+2018-11-05 14:59:33.544 out.exec[10156:221389] id 136: MachPort: com.apple.siri.vocabularyupdates Method: initWithQueue
+2018-11-05 14:59:33.546 out.exec[10156:221390] id 135: Connection Terminated
+2018-11-05 14:59:33.552 out.exec[10156:221389] id 136: Invocation Exception: [NSXPCConnection sendInvocation]: Return type of methods sent over this proxy must be 'void' (initWithQueue:)
+2018-11-05 14:59:33.552 out.exec[10156:221389] id 137: about to run
+2018-11-05 14:59:33.553 out.exec[10156:221389] id 137: MachPort: com.apple.siri.vocabularyupdates Method: init;
+2018-11-05 14:59:33.560 out.exec[10156:221389] id 138: about to run
+2018-11-05 14:59:33.560 out.exec[10156:221389] id 138: MachPort: com.apple.siri.vocabularyupdates Method: syncCoordinatorDidReceiveStartSyncCommand
+2018-11-05 14:59:33.568 out.exec[10156:221389] id 139: about to run
+2018-11-05 14:59:33.568 out.exec[10156:221389] id 139: MachPort: com.apple.siri.vocabularyupdates Method: supportsMigrationSync;
+2018-11-05 14:59:33.571 out.exec[10156:221390] id 138: Connection Terminated
+2018-11-05 14:59:33.576 out.exec[10156:221389] id 140: about to run
+2018-11-05 14:59:33.576 out.exec[10156:221389] id 140: MachPort: com.apple.siri.vocabularyupdates Method: syncCoordinatorDidChangeSyncRestriction
+2018-11-05 14:59:33.579 out.exec[10156:221390] id 139: Connection Terminated
+2018-11-05 14:59:33.584 out.exec[10156:221389] id 141: about to run
+2018-11-05 14:59:33.585 out.exec[10156:221389] id 141: MachPort: com.apple.siri.vocabularyupdates Method: syncCoordinator
+2018-11-05 14:59:33.587 out.exec[10156:221390] id 140: Connection Terminated
+2018-11-05 14:59:33.592 out.exec[10156:221389] id 142: about to run
+2018-11-05 14:59:33.592 out.exec[10156:221389] id 142: MachPort: com.apple.siri.vocabularyupdates Method: syncCoordinator
+2018-11-05 14:59:33.595 out.exec[10156:221390] id 141: Connection Terminated
+2018-11-05 14:59:33.600 out.exec[10156:221389] id 143: about to run
+2018-11-05 14:59:33.601 out.exec[10156:221389] id 143: MachPort: com.apple.siri.vocabularyupdates Method: handleRemoteCommand
+2018-11-05 14:59:33.603 out.exec[10156:221390] id 142: Connection Terminated
+2018-11-05 14:59:33.608 out.exec[10156:221389] id 143: Invocation has a completion handler
+2018-11-05 14:59:33.609 out.exec[10156:221389] id 144: about to run
+2018-11-05 14:59:33.609 out.exec[10156:221389] id 144: MachPort: com.apple.siri.vocabularyupdates Method: audioStateAnnouncer
+2018-11-05 14:59:33.611 out.exec[10156:221390] id 143: Connection Terminated
+2018-11-05 14:59:33.617 out.exec[10156:221389] id 145: about to run
+2018-11-05 14:59:33.617 out.exec[10156:221389] id 145: MachPort: com.apple.siri.vocabularyupdates Method: _sendFeedbackToAppPreferencesPredictorForMetricsContext
+2018-11-05 14:59:33.620 out.exec[10156:221390] id 144: Connection Terminated
+2018-11-05 14:59:33.625 out.exec[10156:221389] id 146: about to run
+2018-11-05 14:59:33.625 out.exec[10156:221389] id 146: MachPort: com.apple.siri.vocabularyupdates Method: _refreshAssistantValidation;
+2018-11-05 14:59:33.628 out.exec[10156:221390] id 145: Connection Terminated
+2018-11-05 14:59:33.634 out.exec[10156:221389] id 147: about to run
+2018-11-05 14:59:33.634 out.exec[10156:221389] id 147: MachPort: com.apple.siri.vocabularyupdates Method: _startSpeechWithURL
+2018-11-05 14:59:33.636 out.exec[10156:221390] id 146: Connection Terminated
+2018-11-05 14:59:33.642 out.exec[10156:221389] id 148: about to run
+2018-11-05 14:59:33.642 out.exec[10156:221389] id 148: MachPort: com.apple.siri.vocabularyupdates Method: _requestBarrierWithReply
+2018-11-05 14:59:33.644 out.exec[10156:221390] id 147: Connection Terminated
+2018-11-05 14:59:33.650 out.exec[10156:221389] id 148: Invocation has a completion handler
+2018-11-05 14:59:33.650 out.exec[10156:221389] id 149: about to run
+2018-11-05 14:59:33.650 out.exec[10156:221389] id 149: MachPort: com.apple.siri.vocabularyupdates Method: _barrierWithReply
+2018-11-05 14:59:33.653 out.exec[10156:221390] id 148: Connection Terminated
+2018-11-05 14:59:33.659 out.exec[10156:221389] id 149: Invocation has a completion handler
+2018-11-05 14:59:33.659 out.exec[10156:221389] id 150: about to run
+2018-11-05 14:59:33.659 out.exec[10156:221389] id 150: MachPort: com.apple.siri.vocabularyupdates Method: _clearAssistantInfoForAccountIdentifier
+2018-11-05 14:59:33.662 out.exec[10156:221390] id 149: Connection Terminated
+2018-11-05 14:59:33.667 out.exec[10156:221389] id 151: about to run
+2018-11-05 14:59:33.668 out.exec[10156:221389] id 151: MachPort: com.apple.siri.vocabularyupdates Method: _fetchAppContextForApplicationInfo
+2018-11-05 14:59:33.670 out.exec[10156:221390] id 150: Connection Terminated
+2018-11-05 14:59:33.675 out.exec[10156:221389] id 151: Invocation has a completion handler
+2018-11-05 14:59:33.676 out.exec[10156:221389] id 152: about to run
+2018-11-05 14:59:33.676 out.exec[10156:221389] id 152: MachPort: com.apple.siri.vocabularyupdates Method: _broadcastCommandDictionary
+2018-11-05 14:59:33.678 out.exec[10156:221390] id 151: Connection Terminated
+2018-11-05 14:59:33.684 out.exec[10156:221389] id 153: about to run
+2018-11-05 14:59:33.684 out.exec[10156:221389] id 153: MachPort: com.apple.siri.vocabularyupdates Method: _performTaskCommandDictionary
+2018-11-05 14:59:33.687 out.exec[10156:221390] id 152: Connection Terminated
+2018-11-05 14:59:33.692 out.exec[10156:221389] id 153: Invocation has a completion handler
+2018-11-05 14:59:33.693 out.exec[10156:221389] id 154: about to run
+2018-11-05 14:59:33.693 out.exec[10156:221389] id 154: MachPort: com.apple.siri.vocabularyupdates Method: _performCommandDictionary
+2018-11-05 14:59:33.695 out.exec[10156:221390] id 153: Connection Terminated
+2018-11-05 14:59:33.703 out.exec[10156:221389] id 154: Invocation has a completion handler
+2018-11-05 14:59:33.705 out.exec[10156:221390] id 154: Connection Terminated
+2018-11-05 14:59:33.704 out.exec[10156:221389] id 155: about to run
+2018-11-05 14:59:33.705 out.exec[10156:221389] id 155: MachPort: com.apple.siri.vocabularyupdates Method: _sendLargeData
+2018-11-05 14:59:33.728 out.exec[10156:221389] id 155: Invocation has a completion handler
+2018-11-05 14:59:33.730 out.exec[10156:221390] id 155: Connection Terminated
+2018-11-05 14:59:33.729 out.exec[10156:221389] id 156: about to run
+2018-11-05 14:59:33.730 out.exec[10156:221389] id 156: MachPort: com.apple.siri.vocabularyupdates Method: _pingServiceForIdentifier
+2018-11-05 14:59:33.842 out.exec[10156:221389] id 156: Invocation has a completion handler
+2018-11-05 14:59:33.844 out.exec[10156:221390] id 156: Connection Terminated
+2018-11-05 14:59:33.844 out.exec[10156:221389] id 157: about to run
+2018-11-05 14:59:33.844 out.exec[10156:221389] id 157: MachPort: com.apple.siri.vocabularyupdates Method: _listInstalledServicesWithReply
+2018-11-05 14:59:33.852 out.exec[10156:221389] id 157: Invocation has a completion handler
+2018-11-05 14:59:33.854 out.exec[10156:221390] id 157: Connection Terminated
+2018-11-05 14:59:33.854 out.exec[10156:221389] id 158: about to run
+2018-11-05 14:59:33.854 out.exec[10156:221389] id 158: MachPort: com.apple.siri.vocabularyupdates Method: adviseSessionArbiterToContinueWithPreviousWinner
+2018-11-05 14:59:33.863 out.exec[10156:221389] id 159: about to run
+2018-11-05 14:59:33.864 out.exec[10156:221390] id 158: Connection Terminated
+2018-11-05 14:59:33.864 out.exec[10156:221389] id 159: MachPort: com.apple.siri.vocabularyupdates Method: reportIssueForError
+2018-11-05 14:59:33.872 out.exec[10156:221389] id 160: about to run
+2018-11-05 14:59:33.873 out.exec[10156:221389] id 160: MachPort: com.apple.siri.vocabularyupdates Method: updateSpeechSynthesisRecord
+2018-11-05 14:59:33.875 out.exec[10156:221390] id 159: Connection Terminated
+2018-11-05 14:59:33.882 out.exec[10156:221389] id 161: about to run
+2018-11-05 14:59:33.883 out.exec[10156:221389] id 161: MachPort: com.apple.siri.vocabularyupdates Method: endUpdateOutputAudioPower;
+2018-11-05 14:59:33.883 out.exec[10156:221390] id 160: Connection Terminated
+2018-11-05 14:59:33.891 out.exec[10156:221389] id 162: about to run
+2018-11-05 14:59:33.891 out.exec[10156:221389] id 162: MachPort: com.apple.siri.vocabularyupdates Method: beginUpdateOutputAudioPowerWithReply
+2018-11-05 14:59:33.893 out.exec[10156:221390] id 161: Connection Terminated
+2018-11-05 14:59:33.900 out.exec[10156:221389] id 162: Invocation has a completion handler
+2018-11-05 14:59:33.902 out.exec[10156:221390] id 162: Connection Terminated
+2018-11-05 14:59:33.902 out.exec[10156:221389] id 163: about to run
+2018-11-05 14:59:33.902 out.exec[10156:221389] id 163: MachPort: com.apple.siri.vocabularyupdates Method: stopAllAudioPlaybackRequests
+2018-11-05 14:59:33.911 out.exec[10156:221389] id 164: about to run
+2018-11-05 14:59:33.913 out.exec[10156:221389] id 164: MachPort: com.apple.siri.vocabularyupdates Method: stopAudioPlaybackRequest
+2018-11-05 14:59:33.913 out.exec[10156:221390] id 163: Connection Terminated
+2018-11-05 14:59:33.921 out.exec[10156:221389] id 165: about to run
+2018-11-05 14:59:33.922 out.exec[10156:221389] id 165: MachPort: com.apple.siri.vocabularyupdates Method: startAudioPlaybackRequest
+2018-11-05 14:59:33.922 out.exec[10156:221390] id 164: Connection Terminated
+2018-11-05 14:59:33.930 out.exec[10156:221389] id 165: Invocation has a completion handler
+2018-11-05 14:59:33.932 out.exec[10156:221390] id 165: Connection Terminated
+2018-11-05 14:59:33.931 out.exec[10156:221389] id 166: about to run
+2018-11-05 14:59:33.932 out.exec[10156:221389] id 166: MachPort: com.apple.siri.vocabularyupdates Method: getSerializedCachedObjectsWithIdentifiers
+2018-11-05 14:59:33.940 out.exec[10156:221389] id 166: Invocation has a completion handler
+2018-11-05 14:59:33.941 out.exec[10156:221390] id 166: Connection Terminated
+2018-11-05 14:59:33.941 out.exec[10156:221389] id 167: about to run
+2018-11-05 14:59:33.942 out.exec[10156:221389] id 167: MachPort: com.apple.siri.vocabularyupdates Method: getDeferredObjectsWithIdentifiers
+2018-11-05 14:59:33.950 out.exec[10156:221389] id 167: Invocation has a completion handler
+2018-11-05 14:59:33.951 out.exec[10156:221390] id 167: Connection Terminated
+2018-11-05 14:59:33.951 out.exec[10156:221389] id 168: about to run
+2018-11-05 14:59:33.952 out.exec[10156:221389] id 168: MachPort: com.apple.siri.vocabularyupdates Method: recordCancellationMetrics;
+2018-11-05 14:59:33.961 out.exec[10156:221389] id 169: about to run
+2018-11-05 14:59:33.961 out.exec[10156:221389] id 169: MachPort: com.apple.siri.vocabularyupdates Method: recordFailureMetricsForError
+2018-11-05 14:59:33.963 out.exec[10156:221390] id 168: Connection Terminated
+2018-11-05 14:59:33.971 out.exec[10156:221389] id 170: about to run
+2018-11-05 14:59:33.971 out.exec[10156:221389] id 170: MachPort: com.apple.siri.vocabularyupdates Method: recordSuccessMetrics;
+2018-11-05 14:59:33.972 out.exec[10156:221390] id 169: Connection Terminated
+2018-11-05 14:59:33.980 out.exec[10156:221389] id 171: about to run
+2018-11-05 14:59:33.981 out.exec[10156:221389] id 171: MachPort: com.apple.siri.vocabularyupdates Method: recordUIMetrics
+2018-11-05 14:59:33.982 out.exec[10156:221390] id 170: Connection Terminated
+2018-11-05 14:59:33.990 out.exec[10156:221389] id 172: about to run
+2018-11-05 14:59:33.991 out.exec[10156:221389] id 172: MachPort: com.apple.siri.vocabularyupdates Method: recordRequestMetric
+2018-11-05 14:59:33.992 out.exec[10156:221390] id 171: Connection Terminated
+2018-11-05 14:59:34.001 out.exec[10156:221389] id 173: about to run
+2018-11-05 14:59:34.002 out.exec[10156:221389] id 173: MachPort: com.apple.siri.vocabularyupdates Method: telephonyRequestCompleted;
+2018-11-05 14:59:34.003 out.exec[10156:221390] id 172: Connection Terminated
+2018-11-05 14:59:34.013 out.exec[10156:221390] id 173: Connection Terminated
+2018-11-05 14:59:34.014 out.exec[10156:221389] id 174: about to run
+2018-11-05 14:59:34.014 out.exec[10156:221389] id 174: MachPort: com.apple.siri.vocabularyupdates Method: prepareForPhoneCall;
+2018-11-05 14:59:34.026 out.exec[10156:221390] id 174: Connection Terminated
+2018-11-05 14:59:34.028 out.exec[10156:221389] id 175: about to run
+2018-11-05 14:59:34.028 out.exec[10156:221389] id 175: MachPort: com.apple.siri.vocabularyupdates Method: setAlertContextDirty;
+2018-11-05 14:59:34.036 out.exec[10156:221389] id 176: about to run
+2018-11-05 14:59:34.036 out.exec[10156:221389] id 176: MachPort: com.apple.siri.vocabularyupdates Method: setOverriddenApplicationContext
+2018-11-05 14:59:34.037 out.exec[10156:221390] id 175: Connection Terminated
+2018-11-05 14:59:34.045 out.exec[10156:221389] id 177: about to run
+2018-11-05 14:59:34.046 out.exec[10156:221389] id 177: MachPort: com.apple.siri.vocabularyupdates Method: setApplicationContextForApplicationInfos
+2018-11-05 14:59:34.046 out.exec[10156:221390] id 176: Connection Terminated
+2018-11-05 14:59:34.054 out.exec[10156:221389] id 178: about to run
+2018-11-05 14:59:34.055 out.exec[10156:221389] id 178: MachPort: com.apple.siri.vocabularyupdates Method: setApplicationContext
+2018-11-05 14:59:34.056 out.exec[10156:221390] id 177: Connection Terminated
+2018-11-05 14:59:34.063 out.exec[10156:221389] id 179: about to run
+2018-11-05 14:59:34.064 out.exec[10156:221389] id 179: MachPort: com.apple.siri.vocabularyupdates Method: willSetApplicationContextWithRefId
+2018-11-05 14:59:34.065 out.exec[10156:221390] id 178: Connection Terminated
+2018-11-05 14:59:34.072 out.exec[10156:221389] id 180: about to run
+2018-11-05 14:59:34.073 out.exec[10156:221389] id 180: MachPort: com.apple.siri.vocabularyupdates Method: rollbackClearContext;
+2018-11-05 14:59:34.074 out.exec[10156:221390] id 179: Connection Terminated
+2018-11-05 14:59:34.082 out.exec[10156:221389] id 181: about to run
+2018-11-05 14:59:34.082 out.exec[10156:221389] id 181: MachPort: com.apple.siri.vocabularyupdates Method: clearContext;
+2018-11-05 14:59:34.083 out.exec[10156:221390] id 180: Connection Terminated
+2018-11-05 14:59:34.091 out.exec[10156:221389] id 182: about to run
+2018-11-05 14:59:34.091 out.exec[10156:221389] id 182: MachPort: com.apple.siri.vocabularyupdates Method: performGenericAceCommand
+2018-11-05 14:59:34.094 out.exec[10156:221390] id 181: Connection Terminated
+2018-11-05 14:59:34.099 out.exec[10156:221389] id 182: Invocation has a completion handler
+2018-11-05 14:59:34.100 out.exec[10156:221389] id 183: about to run
+2018-11-05 14:59:34.101 out.exec[10156:221389] id 183: MachPort: com.apple.siri.vocabularyupdates Method: requestStateUpdateWithReply
+2018-11-05 14:59:34.102 out.exec[10156:221390] id 182: Connection Terminated
+2018-11-05 14:59:34.108 out.exec[10156:221389] id 183: Invocation has a completion handler
+2018-11-05 14:59:34.109 out.exec[10156:221389] id 184: about to run
+2018-11-05 14:59:34.109 out.exec[10156:221389] id 184: MachPort: com.apple.siri.vocabularyupdates Method: stopSpeechWithOptions
+2018-11-05 14:59:34.112 out.exec[10156:221390] id 183: Connection Terminated
+2018-11-05 14:59:34.117 out.exec[10156:221389] id 185: about to run
+2018-11-05 14:59:34.117 out.exec[10156:221389] id 185: MachPort: com.apple.siri.vocabularyupdates Method: rollbackRequest;
+2018-11-05 14:59:34.121 out.exec[10156:221390] id 184: Connection Terminated
+2018-11-05 14:59:34.126 out.exec[10156:221389] id 186: about to run
+2018-11-05 14:59:34.127 out.exec[10156:221389] id 186: MachPort: com.apple.siri.vocabularyupdates Method: cancelRequest;
+2018-11-05 14:59:34.129 out.exec[10156:221390] id 185: Connection Terminated
+2018-11-05 14:59:34.135 out.exec[10156:221389] id 187: about to run
+2018-11-05 14:59:34.135 out.exec[10156:221389] id 187: MachPort: com.apple.siri.vocabularyupdates Method: updateSpeechOptions
+2018-11-05 14:59:34.137 out.exec[10156:221390] id 186: Connection Terminated
+2018-11-05 14:59:34.143 out.exec[10156:221389] id 188: about to run
+2018-11-05 14:59:34.143 out.exec[10156:221389] id 188: MachPort: com.apple.siri.vocabularyupdates Method: continuePendingSpeechRequestWithId
+2018-11-05 14:59:34.145 out.exec[10156:221390] id 187: Connection Terminated
+2018-11-05 14:59:34.151 out.exec[10156:221389] id 189: about to run
+2018-11-05 14:59:34.152 out.exec[10156:221389] id 189: MachPort: com.apple.siri.vocabularyupdates Method: startAcousticIDRequestWithOptions
+2018-11-05 14:59:34.154 out.exec[10156:221390] id 188: Connection Terminated
+2018-11-05 14:59:34.159 out.exec[10156:221389] id 189: Invocation has a completion handler
+2018-11-05 14:59:34.160 out.exec[10156:221389] id 190: about to run
+2018-11-05 14:59:34.160 out.exec[10156:221389] id 190: MachPort: com.apple.siri.vocabularyupdates Method: startSpeechPronunciationRequestWithOptions
+2018-11-05 14:59:34.162 out.exec[10156:221390] id 189: Connection Terminated
+2018-11-05 14:59:34.168 out.exec[10156:221389] id 190: Invocation has a completion handler
+2018-11-05 14:59:34.168 out.exec[10156:221389] id 191: about to run
+2018-11-05 14:59:34.169 out.exec[10156:221389] id 191: MachPort: com.apple.siri.vocabularyupdates Method: startRecordingForPendingSpeechRequestWithOptions
+2018-11-05 14:59:34.171 out.exec[10156:221390] id 190: Connection Terminated
+2018-11-05 14:59:34.177 out.exec[10156:221389] id 191: Invocation has a completion handler
+2018-11-05 14:59:34.177 out.exec[10156:221389] id 192: about to run
+2018-11-05 14:59:34.178 out.exec[10156:221389] id 192: MachPort: com.apple.siri.vocabularyupdates Method: startRequestWithInfo
+2018-11-05 14:59:34.180 out.exec[10156:221390] id 191: Connection Terminated
+2018-11-05 14:59:34.186 out.exec[10156:221389] id 192: Invocation has a completion handler
+2018-11-05 14:59:34.186 out.exec[10156:221389] id 193: about to run
+2018-11-05 14:59:34.187 out.exec[10156:221389] id 193: MachPort: com.apple.siri.vocabularyupdates Method: endSession;
+2018-11-05 14:59:34.189 out.exec[10156:221390] id 192: Connection Terminated
+2018-11-05 14:59:34.195 out.exec[10156:221389] id 194: about to run
+2018-11-05 14:59:34.195 out.exec[10156:221389] id 194: MachPort: com.apple.siri.vocabularyupdates Method: didDismissUI;
+2018-11-05 14:59:34.198 out.exec[10156:221390] id 193: Connection Terminated
+2018-11-05 14:59:34.204 out.exec[10156:221389] id 195: about to run
+2018-11-05 14:59:34.205 out.exec[10156:221389] id 195: MachPort: com.apple.siri.vocabularyupdates Method: willPresentUIWithReply
+2018-11-05 14:59:34.207 out.exec[10156:221390] id 194: Connection Terminated
+2018-11-05 14:59:34.212 out.exec[10156:221389] id 195: Invocation has a completion handler
+2018-11-05 14:59:34.213 out.exec[10156:221389] id 196: about to run
+2018-11-05 14:59:34.213 out.exec[10156:221389] id 196: MachPort: com.apple.siri.vocabularyupdates Method: setConfiguration
+2018-11-05 14:59:34.216 out.exec[10156:221390] id 195: Connection Terminated
+2018-11-05 14:59:34.221 out.exec[10156:221389] id 197: about to run
+2018-11-05 14:59:34.221 out.exec[10156:221389] id 197: MachPort: com.apple.siri.vocabularyupdates Method: setCarDNDActive
+2018-11-05 14:59:34.224 out.exec[10156:221390] id 196: Connection Terminated
+2018-11-05 14:59:34.229 out.exec[10156:221389] id 198: about to run
+2018-11-05 14:59:34.231 out.exec[10156:221390] id 197: Connection Terminated
+2018-11-05 14:59:34.230 out.exec[10156:221389] id 198: MachPort: com.apple.siri.vocabularyupdates Method: setIsStark
+2018-11-05 14:59:34.239 out.exec[10156:221389] id 199: about to run
+2018-11-05 14:59:34.240 out.exec[10156:221389] id 199: MachPort: com.apple.siri.vocabularyupdates Method: setLockState
+2018-11-05 14:59:34.240 out.exec[10156:221390] id 198: Connection Terminated
+2018-11-05 14:59:34.248 out.exec[10156:221389] id 200: about to run
+2018-11-05 14:59:34.249 out.exec[10156:221389] id 200: MachPort: com.apple.siri.vocabularyupdates Method: forceAudioSessionInactive;
+2018-11-05 14:59:34.250 out.exec[10156:221390] id 199: Connection Terminated
+2018-11-05 14:59:34.257 out.exec[10156:221389] id 201: about to run
+2018-11-05 14:59:34.258 out.exec[10156:221390] id 200: Connection Terminated
+2018-11-05 14:59:34.259 out.exec[10156:221389] id 201: MachPort: com.apple.siri.vocabularyupdates Method: forceAudioSessionActiveWithCompletion
+2018-11-05 14:59:34.297 out.exec[10156:221389] id 201: Invocation has a completion handler
+2018-11-05 14:59:34.299 out.exec[10156:221390] id 201: Connection Terminated
+2018-11-05 14:59:34.299 out.exec[10156:221389] id 202: about to run
+2018-11-05 14:59:34.300 out.exec[10156:221389] id 202: MachPort: com.apple.siri.vocabularyupdates Method: forceAudioSessionActive;
+2018-11-05 14:59:34.338 out.exec[10156:221389] id 203: about to run
+2018-11-05 14:59:34.339 out.exec[10156:221389] id 203: MachPort: com.apple.siri.vocabularyupdates Method: boostedPreheatWithStyle
+2018-11-05 14:59:34.340 out.exec[10156:221390] id 202: Connection Terminated
+2018-11-05 14:59:34.348 out.exec[10156:221389] id 203: Invocation has a completion handler
+2018-11-05 14:59:34.350 out.exec[10156:221390] id 203: Connection Terminated
+2018-11-05 14:59:34.350 out.exec[10156:221389] id 204: about to run
+2018-11-05 14:59:34.351 out.exec[10156:221389] id 204: MachPort: com.apple.siri.vocabularyupdates Method: preheatWithStyle
+2018-11-05 14:59:34.359 out.exec[10156:221389] id 205: about to run
+2018-11-05 14:59:34.360 out.exec[10156:221389] id 205: MachPort: com.apple.siri.vocabularyupdates Method: requestOfflineDictationSupportForLanguage
+2018-11-05 14:59:34.360 out.exec[10156:221390] id 204: Connection Terminated
+2018-11-05 14:59:34.368 out.exec[10156:221389] id 205: Invocation has a completion handler
+2018-11-05 14:59:34.369 out.exec[10156:221390] id 205: Connection Terminated
+2018-11-05 14:59:34.369 out.exec[10156:221389] id 206: about to run
+2018-11-05 14:59:34.370 out.exec[10156:221389] id 206: MachPort: com.apple.siri.vocabularyupdates Method: getInstalledOfflineLanguagesWithCompletion
+2018-11-05 14:59:34.378 out.exec[10156:221389] id 206: Invocation has a completion handler
+2018-11-05 14:59:34.379 out.exec[10156:221390] id 206: Connection Terminated
+2018-11-05 14:59:34.379 out.exec[10156:221389] id 207: about to run
+2018-11-05 14:59:34.380 out.exec[10156:221389] id 207: MachPort: com.apple.siri.vocabularyupdates Method: _sendEngagementFeedback
+2018-11-05 14:59:34.387 out.exec[10156:221389] id 208: about to run
+2018-11-05 14:59:34.388 out.exec[10156:221389] id 208: MachPort: com.apple.siri.vocabularyupdates Method: _startDictationWithURL
+2018-11-05 14:59:34.389 out.exec[10156:221390] id 207: Connection Terminated
+2018-11-05 14:59:34.397 out.exec[10156:221389] id 209: about to run
+2018-11-05 14:59:34.398 out.exec[10156:221390] id 208: Connection Terminated
+2018-11-05 14:59:34.398 out.exec[10156:221389] id 209: MachPort: com.apple.siri.vocabularyupdates Method: recordFailureMetricsForError
+2018-11-05 14:59:34.406 out.exec[10156:221389] id 210: about to run
+2018-11-05 14:59:34.407 out.exec[10156:221389] id 210: MachPort: com.apple.siri.vocabularyupdates Method: endSession;
+2018-11-05 14:59:34.409 out.exec[10156:221390] id 209: Connection Terminated
+2018-11-05 14:59:34.415 out.exec[10156:221389] id 211: about to run
+2018-11-05 14:59:34.416 out.exec[10156:221389] id 211: MachPort: com.apple.siri.vocabularyupdates Method: preheatWithRecordDeviceIdentifier
+2018-11-05 14:59:34.417 out.exec[10156:221390] id 210: Connection Terminated
+2018-11-05 14:59:34.424 out.exec[10156:221389] id 212: about to run
+2018-11-05 14:59:34.425 out.exec[10156:221389] id 212: MachPort: com.apple.siri.vocabularyupdates Method: preheat;
+2018-11-05 14:59:34.426 out.exec[10156:221390] id 211: Connection Terminated
+2018-11-05 14:59:34.434 out.exec[10156:221389] id 213: about to run
+2018-11-05 14:59:34.435 out.exec[10156:221389] id 213: MachPort: com.apple.siri.vocabularyupdates Method: sendSpeechCorrectionInfo
+2018-11-05 14:59:34.435 out.exec[10156:221390] id 212: Connection Terminated
+2018-11-05 14:59:34.443 out.exec[10156:221389] id 214: about to run
+2018-11-05 14:59:34.445 out.exec[10156:221390] id 213: Connection Terminated
+2018-11-05 14:59:34.444 out.exec[10156:221389] id 214: MachPort: com.apple.siri.vocabularyupdates Method: updateSpeechOptions
+2018-11-05 14:59:34.453 out.exec[10156:221389] id 215: about to run
+2018-11-05 14:59:34.453 out.exec[10156:221389] id 215: MachPort: com.apple.siri.vocabularyupdates Method: addRecordedSpeechSampleData
+2018-11-05 14:59:34.454 out.exec[10156:221390] id 214: Connection Terminated
+2018-11-05 14:59:34.462 out.exec[10156:221389] id 216: about to run
+2018-11-05 14:59:34.463 out.exec[10156:221389] id 216: MachPort: com.apple.siri.vocabularyupdates Method: startRecordedAudioDictationWithOptions
+2018-11-05 14:59:34.464 out.exec[10156:221390] id 215: Connection Terminated
+2018-11-05 14:59:34.471 out.exec[10156:221389] id 217: about to run
+2018-11-05 14:59:34.472 out.exec[10156:221389] id 217: MachPort: com.apple.siri.vocabularyupdates Method: stopSpeechWithOptions
+2018-11-05 14:59:34.473 out.exec[10156:221390] id 216: Connection Terminated
+2018-11-05 14:59:34.480 out.exec[10156:221389] id 218: about to run
+2018-11-05 14:59:34.482 out.exec[10156:221390] id 217: Connection Terminated
+2018-11-05 14:59:34.481 out.exec[10156:221389] id 218: MachPort: com.apple.siri.vocabularyupdates Method: cancelSpeech;
+2018-11-05 14:59:34.490 out.exec[10156:221389] id 219: about to run
+2018-11-05 14:59:34.491 out.exec[10156:221390] id 218: Connection Terminated
+2018-11-05 14:59:34.491 out.exec[10156:221389] id 219: MachPort: com.apple.siri.vocabularyupdates Method: startDictationWithLanguageCode
+2018-11-05 14:59:34.499 out.exec[10156:221389] id 220: about to run
+2018-11-05 14:59:34.500 out.exec[10156:221389] id 220: MachPort: com.apple.siri.vocabularyupdates Method: startRecordingForPendingDictationWithLanguageCode
+2018-11-05 14:59:34.501 out.exec[10156:221390] id 219: Connection Terminated
+2018-11-05 14:59:34.508 out.exec[10156:221389] id 220: Invocation has a completion handler
+2018-11-05 14:59:34.510 out.exec[10156:221390] id 220: Connection Terminated
+2018-11-05 14:59:34.510 out.exec[10156:221389] id 221: about to run
+2018-11-05 14:59:34.511 out.exec[10156:221389] id 221: MachPort: com.apple.siri.vocabularyupdates Method: startRequestActivityWithCompletion
+2018-11-05 14:59:34.519 out.exec[10156:221389] id 221: Invocation has a completion handler

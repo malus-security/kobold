@@ -1,0 +1,40 @@
+void
+NSString
+NSError
+_Bool
+oneway void
+NSDictionary
+NSArray
+NSData
+NSUUID
+unsigned long long
+long long
+NSURL
+UIApplication
+double
+int
+NSNumber
+unsigned int
+NSSet
+IDSService
+NSFileManager
+NSURLSession
+NSXPCListenerEndpoint
+id
+NSDate
+IDSAccount
+DRDragSession
+CSSpeechController
+NSURLRequest
+AFSpeechRequestOptions
+unsigned char
+APSConnection
+NSURLSessionTask
+NSFileHandle
+NDApplication
+MCProfileConnection
+AFAudioPlaybackRequest
+PBItemCollection
+IDSMessageContext
+GKGameSession
+GKCloudPlayer
